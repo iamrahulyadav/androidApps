@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.highlightindianapps.gpsroutefinder.mobile.location.tracker.gps.maps.locator.route.finder.DialogActivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/appBarLayout"
+        android:background="@color/cardview_light_background">
+
+        <include layout="@layout/app_bar_layout" android:id="@+id/dialogpage_toolbar" />
+
+    </android.support.design.widget.AppBarLayout>
+    <fragment
+        android:layout_marginTop="60dp"
+        android:id="@+id/places_search"
+        android:name="com.google.android.gms.location.places.ui.PlaceAutocompleteFragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"/>
+
+    <Button
+        android:id="@+id/search"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/places_search"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="37dp"
+        android:text="Search" />
+
+
+</RelativeLayout>

@@ -1,0 +1,1066 @@
+{
+	"state_code": "S10",
+	"state": "Karnataka",
+	"dist": [{
+		"id": "1",
+		"show": "BELGAUM",
+		"show_v": "ಬೆಳಗಾವಿ",
+		"acs": [{
+			"id": "1",
+			"show": "Nippani",
+			"show_v": "ನಿಪ್ಪಾಣಿ"
+		}, {
+			"id": "2",
+			"show": "Chikkodi-Sadalga",
+			"show_v": "ಚಿಕ್ಕೋಡಿ-ಸದಲಗಾ"
+		}, {
+			"id": "3",
+			"show": "Athani",
+			"show_v": "ಅಥಣಿ"
+		}, {
+			"id": "4",
+			"show": "Kagwad",
+			"show_v": "ಕಾಗವಾಡ"
+		}, {
+			"id": "5",
+			"show": "Kudachi",
+			"show_v": "ಕುಡಚಿ"
+		}, {
+			"id": "6",
+			"show": "Raybag",
+			"show_v": "ರಾಯಭಾಗ"
+		}, {
+			"id": "7",
+			"show": "Hukkeri",
+			"show_v": "ಹುಕ್ಕೇರಿ"
+		}, {
+			"id": "8",
+			"show": "Arabhavi",
+			"show_v": "ಅರಭಾವಿ"
+		}, {
+			"id": "9",
+			"show": "Gokak",
+			"show_v": "ಗೋಕಾಕ"
+		}, {
+			"id": "10",
+			"show": "Yemkanamardi",
+			"show_v": "ಯಮಕನಮರಡಿ"
+		}, {
+			"id": "11",
+			"show": "Belgaum Uttar",
+			"show_v": "ಬೆಳಗಾವಿ ಉತ್ತರ"
+		}, {
+			"id": "12",
+			"show": "Belgaum Dakshin",
+			"show_v": "ಬೆಳಗಾವಿ  ದಕ್ಷಿಣ"
+		}, {
+			"id": "13",
+			"show": "Belgaum Rural",
+			"show_v": "ಬೆಳಗಾವಿ ಗ್ರಾಮಾಂತರ"
+		}, {
+			"id": "14",
+			"show": "Khanapur",
+			"show_v": "ಖಾನಾಪೂರ"
+		}, {
+			"id": "15",
+			"show": "Kittur",
+			"show_v": "ಕಿತ್ತೂರು"
+		}, {
+			"id": "16",
+			"show": "Bailahongal",
+			"show_v": "ಬೈಲಹೊಂಗಲ"
+		}, {
+			"id": "17",
+			"show": "Saundatti Yellamma",
+			"show_v": "ಸವದತ್ತಿ ಯಲ್ಲಮ್ಮ"
+		}, {
+			"id": "18",
+			"show": "Ramdurg",
+			"show_v": "ರಾಮದುರ್ಗ"
+		}]
+	}, {
+		"id": "2",
+		"show": "BAGALKOT",
+		"show_v": "ಬಾಗಲಕೋಟೆ",
+		"acs": [{
+			"id": "19",
+			"show": "Mudhol",
+			"show_v": "ಮುಧೋಳ"
+		}, {
+			"id": "20",
+			"show": "Terdal",
+			"show_v": "ತೇರದಾಳ"
+		}, {
+			"id": "21",
+			"show": "Jamkhandi",
+			"show_v": "ಜಮಖಂಡಿ"
+		}, {
+			"id": "22",
+			"show": "Bilgi",
+			"show_v": "ಬೀಳಗಿ"
+		}, {
+			"id": "23",
+			"show": "Badami",
+			"show_v": "ಬಾದಾಮಿ"
+		}, {
+			"id": "24",
+			"show": "Bagalkot",
+			"show_v": "ಬಾಗಲಕೋಟೆ"
+		}, {
+			"id": "25",
+			"show": "Hungund",
+			"show_v": "ಹುನಗುಂದ"
+		}]
+	}, {
+		"id": "3",
+		"show": "BIJAPUR",
+		"show_v": "ವಿಜಾಪೂರ",
+		"acs": [{
+			"id": "26",
+			"show": "Muddebihal",
+			"show_v": "ಮುದ್ದೇಬಿಹಾಳ"
+		}, {
+			"id": "27",
+			"show": "Devara Hippargi",
+			"show_v": "ದೇವರ ಹಿಪ್ಪರಗಿ"
+		}, {
+			"id": "28",
+			"show": "Basavana  Bagevadi",
+			"show_v": "ಬಸವನ ಬಾಗೇವಾಡಿ"
+		}, {
+			"id": "29",
+			"show": "Babaleshwar",
+			"show_v": "ಬಬಲೇಶ್ವರ್‌"
+		}, {
+			"id": "30",
+			"show": "Bijapur City",
+			"show_v": "ವಿಜಾಪೂರ ನಗರ"
+		}, {
+			"id": "31",
+			"show": "Nagthan",
+			"show_v": "ನಾಗಠಾಣ"
+		}, {
+			"id": "32",
+			"show": "Indi",
+			"show_v": "ಇಂಡಿ"
+		}, {
+			"id": "33",
+			"show": "Sindgi",
+			"show_v": "ಸಿಂಧಗಿ"
+		}]
+	}, {
+		"id": "4",
+		"show": "GULBARGA",
+		"show_v": "ಗುಲಬರ್ಗಾ",
+		"acs": [{
+			"id": "34",
+			"show": "Afzalpur",
+			"show_v": "ಅಫಜಲಪೂರ"
+		}, {
+			"id": "35",
+			"show": "Jevargi",
+			"show_v": "ಜೇವರ್ಗಿ"
+		}, {
+			"id": "40",
+			"show": "Chittapur",
+			"show_v": "ಚಿತ್ತಾಪೂರ"
+		}, {
+			"id": "41",
+			"show": "Sedam",
+			"show_v": "ಸೇಡಂ"
+		}, {
+			"id": "42",
+			"show": "Chincholi",
+			"show_v": "ಚಿಂಚೋಳಿ"
+		}, {
+			"id": "43",
+			"show": "Gulbarga Rural",
+			"show_v": "ಗುಲಬರ್ಗಾ ಗ್ರಾಮಾಂತರ"
+		}, {
+			"id": "44",
+			"show": "Gulbarga Dakshin",
+			"show_v": "ಗುಲಬರ್ಗಾ ದಕ್ಷಿಣ"
+		}, {
+			"id": "45",
+			"show": "Gulbarga Uttar",
+			"show_v": "ಗುಲಬರ್ಗಾ ಉತ್ತರ"
+		}, {
+			"id": "46",
+			"show": "Aland",
+			"show_v": "ಅಳಂದ"
+		}]
+	}, {
+		"id": "5",
+		"show": "BIDAR",
+		"show_v": "ಬೀದರ್‌",
+		"acs": [{
+			"id": "47",
+			"show": "Basavakalyan",
+			"show_v": "ಬಸವಕಲ್ಯಾಣ"
+		}, {
+			"id": "48",
+			"show": "Humnabad",
+			"show_v": "ಹುಮನಾಬಾದ"
+		}, {
+			"id": "49",
+			"show": "Bidar South",
+			"show_v": "ಬೀದರ್‌ ದಕ್ಷಿಣ"
+		}, {
+			"id": "50",
+			"show": "Bidar",
+			"show_v": "ಬೀದರ್‌"
+		}, {
+			"id": "51",
+			"show": "Bhalki",
+			"show_v": "ಭಾಲ್ಕಿ"
+		}, {
+			"id": "52",
+			"show": "Aurad",
+			"show_v": "ಔರಾದ"
+		}]
+	}, {
+		"id": "6",
+		"show": "RAICHUR",
+		"show_v": "ರಾಯಚೂರು",
+		"acs": [{
+			"id": "53",
+			"show": "Raichur Rural",
+			"show_v": "ರಾಯಚೂರು ಗ್ರಾಮಾಂತರ"
+		}, {
+			"id": "54",
+			"show": "Raichur",
+			"show_v": "ರಾಯಚೂರು"
+		}, {
+			"id": "55",
+			"show": "Manvi",
+			"show_v": "ಮಾನ್ವಿ"
+		}, {
+			"id": "56",
+			"show": "Devadurga",
+			"show_v": "ದೇವದುರ್ಗ"
+		}, {
+			"id": "57",
+			"show": "Lingsugur",
+			"show_v": "ಲಿಂಗಸುಗೂರು"
+		}, {
+			"id": "58",
+			"show": "Sindhanur",
+			"show_v": "ಸಿಂಧನೂರು"
+		}, {
+			"id": "59",
+			"show": "Maski",
+			"show_v": "ಮಸ್ಕಿ"
+		}]
+	}, {
+		"id": "7",
+		"show": "KOPPAL",
+		"show_v": "ಕೊಪ್ಪಳ",
+		"acs": [{
+			"id": "60",
+			"show": "Kushtagi",
+			"show_v": "ಕುಷ್ಟಗಿ"
+		}, {
+			"id": "61",
+			"show": "Kanakagiri",
+			"show_v": "ಕನಕಗಿರಿ"
+		}, {
+			"id": "62",
+			"show": "Gangavathi",
+			"show_v": "ಗಂಗಾವತಿ"
+		}, {
+			"id": "63",
+			"show": "Yelburga",
+			"show_v": "ಯಲಬುರ್ಗಾ"
+		}, {
+			"id": "64",
+			"show": "Koppal",
+			"show_v": "ಕೊಪ್ಪಳ"
+		}]
+	}, {
+		"id": "8",
+		"show": "GADAG",
+		"show_v": "ಗದಗ",
+		"acs": [{
+			"id": "65",
+			"show": "Shirahatti",
+			"show_v": "ಶಿರಹಟ್ಟಿ"
+		}, {
+			"id": "66",
+			"show": "Gadag",
+			"show_v": "ಗದಗ"
+		}, {
+			"id": "67",
+			"show": "Ron",
+			"show_v": "ರೋಣ"
+		}, {
+			"id": "68",
+			"show": "Nargund",
+			"show_v": "ನರಗುಂದ"
+		}]
+	}, {
+		"id": "9",
+		"show": "DHARWAD                                           ",
+		"show_v": "ಧಾರವಾಡ",
+		"acs": [{
+			"id": "69",
+			"show": "Navalgund",
+			"show_v": "ನವಲಗುಂದ"
+		}, {
+			"id": "70",
+			"show": "Kundgol",
+			"show_v": "ಕುಂದಗೋಳ"
+		}, {
+			"id": "71",
+			"show": "Dharwad",
+			"show_v": "ಧಾರವಾಡ"
+		}, {
+			"id": "72",
+			"show": "Hubli-Dharwad-East",
+			"show_v": "ಹುಬ್ಬಳ್ಳಿ - ಧಾರವಾಡ -ಪೂರ್ವ"
+		}, {
+			"id": "73",
+			"show": "Hubli-Dharwad-Central",
+			"show_v": "ಹುಬ್ಬಳ್ಳಿ-ಧಾರವಾಡ ಕೇಂದ್ರ"
+		}, {
+			"id": "74",
+			"show": "Hubli-Dharwad-West",
+			"show_v": "ಹುಬ್ಬಳ್ಳಿ-ಧಾರವಾಡ-ಪಶ್ಚಿಮ"
+		}, {
+			"id": "75",
+			"show": "Kalaghatgi",
+			"show_v": "ಕಲಘಟಗಿ"
+		}]
+	}, {
+		"id": "10",
+		"show": "UTTARA KANNADA",
+		"show_v": "ಉತ್ತರ ಕನ್ನಡ",
+		"acs": [{
+			"id": "76",
+			"show": "Haliyal",
+			"show_v": "ಹಳಿಯಾಳ"
+		}, {
+			"id": "77",
+			"show": "Karwar",
+			"show_v": "ಕಾರವಾರ"
+		}, {
+			"id": "78",
+			"show": "Kumta",
+			"show_v": "ಕುಮಟಾ"
+		}, {
+			"id": "79",
+			"show": "Bhatkal",
+			"show_v": "ಭಟ್ಕಳ"
+		}, {
+			"id": "80",
+			"show": "Sirsi",
+			"show_v": "ಸಿರ್ಸಿ"
+		}, {
+			"id": "81",
+			"show": "Yellapur",
+			"show_v": "ಯಲ್ಲಾಪುರ"
+		}]
+	}, {
+		"id": "11",
+		"show": "HAVERI",
+		"show_v": "ಹಾವೇರಿ",
+		"acs": [{
+			"id": "82",
+			"show": "Hangal",
+			"show_v": "ಹಾನಗಲ್"
+		}, {
+			"id": "83",
+			"show": "Shiggaon",
+			"show_v": "ಶಿಗ್ಗಾಂವ"
+		}, {
+			"id": "84",
+			"show": "Haveri",
+			"show_v": "ಹಾವೇರಿ"
+		}, {
+			"id": "85",
+			"show": "Byadgi",
+			"show_v": "ಬ್ಯಾಡಗಿ"
+		}, {
+			"id": "86",
+			"show": "Hirekerur",
+			"show_v": "ಹಿರೇಕೆರೂರು"
+		}, {
+			"id": "87",
+			"show": "Ranebennur",
+			"show_v": "ರಾಣೆಬೆನ್ನೂರು"
+		}]
+	}, {
+		"id": "12",
+		"show": "BELLARY",
+		"show_v": "ಬಳ್ಳಾರಿ",
+		"acs": [{
+			"id": "88",
+			"show": "Hadagali",
+			"show_v": "ಹಡಗಲಿ"
+		}, {
+			"id": "89",
+			"show": "Hagaribommanahalli",
+			"show_v": "ಹಗರಿಬೊಮ್ಮನಹಳ್ಳಿ"
+		}, {
+			"id": "90",
+			"show": "Vijayanagara",
+			"show_v": "ವಿಜಯನಗರ"
+		}, {
+			"id": "91",
+			"show": "Kampli",
+			"show_v": "ಕಂಪ್ಲಿ"
+		}, {
+			"id": "92",
+			"show": "Siraguppa",
+			"show_v": "ಸಿರುಗುಪ್ಪ"
+		}, {
+			"id": "93",
+			"show": "Bellary",
+			"show_v": "ಬಳ್ಳಾರಿ"
+		}, {
+			"id": "94",
+			"show": "Bellary City",
+			"show_v": "ಬಳ್ಳಾರಿ ನಗರ"
+		}, {
+			"id": "95",
+			"show": "Sandur",
+			"show_v": "ಸಂಡೂರು"
+		}, {
+			"id": "96",
+			"show": "Kudligi",
+			"show_v": "ಕೂಡ್ಲಿಗಿ"
+		}]
+	}, {
+		"id": "13",
+		"show": "CHITRADURGA",
+		"show_v": "ಚಿತ್ರದುರ್ಗ",
+		"acs": [{
+			"id": "97",
+			"show": "Molakalmuru",
+			"show_v": "ಮೊಳಕಾಲ್ಮೂರು"
+		}, {
+			"id": "98",
+			"show": "Challakere",
+			"show_v": "ಚಳ್ಳಕೆರೆ"
+		}, {
+			"id": "99",
+			"show": "Chitradurga",
+			"show_v": "ಚಿತ್ರದುರ್ಗ"
+		}, {
+			"id": "100",
+			"show": "Hiriyur",
+			"show_v": "ಹಿರಿಯೂರು"
+		}, {
+			"id": "101",
+			"show": "Hosadurga",
+			"show_v": "ಹೊಸದುರ್ಗ"
+		}, {
+			"id": "102",
+			"show": "Holalkere",
+			"show_v": "ಹೊಳಲ್ಕೆರೆ"
+		}]
+	}, {
+		"id": "14",
+		"show": "DAVANAGERE",
+		"show_v": "ದಾವಣಗೆರೆ",
+		"acs": [{
+			"id": "103",
+			"show": "Jagalur",
+			"show_v": "ಜಗಳೂರು"
+		}, {
+			"id": "104",
+			"show": "Harapanahalli",
+			"show_v": "ಹರಪನಹಳ್ಳಿ"
+		}, {
+			"id": "105",
+			"show": "Harihar",
+			"show_v": "ಹರಿಹರ"
+		}, {
+			"id": "106",
+			"show": "Davanagere North",
+			"show_v": "ದಾವಣಗೆರೆ ಉತ್ತರ"
+		}, {
+			"id": "107",
+			"show": "Davanagere South",
+			"show_v": "ದಾವಣಗೆರೆ ದಕ್ಷಿಣ"
+		}, {
+			"id": "108",
+			"show": "Mayakonda",
+			"show_v": "ಮಾಯಕೊಂಡ"
+		}, {
+			"id": "109",
+			"show": "Channagiri",
+			"show_v": "ಚನ್ನಗಿರಿ"
+		}, {
+			"id": "110",
+			"show": "Honnali",
+			"show_v": "ಹೊನ್ನಾಳಿ"
+		}]
+	}, {
+		"id": "15",
+		"show": "SHIMOGA",
+		"show_v": "ಶಿವಮೊಗ್ಗ",
+		"acs": [{
+			"id": "111",
+			"show": "Shimoga Rural",
+			"show_v": "ಶಿವಮೊಗ್ಗ ಗ್ರಾಮಾಂತರ"
+		}, {
+			"id": "112",
+			"show": "Bhadravathi",
+			"show_v": "ಭದ್ರಾವತಿ"
+		}, {
+			"id": "113",
+			"show": "Shimoga",
+			"show_v": "ಶಿವಮೊಗ್ಗ"
+		}, {
+			"id": "114",
+			"show": "Tirthahalli",
+			"show_v": "ತೀರ್ಥಹಳ್ಳಿ"
+		}, {
+			"id": "115",
+			"show": "Shikaripura",
+			"show_v": "ಶಿಕಾರಿಪುರ"
+		}, {
+			"id": "116",
+			"show": "Sorab",
+			"show_v": "ಸೊರಬ"
+		}, {
+			"id": "117",
+			"show": "Sagar",
+			"show_v": "ಸಾಗರ"
+		}]
+	}, {
+		"id": "16",
+		"show": "UDUPI",
+		"show_v": "ಉಡುಪಿ",
+		"acs": [{
+			"id": "118",
+			"show": "Baindur",
+			"show_v": "ಬೈಂದೂರು"
+		}, {
+			"id": "119",
+			"show": "Kundapur",
+			"show_v": "ಕುಂದಾಪುರ"
+		}, {
+			"id": "120",
+			"show": "Udupi",
+			"show_v": "ಉಡುಪಿ"
+		}, {
+			"id": "121",
+			"show": "Kaup",
+			"show_v": "ಕಾಪು"
+		}, {
+			"id": "122",
+			"show": "Karkala",
+			"show_v": "ಕಾರ್ಕಳ"
+		}]
+	}, {
+		"id": "17",
+		"show": "CHIKKMAGALUR",
+		"show_v": "ಚಿಕ್ಕಮಗಳೂರು",
+		"acs": [{
+			"id": "123",
+			"show": "Sringeri",
+			"show_v": "ಶೃಂಗೇರಿ"
+		}, {
+			"id": "124",
+			"show": "Mudigere",
+			"show_v": "ಮೂಡಿಗೆರೆ"
+		}, {
+			"id": "125",
+			"show": "Chickamagalur",
+			"show_v": "ಚಿಕ್ಕಮಗಳೂರು"
+		}, {
+			"id": "126",
+			"show": "Tarikere",
+			"show_v": "ತರೀಕೆರೆ"
+		}, {
+			"id": "127",
+			"show": "Kadur",
+			"show_v": "ಕಡೂರು"
+		}]
+	}, {
+		"id": "18",
+		"show": "TUMKUR",
+		"show_v": "ತುಮಕೂರು",
+		"acs": [{
+			"id": "128",
+			"show": "Chikknayakanhalli",
+			"show_v": "ಚಿಕ್ಕನಾಯಕನಹಳ್ಳಿ"
+		}, {
+			"id": "129",
+			"show": "Tiptur",
+			"show_v": "ತಿಪಟೂರು"
+		}, {
+			"id": "130",
+			"show": "Turuvekere",
+			"show_v": "ತುರುವೇಕೆರೆ"
+		}, {
+			"id": "131",
+			"show": "Kunigal",
+			"show_v": "ಕುಣಿಗಲ್‌"
+		}, {
+			"id": "132",
+			"show": "Tumkur City",
+			"show_v": "ತುಮಕೂರು ನಗರ"
+		}, {
+			"id": "133",
+			"show": "Tumkur Rural",
+			"show_v": "ತುಮಕೂರು ಗ್ರಾಮಾಂತರ"
+		}, {
+			"id": "134",
+			"show": "Koratagere",
+			"show_v": "ಕೊರಟಗೆರೆ"
+		}, {
+			"id": "135",
+			"show": "Gubbi",
+			"show_v": "ಗುಬ್ಬಿ"
+		}, {
+			"id": "136",
+			"show": "Sira",
+			"show_v": "ಶಿರಾ"
+		}, {
+			"id": "137",
+			"show": "Pavagada",
+			"show_v": "ಪಾವಗಡ"
+		}, {
+			"id": "138",
+			"show": "Madhugiri",
+			"show_v": "ಮಧುಗಿರಿ"
+		}]
+	}, {
+		"id": "19",
+		"show": "CHICKABALLAPUR                                    ",
+		"show_v": "ಚಿಕ್ಕಬಳ್ಳಾಪುರ",
+		"acs": [{
+			"id": "139",
+			"show": "Gauribidanur",
+			"show_v": "ಗೌರಿಬಿದನೂರು"
+		}, {
+			"id": "140",
+			"show": "Bagepalli",
+			"show_v": "ಬಾಗೇಪಲ್ಲಿ"
+		}, {
+			"id": "141",
+			"show": "Chikkaballapur",
+			"show_v": "ಚಿಕ್ಕಬಳ್ಳಾಪುರ"
+		}, {
+			"id": "142",
+			"show": "Sidlaghatta",
+			"show_v": "ಶಿಡ್ಲಘಟ್ಟ"
+		}, {
+			"id": "143",
+			"show": "Chintamani",
+			"show_v": "ಚಿಂತಾಮಣಿ"
+		}]
+	}, {
+		"id": "20",
+		"show": "KOLAR",
+		"show_v": "ಕೋಲಾರ",
+		"acs": [{
+			"id": "144",
+			"show": "Srinivasapur",
+			"show_v": "ಶ್ರೀನಿವಾಸಪುರ"
+		}, {
+			"id": "145",
+			"show": "Mulbagal",
+			"show_v": "ಮುಳಬಾಗಿಲು"
+		}, {
+			"id": "146",
+			"show": "Kolar Gold Field",
+			"show_v": "ಕೆ.ಜಿ.ಎಫ್‌"
+		}, {
+			"id": "147",
+			"show": "Bangarapet",
+			"show_v": "ಬಂಗಾರಪೇಟೆ"
+		}, {
+			"id": "148",
+			"show": "Kolar",
+			"show_v": "ಕೋಲಾರ"
+		}, {
+			"id": "149",
+			"show": "Malur",
+			"show_v": "ಮಾಲೂರು"
+		}]
+	}, {
+		"id": "22",
+		"show": "BANGALORE RURAL",
+		"show_v": "ಬೆಂಗಳೂರು ಗ್ರಾಮಾಂತರ",
+		"acs": [{
+			"id": "178",
+			"show": "Hosakote",
+			"show_v": "ಹೊಸಕೋಟೆ"
+		}, {
+			"id": "179",
+			"show": "Devanahalli",
+			"show_v": "ದೇವನಹಳ್ಳಿ"
+		}, {
+			"id": "180",
+			"show": "Doddaballapur",
+			"show_v": "ದೊಡ್ಡಬಳ್ಳಾಪುರ"
+		}, {
+			"id": "181",
+			"show": "Nelamangala",
+			"show_v": "ನೆಲಮಂಗಲ"
+		}]
+	}, {
+		"id": "23",
+		"show": "RAMANAGARAM                                       ",
+		"show_v": "ರಾಮನಗರಂ",
+		"acs": [{
+			"id": "182",
+			"show": "Magadi",
+			"show_v": "ಮಾಗಡಿ"
+		}, {
+			"id": "183",
+			"show": "Ramanagaram",
+			"show_v": "ರಾಮನಗರಂ"
+		}, {
+			"id": "184",
+			"show": "Kanakapura",
+			"show_v": "ಕನಕಪುರ"
+		}, {
+			"id": "185",
+			"show": "Channapatna",
+			"show_v": "ಚನ್ನಪಟ್ಟಣ"
+		}]
+	}, {
+		"id": "24",
+		"show": "MANDYA",
+		"show_v": "ಮಂಡ್ಯ",
+		"acs": [{
+			"id": "186",
+			"show": "Malavalli",
+			"show_v": "ಮಳವಳ್ಳಿ"
+		}, {
+			"id": "187",
+			"show": "Maddur",
+			"show_v": "ಮದ್ದೂರು"
+		}, {
+			"id": "188",
+			"show": "Melukote",
+			"show_v": "ಮೇಲುಕೋಟೆ"
+		}, {
+			"id": "189",
+			"show": "Mandya",
+			"show_v": "ಮಂಡ್ಯ"
+		}, {
+			"id": "190",
+			"show": "Shrirangapattana",
+			"show_v": "ಶ್ರೀರಂಗಪಟ್ಟಣ"
+		}, {
+			"id": "191",
+			"show": "Nagamangala",
+			"show_v": "ನಾಗಮಂಗಲ"
+		}, {
+			"id": "192",
+			"show": "Krishnarajpet",
+			"show_v": "ಕೆ.ಆರ್‌ .ಪೇಟೆ"
+		}]
+	}, {
+		"id": "25",
+		"show": "HASSAN",
+		"show_v": "ಹಾಸನ",
+		"acs": [{
+			"id": "193",
+			"show": "Shravanabelagola",
+			"show_v": "ಶ್ರವಣಬೆಳಗೊಳ"
+		}, {
+			"id": "194",
+			"show": "Arsikere",
+			"show_v": "ಅರಸೀಕೆರೆ"
+		}, {
+			"id": "195",
+			"show": "Belur",
+			"show_v": "ಬೇಲೂರು"
+		}, {
+			"id": "196",
+			"show": "Hassan",
+			"show_v": "ಹಾಸನ"
+		}, {
+			"id": "197",
+			"show": "Holenarasipur",
+			"show_v": "ಹೊಳೇನರಸೀಪುರ"
+		}, {
+			"id": "198",
+			"show": "Arakalgud",
+			"show_v": "ಅರಕಲಗೂಡು"
+		}, {
+			"id": "199",
+			"show": "Sakaleshpur",
+			"show_v": "ಸಕಲೇಶಪುರ"
+		}]
+	}, {
+		"id": "26",
+		"show": "DAKSHINA KANNADA",
+		"show_v": "ದಕ್ಷಿಣ ಕನ್ನಡ",
+		"acs": [{
+			"id": "200",
+			"show": "Belthangady",
+			"show_v": "ಬೆಳ್ತಂಗಡಿ"
+		}, {
+			"id": "201",
+			"show": "Moodabidri",
+			"show_v": "ಮೂಡಬಿದ್ರಿ"
+		}, {
+			"id": "202",
+			"show": "Mangalore City North",
+			"show_v": "ಮಂಗಳೂರು ನಗರ ಉತ್ತರ"
+		}, {
+			"id": "203",
+			"show": "Mangalore City South",
+			"show_v": "ಮಂಗಳೂರು ನಗರ ದಕ್ಷಿಣ"
+		}, {
+			"id": "204",
+			"show": "Mangalore",
+			"show_v": "ಮಂಗಳೂರು"
+		}, {
+			"id": "205",
+			"show": "Bantwal",
+			"show_v": "ಬಂಟ್ವಾಳ"
+		}, {
+			"id": "206",
+			"show": "Puttur",
+			"show_v": "ಪುತ್ತೂರು"
+		}, {
+			"id": "207",
+			"show": "Sullia",
+			"show_v": "ಸುಳ್ಯ"
+		}]
+	}, {
+		"id": "27",
+		"show": "KODAGU",
+		"show_v": "ಕೊಡಗು",
+		"acs": [{
+			"id": "208",
+			"show": "Madikeri",
+			"show_v": "ಮಡಿಕೇರಿ"
+		}, {
+			"id": "209",
+			"show": "Virajpet",
+			"show_v": "ವೀರಾಜಪೇಟೆ"
+		}]
+	}, {
+		"id": "28",
+		"show": "MYSORE",
+		"show_v": "ಮೈಸೂರು",
+		"acs": [{
+			"id": "210",
+			"show": "Piriyapatna",
+			"show_v": "ಪಿರಿಯಾಪಟ್ಟಣ"
+		}, {
+			"id": "211",
+			"show": "Krishnarajanagara",
+			"show_v": "ಕೃಷ್ಣರಾಜನಗರ"
+		}, {
+			"id": "212",
+			"show": "Hunsur",
+			"show_v": "ಹುಣಸೂರು"
+		}, {
+			"id": "213",
+			"show": "Heggadadevankote",
+			"show_v": "ಹೆಗ್ಗಡದೇವನಕೋಟೆ"
+		}, {
+			"id": "214",
+			"show": "Nanjangud",
+			"show_v": "ನಂಜನಗೂಡು"
+		}, {
+			"id": "215",
+			"show": "Chamundeshwari",
+			"show_v": "ಚಾಮುಂಡೇಶ್ವರಿ"
+		}, {
+			"id": "216",
+			"show": "Krishnaraja",
+			"show_v": "ಕೃಷ್ಣರಾಜ"
+		}, {
+			"id": "217",
+			"show": "Chamaraja",
+			"show_v": "ಚಾಮರಾಜ"
+		}, {
+			"id": "218",
+			"show": "Narasimharaja",
+			"show_v": "ನರಸಿಂಹರಾಜ"
+		}, {
+			"id": "219",
+			"show": "Varuna",
+			"show_v": "ವರುಣ"
+		}, {
+			"id": "220",
+			"show": "T. Narasipur",
+			"show_v": "ಟಿ.ನರಸೀಪುರ"
+		}]
+	}, {
+		"id": "29",
+		"show": "CHAMARAJNAGAR",
+		"show_v": "ಚಾಮರಾಜನಗರ",
+		"acs": [{
+			"id": "221",
+			"show": "Hanur",
+			"show_v": "ಹನೂರು"
+		}, {
+			"id": "222",
+			"show": "Kollegal",
+			"show_v": "ಕೊಳ್ಳೇಗಾಲ"
+		}, {
+			"id": "223",
+			"show": "Chamarajanagar",
+			"show_v": "ಚಾಮರಾಜನಗರ"
+		}, {
+			"id": "224",
+			"show": "Gundlupet",
+			"show_v": "ಗುಂಡ್ಲುಪೇಟೆ"
+		}]
+	}, {
+		"id": "31",
+		"show": "B.B.M.P (CENTRAL)",
+		"show_v": "ಬಿ.ಬಿ.ಎಂ.ಪಿ ( ಸೆಂಟ್ರಲ್ )",
+		"acs": [{
+			"id": "154",
+			"show": "Rajarajeshwarinagar",
+			"show_v": "ರಾಜರಾಜೇಶ್ವರಿನಗರ"
+		}, {
+			"id": "162",
+			"show": "Shivajinagar",
+			"show_v": "ಶಿವಾಜಿನಗರ"
+		}, {
+			"id": "163",
+			"show": "Shantinagar",
+			"show_v": "ಶಾಂತಿನಗರ"
+		}, {
+			"id": "164",
+			"show": "Gandhinagar",
+			"show_v": "ಗಾಂಧಿನಗರ"
+		}, {
+			"id": "165",
+			"show": "Rajajinagar",
+			"show_v": "ರಾಜಾಜಿನಗರ"
+		}, {
+			"id": "168",
+			"show": "Chamrajapet",
+			"show_v": "ಚಾಮರಾಜಪೇಟೆ"
+		}, {
+			"id": "169",
+			"show": "Chickpet",
+			"show_v": "ಚಿಕ್ಕಪೇಟೆ"
+		}]
+	}, {
+		"id": "32",
+		"show": "B.B.M.P(NORTH)",
+		"show_v": "ಬಿ.ಬಿ.ಎಂ.ಪಿ ( ಉತ್ತರ )",
+		"acs": [{
+			"id": "151",
+			"show": "K.R. Pura",
+			"show_v": "ಕೆ.ಆರ್‌.ಪುರ"
+		}, {
+			"id": "156",
+			"show": "Mahalakshmi Layout",
+			"show_v": "ಮಹಾಲಕ್ಷ್ಮಿ ಬಡಾವಣೆ"
+		}, {
+			"id": "157",
+			"show": "Malleshwaram",
+			"show_v": "ಮಲ್ಲೇಶ್ವರಂ"
+		}, {
+			"id": "158",
+			"show": "Hebbal",
+			"show_v": "ಹೆಬ್ಬಾಳ"
+		}, {
+			"id": "159",
+			"show": "Pulakeshinagar",
+			"show_v": "ಪುಲಕೇಶಿನಗರ"
+		}, {
+			"id": "160",
+			"show": "Sarvagnanagar",
+			"show_v": "ಸರ್ವಜ್ಞ ನಗರ"
+		}, {
+			"id": "161",
+			"show": "C.V. RamannNagar",
+			"show_v": "ಸಿ.ವಿ. ರಾಮನ್‌ ನಗರ"
+		}]
+	}, {
+		"id": "33",
+		"show": "B.B.M.P(SOUTH)",
+		"show_v": "ಬಿ.ಬಿ.ಎಂ.ಪಿ ( ದಕ್ಷಿಣ )",
+		"acs": [{
+			"id": "166",
+			"show": "Govindarajanagar",
+			"show_v": "ಗೋವಿಂದರಾಜ ನಗರ"
+		}, {
+			"id": "167",
+			"show": "Vijayanagar",
+			"show_v": "ವಿಜಯನಗರ"
+		}, {
+			"id": "170",
+			"show": "Basavanagudi",
+			"show_v": "ಬಸವನಗುಡಿ"
+		}, {
+			"id": "171",
+			"show": "Padmanabanagar",
+			"show_v": "ಪದ್ಮನಾಭನಗರ"
+		}, {
+			"id": "172",
+			"show": "B.T.M Layout",
+			"show_v": "ಬಿ.ಟಿ.ಎಂ ಲೇಔಟ್"
+		}, {
+			"id": "173",
+			"show": "Jayanagar",
+			"show_v": "ಜಯನಗರ"
+		}, {
+			"id": "175",
+			"show": "Bommanahalli",
+			"show_v": "ಬೊಮ್ಮನಹಳ್ಳಿ"
+		}]
+	}, {
+		"id": "34",
+		"show": "BANGALORE URBAN",
+		"show_v": "ಬೆಂಗಳೂರು ನಗರ",
+		"acs": [{
+			"id": "150",
+			"show": "Yelahanka",
+			"show_v": "ಯಲಹಂಕ"
+		}, {
+			"id": "152",
+			"show": "Byatarayanapura",
+			"show_v": "ಬ್ಯಾಟರಾಯನಪುರ"
+		}, {
+			"id": "153",
+			"show": "Yeshwanthapura",
+			"show_v": "ಯಶವಂತಪುರ"
+		}, {
+			"id": "155",
+			"show": "Dasarahalli",
+			"show_v": "ದಾಸರಹಳ್ಳಿ"
+		}, {
+			"id": "174",
+			"show": "Mahadevapura",
+			"show_v": "ಮಹದೇವಪುರ"
+		}, {
+			"id": "176",
+			"show": "Bangalore South",
+			"show_v": "ಬೆಂಗಳೂರು ದಕ್ಷಿಣ"
+		}, {
+			"id": "177",
+			"show": "Anekal",
+			"show_v": "ಆನೇಕಲ್‌"
+		}]
+	}, {
+		"id": "35",
+		"show": "YADGIR",
+		"show_v": "ಯಾದಗಿರಿ",
+		"acs": [{
+			"id": "36",
+			"show": "Shorapur",
+			"show_v": "ಶೋರಾಪೂರ"
+		}, {
+			"id": "37",
+			"show": "Shahapur",
+			"show_v": "ಶಹಾಪೂರ"
+		}, {
+			"id": "38",
+			"show": "Yadgir",
+			"show_v": "ಯಾದಗಿರಿ"
+		}, {
+			"id": "39",
+			"show": "Gurmitkal",
+			"show_v": "ಗುರುಮಿಟಕಲ್‌"
+		}]
+	}]
+}

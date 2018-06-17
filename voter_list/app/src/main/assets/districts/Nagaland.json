@@ -1,0 +1,305 @@
+{
+	"state_code": "S17",
+	"state": "Nagaland",
+	"dist": [{
+		"id": "1",
+		"show": "DIMAPUR",
+		"show_v": "DIMAPUR",
+		"acs": [{
+			"id": "1",
+			"show": "DIMAPUR-I",
+			"show_v": "DIMAPUR-I"
+		}, {
+			"id": "2",
+			"show": "DIMAPURII",
+			"show_v": "DIMAPUR-II"
+		}, {
+			"id": "3",
+			"show": "DIMAPUR-III",
+			"show_v": "DIMAPUR-III"
+		}, {
+			"id": "4",
+			"show": "GHASPANI-I",
+			"show_v": "GHASPANI-I"
+		}, {
+			"id": "5",
+			"show": "GHASPANI-II",
+			"show_v": "GHASPANI-II"
+		}]
+	}, {
+		"id": "2",
+		"show": "PEREN",
+		"show_v": "PEREN",
+		"acs": [{
+			"id": "6",
+			"show": "TENNING",
+			"show_v": "TENNING"
+		}, {
+			"id": "7",
+			"show": "PEREN",
+			"show_v": "PEREN"
+		}]
+	}, {
+		"id": "3",
+		"show": "KOHIMA",
+		"show_v": "KOHIMA",
+		"acs": [{
+			"id": "8",
+			"show": "WESTERN ANGAMI",
+			"show_v": "WESTERN ANGAMI"
+		}, {
+			"id": "9",
+			"show": "KOHIMA TOWN",
+			"show_v": "KOHIMA TOWN"
+		}, {
+			"id": "10",
+			"show": "NORTHERN ANGAMI-I",
+			"show_v": "NORTHERN ANGAMI-I"
+		}, {
+			"id": "11",
+			"show": "NORTHERN ANGAMI-II",
+			"show_v": "NORTHERN ANGAMI-II"
+		}, {
+			"id": "12",
+			"show": "TSEMINYU",
+			"show_v": "TSEMINYU"
+		}, {
+			"id": "14",
+			"show": "SOUTHERN ANGAMI-I",
+			"show_v": "SOUTHERN ANGAMI-I"
+		}, {
+			"id": "15",
+			"show": "SOUTHERN ANGAMI-II",
+			"show_v": "SOUTHERN ANGAMI-II"
+		}]
+	}, {
+		"id": "4",
+		"show": "PUGHOBOTO",
+		"show_v": "PUGHOBOTO",
+		"acs": [{
+			"id": "13",
+			"show": "PUGHOBOTO",
+			"show_v": "PUGHOBOTO"
+		}]
+	}, {
+		"id": "5",
+		"show": "PHEK",
+		"show_v": "PHEK",
+		"acs": [{
+			"id": "16",
+			"show": "PFUTSERO",
+			"show_v": "PFUTSERO"
+		}, {
+			"id": "17",
+			"show": "CHIZAMI",
+			"show_v": "CHIZAMI"
+		}, {
+			"id": "18",
+			"show": "CHAZOUBA",
+			"show_v": "CHAZOUBA"
+		}, {
+			"id": "19",
+			"show": "PHEK",
+			"show_v": "PHEK"
+		}, {
+			"id": "20",
+			"show": "MELURI",
+			"show_v": "MELURI"
+		}]
+	}, {
+		"id": "6",
+		"show": "MOKOKCHUNG",
+		"show_v": "MOKOKCHUNG",
+		"acs": [{
+			"id": "21",
+			"show": "TULI",
+			"show_v": "TULI"
+		}, {
+			"id": "22",
+			"show": "ARKAKONG",
+			"show_v": "ARKAKONG"
+		}, {
+			"id": "23",
+			"show": "IMPUR",
+			"show_v": "IMPUR"
+		}, {
+			"id": "24",
+			"show": "ANGETYONGPANG",
+			"show_v": "ANGETYONGPANG"
+		}, {
+			"id": "25",
+			"show": "MONGOYA",
+			"show_v": "MONGOYA"
+		}, {
+			"id": "26",
+			"show": "AONGLENDEN",
+			"show_v": "AONGLENDEN"
+		}, {
+			"id": "27",
+			"show": "MOKOKCHUNG TOWN",
+			"show_v": "MOKOKCHUNG TOWN"
+		}, {
+			"id": "28",
+			"show": "KORIDANG",
+			"show_v": "KORIDANG"
+		}, {
+			"id": "29",
+			"show": "JANGPETKONG",
+			"show_v": "JANGPETKONG"
+		}, {
+			"id": "30",
+			"show": "ALONGTAKI",
+			"show_v": "ALONGTAKI"
+		}]
+	}, {
+		"id": "7",
+		"show": "ZUNHEBOTO",
+		"show_v": "ZUNHEBOTO",
+		"acs": [{
+			"id": "31",
+			"show": "AKULUTO",
+			"show_v": "AKULUTO"
+		}, {
+			"id": "32",
+			"show": "ATOIZU",
+			"show_v": "ATOIZU"
+		}, {
+			"id": "33",
+			"show": "SURUHUTO",
+			"show_v": "SURUHUTO"
+		}, {
+			"id": "34",
+			"show": "AGHUNATO",
+			"show_v": "AGHUNATO"
+		}, {
+			"id": "35",
+			"show": "ZUNHEBOTO",
+			"show_v": "ZUNHEBOTO"
+		}, {
+			"id": "36",
+			"show": "SATAKHA",
+			"show_v": "SATAKHA"
+		}]
+	}, {
+		"id": "8",
+		"show": "WOKHA",
+		"show_v": "WOKHA",
+		"acs": [{
+			"id": "37",
+			"show": "TYUI",
+			"show_v": "TYUI"
+		}, {
+			"id": "38",
+			"show": "WOKHA",
+			"show_v": "WOKHA"
+		}, {
+			"id": "39",
+			"show": "SANIS",
+			"show_v": "SANIS"
+		}, {
+			"id": "40",
+			"show": "BHANDARI",
+			"show_v": "BHANDARI"
+		}]
+	}, {
+		"id": "9",
+		"show": "MON",
+		"show_v": "MON",
+		"acs": [{
+			"id": "41",
+			"show": "TIZIT",
+			"show_v": "TIZIT"
+		}, {
+			"id": "42",
+			"show": "WAKCHING",
+			"show_v": "WAKCHING"
+		}, {
+			"id": "43",
+			"show": "TAPI",
+			"show_v": "TAPI"
+		}, {
+			"id": "44",
+			"show": "PHOMCHING",
+			"show_v": "PHOMCHING"
+		}, {
+			"id": "45",
+			"show": "TEHOK",
+			"show_v": "TEHOK"
+		}, {
+			"id": "46",
+			"show": "MON TOWN",
+			"show_v": "MON TOWN"
+		}, {
+			"id": "47",
+			"show": "ABOI",
+			"show_v": "ABOI"
+		}, {
+			"id": "48",
+			"show": "MOKA",
+			"show_v": "MOKA"
+		}, {
+			"id": "55",
+			"show": "TOBU",
+			"show_v": "TOBU"
+		}]
+	}, {
+		"id": "10",
+		"show": "LONGLENG",
+		"show_v": "LONGLENG",
+		"acs": [{
+			"id": "49",
+			"show": "TAMLU",
+			"show_v": "TAMLU"
+		}, {
+			"id": "50",
+			"show": "LONGLENG",
+			"show_v": "LONGLENG"
+		}]
+	}, {
+		"id": "11",
+		"show": "TUENSANG",
+		"show_v": "TUENSANG",
+		"acs": [{
+			"id": "51",
+			"show": "NOKSEN",
+			"show_v": "NOKSEN"
+		}, {
+			"id": "52",
+			"show": "LONGKHIM CHARE",
+			"show_v": "LONGKHIM CHARE"
+		}, {
+			"id": "53",
+			"show": "TUENSANG SADAR-I",
+			"show_v": "TUENSANG SADAR-I"
+		}, {
+			"id": "54",
+			"show": "TUENSANG SADAR-II",
+			"show_v": "TUENSANG SADAR-II"
+		}, {
+			"id": "56",
+			"show": "NOKLAK",
+			"show_v": "NOKLAK"
+		}, {
+			"id": "57",
+			"show": "THONOKNYU",
+			"show_v": "THONOKNYU"
+		}, {
+			"id": "58",
+			"show": "SHAMATOR CHESSORE",
+			"show_v": "SHAMATOR CHESSORE"
+		}]
+	}, {
+		"id": "12",
+		"show": "KIPHIRE",
+		"show_v": "KIPHIRE",
+		"acs": [{
+			"id": "59",
+			"show": "SEYOCHUNG SITIMI",
+			"show_v": "SEYOCHUNG SITIMI"
+		}, {
+			"id": "60",
+			"show": "PUNGRO KIPHIRE",
+			"show_v": "PUNGRO KIPHIRE"
+		}]
+	}]
+}

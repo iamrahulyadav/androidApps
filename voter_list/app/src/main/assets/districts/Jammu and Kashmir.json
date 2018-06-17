@@ -1,0 +1,463 @@
+{
+	"state_code": "S09",
+	"state": "Jammu and Kashmir",
+	"dist": [{
+		"id": "1",
+		"show": "KUPWARA",
+		"show_v": "کپوارہ",
+		"acs": [{
+			"id": "1",
+			"show": "KARNAH",
+			"show_v": "کرناہ"
+		}, {
+			"id": "2",
+			"show": "KUPWARA",
+			"show_v": "کپوارہ"
+		}, {
+			"id": "3",
+			"show": "LOLAB",
+			"show_v": "لولاب"
+		}, {
+			"id": "4",
+			"show": "HANDWARA",
+			"show_v": "ہندوارہ"
+		}, {
+			"id": "5",
+			"show": "LANGATE",
+			"show_v": "لنگیٹ"
+		}]
+	}, {
+		"id": "2",
+		"show": "BARAMULLA",
+		"show_v": "بارہمولہ",
+		"acs": [{
+			"id": "6",
+			"show": "URI",
+			"show_v": "اُوڑی"
+		}, {
+			"id": "7",
+			"show": "RAFIABAD",
+			"show_v": "رفیع آباد"
+		}, {
+			"id": "8",
+			"show": "SOPORE",
+			"show_v": "سوپور"
+		}, {
+			"id": "12",
+			"show": "SANGRAMA",
+			"show_v": "سنگرامہ"
+		}, {
+			"id": "13",
+			"show": "BARAMULA",
+			"show_v": "بارہمولہ"
+		}, {
+			"id": "14",
+			"show": "GULMARG",
+			"show_v": "گلمرگ"
+		}, {
+			"id": "15",
+			"show": "PATTAN",
+			"show_v": "پٹن"
+		}]
+	}, {
+		"id": "3",
+		"show": "SRINAGAR",
+		"show_v": "سرینگر",
+		"acs": [{
+			"id": "18",
+			"show": "HAZRATBAL",
+			"show_v": "حضرتبل"
+		}, {
+			"id": "19",
+			"show": "ZADIBAL",
+			"show_v": "جڈی بل"
+		}, {
+			"id": "20",
+			"show": "EIDGAH",
+			"show_v": "عیدگاہ"
+		}, {
+			"id": "21",
+			"show": "KHANIYAR",
+			"show_v": "خانیار"
+		}, {
+			"id": "22",
+			"show": "HABBA KADAL",
+			"show_v": "حبہ کدل"
+		}, {
+			"id": "23",
+			"show": "AMIRA KADAL",
+			"show_v": "امیراکدل"
+		}, {
+			"id": "24",
+			"show": "SONAWAR",
+			"show_v": "سونہ وار"
+		}, {
+			"id": "25",
+			"show": "BATAMALOO",
+			"show_v": "بٹہ مالو"
+		}]
+	}, {
+		"id": "4",
+		"show": "BADGAM",
+		"show_v": "بڈگام",
+		"acs": [{
+			"id": "26",
+			"show": "CHADOORA",
+			"show_v": "چاڑورہ"
+		}, {
+			"id": "27",
+			"show": "BADGAM",
+			"show_v": "بڈگام"
+		}, {
+			"id": "28",
+			"show": "BEERWAH",
+			"show_v": "بیروہ"
+		}, {
+			"id": "29",
+			"show": "KHAN SAHEB",
+			"show_v": "خانصاحب"
+		}, {
+			"id": "30",
+			"show": "CHRAR SHARIEF",
+			"show_v": "چرارشریف"
+		}]
+	}, {
+		"id": "5",
+		"show": "PULWAMA",
+		"show_v": "پلوامہ",
+		"acs": [{
+			"id": "31",
+			"show": "TRAL",
+			"show_v": "ترال"
+		}, {
+			"id": "32",
+			"show": "PAMPORE",
+			"show_v": "پانپور"
+		}, {
+			"id": "33",
+			"show": "PULWAMA",
+			"show_v": "پلوامہ"
+		}, {
+			"id": "34",
+			"show": "RAJPURA",
+			"show_v": "راجپورہ"
+		}]
+	}, {
+		"id": "6",
+		"show": "ANANTNAG",
+		"show_v": "اننت ناگ",
+		"acs": [{
+			"id": "40",
+			"show": "ANANTNAG",
+			"show_v": "اننت ناگ"
+		}, {
+			"id": "42",
+			"show": "DORU",
+			"show_v": "ڈورو"
+		}, {
+			"id": "43",
+			"show": "KOKERNAG",
+			"show_v": "کو کرناگ"
+		}, {
+			"id": "44",
+			"show": "SHANGUS",
+			"show_v": "شانگس"
+		}, {
+			"id": "45",
+			"show": "BIJBEHARA",
+			"show_v": "بیجبہاڑہ"
+		}, {
+			"id": "46",
+			"show": "PAHALGAM",
+			"show_v": "پہلگام"
+		}]
+	}, {
+		"id": "7",
+		"show": "LEH",
+		"show_v": "لیہہ",
+		"acs": [{
+			"id": "47",
+			"show": "NUBRA",
+			"show_v": "نوبرہ"
+		}, {
+			"id": "48",
+			"show": "LEH",
+			"show_v": "لیہہ"
+		}]
+	}, {
+		"id": "8",
+		"show": "KARGIL",
+		"show_v": "کرگل",
+		"acs": [{
+			"id": "49",
+			"show": "KARGIL",
+			"show_v": "کرگل"
+		}, {
+			"id": "50",
+			"show": "ZANSKAR",
+			"show_v": "زانسکار"
+		}]
+	}, {
+		"id": "9",
+		"show": "DODA",
+		"show_v": "ڈوڈہ",
+		"acs": [{
+			"id": "53",
+			"show": "DODA",
+			"show_v": "ڈوڈہ"
+		}, {
+			"id": "54",
+			"show": "BHADERWAH",
+			"show_v": "بھدرواہ"
+		}]
+	}, {
+		"id": "10",
+		"show": "UDHAMPUR",
+		"show_v": "اُدھمپور",
+		"acs": [{
+			"id": "60",
+			"show": "UDHAMPUR",
+			"show_v": "اُدھمپور"
+		}, {
+			"id": "61",
+			"show": "CHENANI",
+			"show_v": "چینینی"
+		}, {
+			"id": "62",
+			"show": "RAM NAGAR",
+			"show_v": "رام نگر"
+		}]
+	}, {
+		"id": "11",
+		"show": "KATHUA",
+		"show_v": "کھٹوعہ",
+		"acs": [{
+			"id": "63",
+			"show": "BANI",
+			"show_v": "بنی"
+		}, {
+			"id": "64",
+			"show": "BASOHLI",
+			"show_v": "بسوہلی"
+		}, {
+			"id": "65",
+			"show": "KATHUA",
+			"show_v": "کھٹوعہ"
+		}, {
+			"id": "66",
+			"show": "BILLAWAR",
+			"show_v": "بلاور"
+		}, {
+			"id": "67",
+			"show": "HIRA NAGAR",
+			"show_v": "ہیرانگر"
+		}]
+	}, {
+		"id": "12",
+		"show": "JAMMU",
+		"show_v": "جموں",
+		"acs": [{
+			"id": "70",
+			"show": "NAGROTA",
+			"show_v": "نگروٹہ"
+		}, {
+			"id": "71",
+			"show": "GANDHI NAGAR",
+			"show_v": "گاندھی نگر"
+		}, {
+			"id": "72",
+			"show": "JAMMU EAST",
+			"show_v": "جموں مشرقی"
+		}, {
+			"id": "73",
+			"show": "JAMMU WEST",
+			"show_v": "جموں مغربی"
+		}, {
+			"id": "74",
+			"show": "BISHNAH",
+			"show_v": "بشناہ"
+		}, {
+			"id": "75",
+			"show": "RANBIR SINGH PURA",
+			"show_v": "رنبیر سنگھ پورہ"
+		}, {
+			"id": "76",
+			"show": "SUCHET GARH",
+			"show_v": "سوچیت گڑہ"
+		}, {
+			"id": "77",
+			"show": "MARH",
+			"show_v": "مڑھ"
+		}, {
+			"id": "78",
+			"show": "RAIPUR DOMANA",
+			"show_v": "رائے پوردومانہ"
+		}, {
+			"id": "79",
+			"show": "AKHNOOR",
+			"show_v": "اکھنور"
+		}, {
+			"id": "80",
+			"show": "CHHAMB",
+			"show_v": "چھمب"
+		}]
+	}, {
+		"id": "13",
+		"show": "RAJOURI",
+		"show_v": "راجوری",
+		"acs": [{
+			"id": "81",
+			"show": "NOWSHERA",
+			"show_v": "نوشہرہ"
+		}, {
+			"id": "82",
+			"show": "DARHAL",
+			"show_v": "درہال"
+		}, {
+			"id": "83",
+			"show": "RAJOURI",
+			"show_v": "راجوری"
+		}, {
+			"id": "84",
+			"show": "KALA KOTE",
+			"show_v": "کالاکوٹ"
+		}]
+	}, {
+		"id": "14",
+		"show": "POONCH",
+		"show_v": "پونچھ",
+		"acs": [{
+			"id": "85",
+			"show": "SURAN KOTE",
+			"show_v": "سورن کوٹ"
+		}, {
+			"id": "86",
+			"show": "MENDHAR",
+			"show_v": "مینڈھر"
+		}, {
+			"id": "87",
+			"show": "POONCH HAVELI",
+			"show_v": "پونچھ حویلی"
+		}]
+	}, {
+		"id": "15",
+		"show": "BANDIPORA",
+		"show_v": "بانڈی پورہ",
+		"acs": [{
+			"id": "9",
+			"show": "GUREZ",
+			"show_v": "گریز"
+		}, {
+			"id": "10",
+			"show": "BANDIPUR",
+			"show_v": "بانڈی پورہ"
+		}, {
+			"id": "11",
+			"show": "SONAWARI",
+			"show_v": "سوناواری"
+		}]
+	}, {
+		"id": "16",
+		"show": "GANDERBAL",
+		"show_v": "گاندربل",
+		"acs": [{
+			"id": "16",
+			"show": "KANGAN",
+			"show_v": "کنگن"
+		}, {
+			"id": "17",
+			"show": "GANDERBAL",
+			"show_v": "گاندربل"
+		}]
+	}, {
+		"id": "17",
+		"show": "SHOPIAN",
+		"show_v": "شوپیاں",
+		"acs": [{
+			"id": "35",
+			"show": "WACHI",
+			"show_v": "وچھی"
+		}, {
+			"id": "36",
+			"show": "SHOPIAN",
+			"show_v": "شوپیان"
+		}]
+	}, {
+		"id": "18",
+		"show": "KULGAM",
+		"show_v": "کولگام",
+		"acs": [{
+			"id": "37",
+			"show": "NOORABAD",
+			"show_v": "نورآباد"
+		}, {
+			"id": "38",
+			"show": "KULGAM",
+			"show_v": "کولگام"
+		}, {
+			"id": "39",
+			"show": "HOM SHALI BUGH",
+			"show_v": "ہوم شالی بُگ"
+		}, {
+			"id": "41",
+			"show": "DEVSAR",
+			"show_v": "دیوسر"
+		}]
+	}, {
+		"id": "19",
+		"show": "RAMBAN",
+		"show_v": "رام بن",
+		"acs": [{
+			"id": "55",
+			"show": "RAMBAN",
+			"show_v": "رام بن"
+		}, {
+			"id": "56",
+			"show": "BANIHAL",
+			"show_v": "بانِہال"
+		}]
+	}, {
+		"id": "20",
+		"show": "KISHTWAR",
+		"show_v": "کشتواڑ",
+		"acs": [{
+			"id": "51",
+			"show": "KISHTWAR",
+			"show_v": "کشتواڑ"
+		}, {
+			"id": "52",
+			"show": "INDERWAL",
+			"show_v": "اندروال"
+		}]
+	}, {
+		"id": "21",
+		"show": "REASI",
+		"show_v": "ریاسی",
+		"acs": [{
+			"id": "57",
+			"show": "GULAB GARH",
+			"show_v": "گلاب گڑھ"
+		}, {
+			"id": "58",
+			"show": "REASI",
+			"show_v": "ریاسی"
+		}, {
+			"id": "59",
+			"show": "GOOL ARNAS",
+			"show_v": "گُول ارناس"
+		}]
+	}, {
+		"id": "22",
+		"show": "SAMBA",
+		"show_v": "سامبہ",
+		"acs": [{
+			"id": "68",
+			"show": "SAMBA",
+			"show_v": "سانبہ"
+		}, {
+			"id": "69",
+			"show": "VIJAY PUR",
+			"show_v": "وجے پور"
+		}]
+	}]
+}

@@ -1,0 +1,583 @@
+{
+	"state_code": "S19",
+	"state": "Punjab",
+	"dist": [{
+		"id": "1",
+		"show": "GURDASPUR",
+		"show_v": "ਗੁਰਦਾਸਪੁਰ",
+		"acs": [{
+			"id": "4",
+			"show": "Gurdaspur",
+			"show_v": "ਗੁਰਦਾਸਪਰ"
+		}, {
+			"id": "5",
+			"show": "Dina Nagar",
+			"show_v": "ਦੀਨਾ ਨਗਰ"
+		}, {
+			"id": "6",
+			"show": "Qadian",
+			"show_v": "ਕਾਦੀਆਂ"
+		}, {
+			"id": "7",
+			"show": "Batala",
+			"show_v": "ਬਟਾਲਾ"
+		}, {
+			"id": "8",
+			"show": "Sri Hargobindpur",
+			"show_v": "ਸ਼੍ਰੀ ਹਰਗੋਬਿੰਦਪੁਰ"
+		}, {
+			"id": "9",
+			"show": "Fatehgarh Churian",
+			"show_v": "ਫਤਿਹਗੜ੍ਹ ਚੂੜੀਆਂ"
+		}, {
+			"id": "10",
+			"show": "Dera Baba Nanak",
+			"show_v": "ਡੇਰਾ ਬਾਬਾ ਨਾਨਕ"
+		}]
+	}, {
+		"id": "2",
+		"show": "AMRITSAR",
+		"show_v": "ਅੰਮ੍ਰਿਤਸਰ",
+		"acs": [{
+			"id": "11",
+			"show": "Ajnala",
+			"show_v": "ਅਜਨਾਲਾ"
+		}, {
+			"id": "12",
+			"show": "Raja Sansi",
+			"show_v": "ਰਾਜਾ ਸਾਂਸੀ"
+		}, {
+			"id": "13",
+			"show": "Majitha",
+			"show_v": "ਮਜੀਠਾ"
+		}, {
+			"id": "14",
+			"show": "Jandiala",
+			"show_v": "ਜੰਡਿਆਲਾ"
+		}, {
+			"id": "15",
+			"show": "Amritsar North",
+			"show_v": "ਅੰਮ੍ਰਿਤਸਰ ਉੱਤਰੀ"
+		}, {
+			"id": "16",
+			"show": "Amritsar West",
+			"show_v": "ਅੰਮ੍ਰਿਤਸਰ ਪੱਛਮੀ"
+		}, {
+			"id": "17",
+			"show": "Amritsar Central",
+			"show_v": "ਅੰਮ੍ਰਿਤਸਰ ਕੇਂਦਰੀ"
+		}, {
+			"id": "18",
+			"show": "Amritsar East",
+			"show_v": "ਅੰਮ੍ਰਿਤਸਰ ਪੂਰਬੀ"
+		}, {
+			"id": "19",
+			"show": "Amritsar South",
+			"show_v": "ਅੰਮ੍ਰਿਤਸਰ ਦੱਖਣੀ"
+		}, {
+			"id": "20",
+			"show": "Attari",
+			"show_v": "ਅਟਾਰੀ"
+		}, {
+			"id": "25",
+			"show": "Baba Bakala",
+			"show_v": "ਬਾਬਾ ਬਕਾਲਾ"
+		}]
+	}, {
+		"id": "3",
+		"show": "TARN TARAN",
+		"show_v": "ਤਰਨ ਤਾਰਨ",
+		"acs": [{
+			"id": "21",
+			"show": "Tarn Taran",
+			"show_v": "ਤਰਨਤਾਰਨ"
+		}, {
+			"id": "22",
+			"show": "Khem Karan",
+			"show_v": "ਖੇਮਕਰਨ"
+		}, {
+			"id": "23",
+			"show": "Patti",
+			"show_v": "ਪੱਟੀ"
+		}, {
+			"id": "24",
+			"show": "Khadoor Sahib",
+			"show_v": "ਖਡੂਰ ਸਾਹਿਬ"
+		}]
+	}, {
+		"id": "4",
+		"show": "KAPURTHALA",
+		"show_v": "ਕਪੂਰਥਲਾ",
+		"acs": [{
+			"id": "26",
+			"show": "Bholath",
+			"show_v": "ਭੁੱਲਥ"
+		}, {
+			"id": "27",
+			"show": "Kapurthala",
+			"show_v": "ਕਪੂਰਥਲਾ"
+		}, {
+			"id": "28",
+			"show": "Sultanpur Lodhi",
+			"show_v": "ਸੁਲਤਾਨਪੁਰ ਲੋਧੀ"
+		}, {
+			"id": "29",
+			"show": "Phagwara",
+			"show_v": "ਫਗਵਾੜਾ"
+		}]
+	}, {
+		"id": "5",
+		"show": "JALANDHAR",
+		"show_v": "ਜਲੰਧਰ",
+		"acs": [{
+			"id": "30",
+			"show": "Phillaur",
+			"show_v": "ਫਿਲੌਰ"
+		}, {
+			"id": "31",
+			"show": "Nakodar",
+			"show_v": "ਨਕੋਦਰ"
+		}, {
+			"id": "32",
+			"show": "Shahkot",
+			"show_v": "ਸ਼ਾਹਕੋਟ"
+		}, {
+			"id": "33",
+			"show": "Kartarpur",
+			"show_v": "ਕਰਤਾਰਪੁਰ"
+		}, {
+			"id": "34",
+			"show": "Jalandhar West",
+			"show_v": "ਜਲੰਧਰ ਪੱਛਮੀ"
+		}, {
+			"id": "35",
+			"show": "Jalandhar Central",
+			"show_v": "ਜਲੰਧਰ ਕੇਂਦਰੀ"
+		}, {
+			"id": "36",
+			"show": "Jalandhar North",
+			"show_v": "ਜਲੰਧਰ ਉੱਤਰੀ"
+		}, {
+			"id": "37",
+			"show": "Jalandhar Cantt",
+			"show_v": "ਜਲੰਧਰ ਕੈਂਟ"
+		}, {
+			"id": "38",
+			"show": "Adampur",
+			"show_v": "ਆਦਮਪੁਰ"
+		}]
+	}, {
+		"id": "6",
+		"show": "HOSHIARPUR",
+		"show_v": "ਹੁਸ਼ਿਆਰਪੁਰ",
+		"acs": [{
+			"id": "39",
+			"show": "Mukerian",
+			"show_v": "ਮੁਕੇਰੀਆਂ"
+		}, {
+			"id": "40",
+			"show": "Dasuya",
+			"show_v": "ਦਸੂਹਾ"
+		}, {
+			"id": "41",
+			"show": "Urmar",
+			"show_v": "ਉੜਮੂੜ"
+		}, {
+			"id": "42",
+			"show": "Sham Chaurasi",
+			"show_v": "ਸ਼ਾਮ ਚੁਰਾਸੀ"
+		}, {
+			"id": "43",
+			"show": "Hoshiarpur",
+			"show_v": "ਹੁਸ਼ਿਆਰਪੁਰ"
+		}, {
+			"id": "44",
+			"show": "Chabbewal",
+			"show_v": "ਚੱਬੇਵਾਲ"
+		}, {
+			"id": "45",
+			"show": "Garhshankar",
+			"show_v": "ਗੜ੍ਹਸ਼ੰਕਰ"
+		}]
+	}, {
+		"id": "7",
+		"show": "SHAHID BHAGAT SINGH NAGAR",
+		"show_v": "ਸ਼ਹੀਦ ਭਗਤ ਸਿੰਘ ਨਗਰ",
+		"acs": [{
+			"id": "46",
+			"show": "Banga",
+			"show_v": "ਬੰਗਾ"
+		}, {
+			"id": "47",
+			"show": "Nawan Shahr",
+			"show_v": "ਨਵਾਂ ਸ਼ਹਿਰ"
+		}, {
+			"id": "48",
+			"show": "Balachaur",
+			"show_v": "ਬਲਾਚੌਰ"
+		}]
+	}, {
+		"id": "8",
+		"show": "RUPNAGAR",
+		"show_v": "ਰੂਪਨਗਰ",
+		"acs": [{
+			"id": "49",
+			"show": "Anandpur Sahib",
+			"show_v": "ਅਨੰਦਪੁਰ ਸਾਹਿਬ"
+		}, {
+			"id": "50",
+			"show": "Rupnagar",
+			"show_v": "ਰੂਪਨਗਰ"
+		}, {
+			"id": "51",
+			"show": "Chamkaur Sahib",
+			"show_v": "ਚਮਕੌਰ ਸਾਹਿਬ"
+		}]
+	}, {
+		"id": "9",
+		"show": "SAHIBJADA AJIT SINGH NAGAR",
+		"show_v": "ਸਾਹਿਬਜਾਦਾ ਅਜੀਤ ਸਿੰਘ ਨਗਰ",
+		"acs": [{
+			"id": "52",
+			"show": "Kharar",
+			"show_v": "ਖਰੜ"
+		}, {
+			"id": "53",
+			"show": "S.A.S. Nagar",
+			"show_v": "ਐਸ.ਏ.ਐਸ. ਨਗਰ"
+		}, {
+			"id": "112",
+			"show": "Dera Bassi",
+			"show_v": "ਡੇਰਾ ਬੱਸੀ"
+		}]
+	}, {
+		"id": "10",
+		"show": "FATEHGARH SAHIB",
+		"show_v": "ਫਤਿਹਗੜ੍ਹ ਸਾਹਿਬ",
+		"acs": [{
+			"id": "54",
+			"show": "Bassi Pathana",
+			"show_v": "ਬੱਸੀ ਪਠਾਣਾਂ"
+		}, {
+			"id": "55",
+			"show": "Fatehgarh Sahib",
+			"show_v": "ਫਤਿਹਗੜ੍ਹ ਸਾਹਿਬ"
+		}, {
+			"id": "56",
+			"show": "Amloh",
+			"show_v": "ਅਮਲੋਹ"
+		}]
+	}, {
+		"id": "11",
+		"show": "LUDHIANA",
+		"show_v": "ਲੁਧਿਆਣਾ",
+		"acs": [{
+			"id": "57",
+			"show": "Khanna",
+			"show_v": "ਖੰਨਾ"
+		}, {
+			"id": "58",
+			"show": "Samrala",
+			"show_v": "ਸਮਰਾਲਾ"
+		}, {
+			"id": "59",
+			"show": "Sahnewal",
+			"show_v": "ਸਾਹਨੇਵਾਲ"
+		}, {
+			"id": "60",
+			"show": "Ludhiana East",
+			"show_v": "ਲੁਧਿਆਣਾ ਪੂਰਬੀ"
+		}, {
+			"id": "61",
+			"show": "Ludhiana South",
+			"show_v": "ਲੁਧਿਆਣਾ ਦੱਖਣੀ"
+		}, {
+			"id": "62",
+			"show": "Atam Nagar",
+			"show_v": "ਆਤਮ ਨਗਰ"
+		}, {
+			"id": "63",
+			"show": "Ludhiana Central",
+			"show_v": "ਲੁਧਿਆਣਾ ਕੇਂਦਰੀ"
+		}, {
+			"id": "64",
+			"show": "Ludhiana West",
+			"show_v": "ਲੁਧਿਆਣਾ ਪੱਛਮੀ"
+		}, {
+			"id": "65",
+			"show": "Ludhiana North",
+			"show_v": "ਲੁਧਿਆਣਾ ਉੱਤਰੀ"
+		}, {
+			"id": "66",
+			"show": "Gill",
+			"show_v": "ਗਿੱਲ"
+		}, {
+			"id": "67",
+			"show": "Payal",
+			"show_v": "ਪਾਇਲ"
+		}, {
+			"id": "68",
+			"show": "Dakha",
+			"show_v": "ਦਾਖਾ"
+		}, {
+			"id": "69",
+			"show": "Raikot",
+			"show_v": "ਰਾਏਕੋਟ"
+		}, {
+			"id": "70",
+			"show": "Jagraon",
+			"show_v": "ਜਗਰਾਓ"
+		}]
+	}, {
+		"id": "12",
+		"show": "MOGA",
+		"show_v": "ਮੋਗਾ",
+		"acs": [{
+			"id": "71",
+			"show": "Nihal Singh Wala",
+			"show_v": "ਨਿਹਾਲ ਸਿੰਘ ਵਾਲਾ"
+		}, {
+			"id": "72",
+			"show": "Bhagha Purana",
+			"show_v": "ਬਾਘਾ ਪੁਰਾਣਾ"
+		}, {
+			"id": "73",
+			"show": "Moga",
+			"show_v": "ਮੋਗਾ"
+		}, {
+			"id": "74",
+			"show": "Dharamkot",
+			"show_v": "ਧਰਮਕੋਟ"
+		}]
+	}, {
+		"id": "13",
+		"show": "FEROZEPUR",
+		"show_v": "ਫਿਰੋਜ਼ਪੁਰ",
+		"acs": [{
+			"id": "75",
+			"show": "Zira",
+			"show_v": "ਜੀਰਾ"
+		}, {
+			"id": "76",
+			"show": "Firozpur City",
+			"show_v": "ਫਿਰੋਜ਼ਪੁਰ ਸ਼ਹਿਰ"
+		}, {
+			"id": "77",
+			"show": "Firozpur Rural",
+			"show_v": "ਫਿਰੋਜ਼ਪੁਰ ਦਿਹਾਤੀ"
+		}, {
+			"id": "78",
+			"show": "Guru Har Sahai",
+			"show_v": "ਗੁਰੂ ਹਰ ਸਹਾਏ"
+		}]
+	}, {
+		"id": "14",
+		"show": "SHRI MUKATSAR SAHIB",
+		"show_v": "ਸ਼੍ਰੀ ਮੁਕਤਸਰ ਸਾਹਿਬ",
+		"acs": [{
+			"id": "83",
+			"show": "Lambi",
+			"show_v": "ਲੰਬੀ"
+		}, {
+			"id": "84",
+			"show": "Gidderbaha",
+			"show_v": "ਗਿਦੱੜਬਾਹਾ"
+		}, {
+			"id": "85",
+			"show": "Malout",
+			"show_v": "ਮਲੌਟ"
+		}, {
+			"id": "86",
+			"show": "Muktsar",
+			"show_v": "ਮੁਕਤਸਰ"
+		}]
+	}, {
+		"id": "15",
+		"show": "FARIDKOT",
+		"show_v": "ਫਰੀਦਕੋਟ",
+		"acs": [{
+			"id": "87",
+			"show": "Faridkot",
+			"show_v": "ਫਰੀਦਕੋਟ"
+		}, {
+			"id": "88",
+			"show": "Kotkapura",
+			"show_v": "ਕੋਟਕਪੂਰਾ"
+		}, {
+			"id": "89",
+			"show": "Jaitu",
+			"show_v": "ਜੈਤੋ"
+		}]
+	}, {
+		"id": "16",
+		"show": "BATHINDA",
+		"show_v": "ਬਠਿੰਡਾ",
+		"acs": [{
+			"id": "90",
+			"show": "Rampura Phul",
+			"show_v": "ਰਾਮਪੁਰਾ ਫੂਲ"
+		}, {
+			"id": "91",
+			"show": "Bhucho Mandi",
+			"show_v": "ਭੁੱਚੋ ਮੰਡੀ"
+		}, {
+			"id": "92",
+			"show": "Bathinda Urban",
+			"show_v": "ਬਠਿੰਡਾ ਸ਼ਹਿਰੀ"
+		}, {
+			"id": "93",
+			"show": "Bathinda Rural",
+			"show_v": "ਬਠਿੰਡਾ ਦਿਹਾਤੀ"
+		}, {
+			"id": "94",
+			"show": "Talwandi Sabo",
+			"show_v": "ਤਲਵੰਡੀ ਸਾਬੋ"
+		}, {
+			"id": "95",
+			"show": "Maur",
+			"show_v": "ਮੌੜ"
+		}]
+	}, {
+		"id": "17",
+		"show": "MANSA",
+		"show_v": "ਮਾਨਸਾ",
+		"acs": [{
+			"id": "96",
+			"show": "Mansa",
+			"show_v": "ਮਾਨਸਾ"
+		}, {
+			"id": "97",
+			"show": "Sardulgarh",
+			"show_v": "ਸਰਦੂਲਗੜ੍ਹ"
+		}, {
+			"id": "98",
+			"show": "Budhlada",
+			"show_v": "ਬੁਢਲਾਡਾ"
+		}]
+	}, {
+		"id": "18",
+		"show": "SANGRUR",
+		"show_v": "ਸੰਗਰੂਰ",
+		"acs": [{
+			"id": "99",
+			"show": "Lehra",
+			"show_v": "ਲਹਿਰਾ"
+		}, {
+			"id": "100",
+			"show": "Dirba",
+			"show_v": "ਦਿੱੜਬਾ"
+		}, {
+			"id": "101",
+			"show": "Sunam",
+			"show_v": "ਸੁਨਾਮ"
+		}, {
+			"id": "105",
+			"show": "Malerkotla",
+			"show_v": "ਮਲੇਰਕੋਟਲਾ"
+		}, {
+			"id": "106",
+			"show": "Amargarh",
+			"show_v": "ਅਮਰਗੜ੍ਹ"
+		}, {
+			"id": "107",
+			"show": "Dhuri",
+			"show_v": "ਧੂਰੀ"
+		}, {
+			"id": "108",
+			"show": "Sangrur",
+			"show_v": "ਸੰਗਰੂਰ"
+		}]
+	}, {
+		"id": "19",
+		"show": "BARNALA",
+		"show_v": "ਬਰਨਾਲਾ",
+		"acs": [{
+			"id": "102",
+			"show": "Bhadaur",
+			"show_v": "ਭਦੌੜ"
+		}, {
+			"id": "103",
+			"show": "Barnala",
+			"show_v": "ਬਰਨਾਲਾ"
+		}, {
+			"id": "104",
+			"show": "Mehal Kalan",
+			"show_v": "ਮਹਿਲ ਕਲਾਂ"
+		}]
+	}, {
+		"id": "20",
+		"show": "PATIALA",
+		"show_v": "ਪਟਿਆਲਾ",
+		"acs": [{
+			"id": "109",
+			"show": "Nabha",
+			"show_v": "ਨਾਭਾ"
+		}, {
+			"id": "110",
+			"show": "Patiala Rural",
+			"show_v": "ਪਟਿਆਲਾ ਦਿਹਾਤੀ"
+		}, {
+			"id": "111",
+			"show": "Rajpura",
+			"show_v": "ਰਾਜਪੁਰਾ"
+		}, {
+			"id": "113",
+			"show": "Ghanaur",
+			"show_v": "ਘਨੌਰ"
+		}, {
+			"id": "114",
+			"show": "Sanour",
+			"show_v": "ਸਨੌਰ"
+		}, {
+			"id": "115",
+			"show": "Patiala",
+			"show_v": "ਪਟਿਆਲਾ"
+		}, {
+			"id": "116",
+			"show": "Samana",
+			"show_v": "ਸਮਾਣਾ"
+		}, {
+			"id": "117",
+			"show": "Shutrana",
+			"show_v": "ਸ਼ੁਤਰਾਣਾ"
+		}]
+	}, {
+		"id": "22",
+		"show": "PATHANKOT",
+		"show_v": "ਪਠਾਨਕੋਟ ",
+		"acs": [{
+			"id": "1",
+			"show": "Sujanpur",
+			"show_v": "ਸੁਜਾਨਪੁਰ"
+		}, {
+			"id": "2",
+			"show": "Bhoa",
+			"show_v": "ਭੋਆ"
+		}, {
+			"id": "3",
+			"show": "Pathankot",
+			"show_v": "ਪਠਾਨਕੋਟ"
+		}]
+	}, {
+		"id": "23",
+		"show": "FAZILKA",
+		"show_v": "ਫਾਜਿਲਕਾ ",
+		"acs": [{
+			"id": "79",
+			"show": "Jalalabad",
+			"show_v": "ਜਲਾਲਾਬਾਦ"
+		}, {
+			"id": "80",
+			"show": "Fazilka",
+			"show_v": "ਫਾਜ਼ਿਲਕਾ"
+		}, {
+			"id": "81",
+			"show": "Abohar",
+			"show_v": "ਅਬੋਹਰ"
+		}, {
+			"id": "82",
+			"show": "Balluana",
+			"show_v": "ਬਲੂਆਣਾ"
+		}]
+	}]
+}

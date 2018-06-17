@@ -1,0 +1,31 @@
+{
+	"state_code": "U06",
+	"state": "Lakshadweep",
+	"dist": [{
+		"id": "1",
+		"show": "Lakshadweep",
+		"show_v": "à´²à´•àµà´·à´¦àµà´µàµ€à´ªàµ",
+		"acs": [{
+			"id": "0",
+			"show": "",
+			"show_v": ""
+		}, {
+			"id": "1",
+			"show": "",
+			"show_v": ""
+		}]
+	}, {
+		"id": "1",
+		"show": "Lakshadweep",
+		"show_v": "ലക്ഷദ്വീപ്",
+		"acs": [{
+			"id": "0",
+			"show": "",
+			"show_v": ""
+		}, {
+			"id": "1",
+			"show": "",
+			"show_v": ""
+		}]
+	}]
+}

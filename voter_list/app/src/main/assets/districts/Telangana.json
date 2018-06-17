@@ -1,0 +1,527 @@
+{
+	"state_code": "S29",
+	"state": "Telangana",
+	"dist": [{
+		"id": "1",
+		"show": "Adilabad",
+		"show_v": "ఆదిలాబాదు",
+		"acs": [{
+			"id": "1",
+			"show": "Sirpur",
+			"show_v": "సిర్పూర్"
+		}, {
+			"id": "2",
+			"show": "Chennur (SC)",
+			"show_v": "చిన్నూరు"
+		}, {
+			"id": "3",
+			"show": "Bellampalle (SC)",
+			"show_v": "బేల్లంపల్లే"
+		}, {
+			"id": "4",
+			"show": "Mancherial",
+			"show_v": "మంచెరియాల్"
+		}, {
+			"id": "5",
+			"show": "Asifabad (ST)",
+			"show_v": "ఆసిపాబాద్"
+		}, {
+			"id": "6",
+			"show": "Khanapur (ST)",
+			"show_v": "ఖానాపూర్"
+		}, {
+			"id": "7",
+			"show": "Adilabad",
+			"show_v": "ఆదిలాబాద్"
+		}, {
+			"id": "8",
+			"show": "Boath (ST)",
+			"show_v": "భోథ్"
+		}, {
+			"id": "9",
+			"show": "Nirmal",
+			"show_v": "నిర్మల్"
+		}, {
+			"id": "10",
+			"show": "Mudhole",
+			"show_v": "ముధోల్"
+		}]
+	}, {
+		"id": "2",
+		"show": "Nizamabad",
+		"show_v": "నిజామాబాద్",
+		"acs": [{
+			"id": "11",
+			"show": "Armur",
+			"show_v": "ఆర్మూరు"
+		}, {
+			"id": "12",
+			"show": "Bodhan",
+			"show_v": "బోధన్"
+		}, {
+			"id": "13",
+			"show": "Jukkal (SC)",
+			"show_v": "జుక్కల్"
+		}, {
+			"id": "14",
+			"show": "Banswada",
+			"show_v": "బాన్స్ వాడ"
+		}, {
+			"id": "15",
+			"show": "Yellareddy",
+			"show_v": "ఎల్లారెడ్డి"
+		}, {
+			"id": "16",
+			"show": "Kamareddy",
+			"show_v": "కామారెడ్డి"
+		}, {
+			"id": "17",
+			"show": "Nizamabad (Urban)",
+			"show_v": "నిజామాబాద్"
+		}, {
+			"id": "18",
+			"show": "Nizamabad (Rural)",
+			"show_v": ""
+		}, {
+			"id": "19",
+			"show": "Balkonda",
+			"show_v": "బాలకొఁడ"
+		}]
+	}, {
+		"id": "3",
+		"show": "Karimnagar",
+		"show_v": "కరీంనగర్",
+		"acs": [{
+			"id": "20",
+			"show": "Koratla",
+			"show_v": "మెట్ పల్లి"
+		}, {
+			"id": "21",
+			"show": "Jagtial",
+			"show_v": "జగిత్యాల"
+		}, {
+			"id": "22",
+			"show": "Dharmapuri  (SC)",
+			"show_v": "ధర్మపురి"
+		}, {
+			"id": "23",
+			"show": "Ramagundam",
+			"show_v": "రామగుండం"
+		}, {
+			"id": "24",
+			"show": "Manthani",
+			"show_v": "మంథని"
+		}, {
+			"id": "25",
+			"show": "Peddapalle",
+			"show_v": "పెద్దపల్లి"
+		}, {
+			"id": "26",
+			"show": "Karimnagar",
+			"show_v": "కరీఁనగర్"
+		}, {
+			"id": "27",
+			"show": "Choppadandi (SC)",
+			"show_v": "చొప్పదఁడి"
+		}, {
+			"id": "28",
+			"show": "Vemulawada",
+			"show_v": "వేములవాడ"
+		}, {
+			"id": "29",
+			"show": "Sircilla",
+			"show_v": "సిరిసిల్ల"
+		}, {
+			"id": "30",
+			"show": "Manakondur  (SC)",
+			"show_v": "మనక్ఓనదుర"
+		}, {
+			"id": "31",
+			"show": "Huzurabad",
+			"show_v": "హుజురాబాద్"
+		}, {
+			"id": "32",
+			"show": "Husnabad",
+			"show_v": ""
+		}]
+	}, {
+		"id": "4",
+		"show": "Medak",
+		"show_v": "మెదక్",
+		"acs": [{
+			"id": "33",
+			"show": "Siddipet",
+			"show_v": "సిధ్దిపేట"
+		}, {
+			"id": "34",
+			"show": "Medak",
+			"show_v": "మెదక్"
+		}, {
+			"id": "35",
+			"show": "Narayankhed",
+			"show_v": "నారాయణ్ఖేడ్"
+		}, {
+			"id": "36",
+			"show": "Andole (SC)",
+			"show_v": "ఆందోల్"
+		}, {
+			"id": "37",
+			"show": "Narsapur",
+			"show_v": "నర్సాపూర్"
+		}, {
+			"id": "38",
+			"show": "Zahirabad (SC)",
+			"show_v": "జహీరాబాద్"
+		}, {
+			"id": "39",
+			"show": "Sangareddy",
+			"show_v": "సంగారెడ్డి"
+		}, {
+			"id": "40",
+			"show": "Patancheru",
+			"show_v": "పాటాన్చెరు"
+		}, {
+			"id": "41",
+			"show": "Dubbak",
+			"show_v": "దుబ్బ్క్"
+		}, {
+			"id": "42",
+			"show": "Gajwel",
+			"show_v": "గజ్వేల్"
+		}]
+	}, {
+		"id": "5",
+		"show": "Rangareddy",
+		"show_v": "రంగారెడ్డి",
+		"acs": [{
+			"id": "43",
+			"show": "Medchal",
+			"show_v": "మే఼఼డ్చెల్"
+		}, {
+			"id": "44",
+			"show": "Malkajgiri",
+			"show_v": "మల్కజ్గిరి"
+		}, {
+			"id": "45",
+			"show": "Quthbullapur",
+			"show_v": "ౘుఠ్బుల్లపూర"
+		}, {
+			"id": "46",
+			"show": "Kukatpalle",
+			"show_v": "కుకట్పల్లె"
+		}, {
+			"id": "47",
+			"show": "Uppal",
+			"show_v": "ఉపల"
+		}, {
+			"id": "48",
+			"show": "Ibrahimpatnam",
+			"show_v": "ఇబ్రహింపట్నం"
+		}, {
+			"id": "49",
+			"show": "Lal Bahadur Nagar",
+			"show_v": "లాల్ బహాదుర్ నగర్"
+		}, {
+			"id": "50",
+			"show": "Maheswaram",
+			"show_v": "మహేస్వరమ"
+		}, {
+			"id": "51",
+			"show": "Rajendranagar",
+			"show_v": "రాజేంద్రనగర్"
+		}, {
+			"id": "52",
+			"show": "Serilingampally",
+			"show_v": "శేరిలింగంపల్లి"
+		}, {
+			"id": "53",
+			"show": "Chevella (SC)",
+			"show_v": "చేవెళ్ల"
+		}, {
+			"id": "54",
+			"show": "Pargi",
+			"show_v": "పరిగి"
+		}, {
+			"id": "55",
+			"show": "Vicarabad (SC)",
+			"show_v": "వికారబాద్"
+		}, {
+			"id": "56",
+			"show": "Tandur",
+			"show_v": "తాండూరు"
+		}]
+	}, {
+		"id": "6",
+		"show": "Hyderabad",
+		"show_v": "హైదరాబాదు",
+		"acs": [{
+			"id": "57",
+			"show": "Musheerabad",
+			"show_v": "ముషీరాబాద్"
+		}, {
+			"id": "58",
+			"show": "Malakpet",
+			"show_v": "మలక్ పేట్"
+		}, {
+			"id": "59",
+			"show": "Amberpet",
+			"show_v": "అంబర్ ప్ట్"
+		}, {
+			"id": "60",
+			"show": "Khairatabad",
+			"show_v": "ఖైరతాబాద్"
+		}, {
+			"id": "61",
+			"show": "Jubilee Hills",
+			"show_v": "జూబిలీ హిల్స్"
+		}, {
+			"id": "62",
+			"show": "Sanathnagar",
+			"show_v": "సనత్నగర్"
+		}, {
+			"id": "63",
+			"show": "Nampally",
+			"show_v": "నాంపల్లి"
+		}, {
+			"id": "64",
+			"show": "Karwan",
+			"show_v": "కార్వాన్"
+		}, {
+			"id": "65",
+			"show": "Goshamahal",
+			"show_v": "గోషామహల్"
+		}, {
+			"id": "66",
+			"show": "Charminar",
+			"show_v": "చార్మినార్"
+		}, {
+			"id": "67",
+			"show": "Chandrayangutta",
+			"show_v": "చాంద్రాయణగుట్ట"
+		}, {
+			"id": "68",
+			"show": "Yakutpura",
+			"show_v": "యాకుత్ పుర"
+		}, {
+			"id": "69",
+			"show": "Bahadurpura",
+			"show_v": "బహదూర్పురం"
+		}, {
+			"id": "70",
+			"show": "Secunderabad",
+			"show_v": "సికింద్రాబాదు"
+		}, {
+			"id": "71",
+			"show": "Secunderabad Cantt. (SC)",
+			"show_v": "సికింద్రాబాదు  కంటోన్"
+		}]
+	}, {
+		"id": "7",
+		"show": "Mahabubnagar",
+		"show_v": "మహబూబ్ నగర్",
+		"acs": [{
+			"id": "72",
+			"show": "Kodangal",
+			"show_v": "కొడంగల్"
+		}, {
+			"id": "73",
+			"show": "Narayanpet",
+			"show_v": "నారాయణపేట"
+		}, {
+			"id": "74",
+			"show": "Mahbubnagar",
+			"show_v": "మహబూబ్ నగర్"
+		}, {
+			"id": "75",
+			"show": "Jadcherla",
+			"show_v": "జడ్చర్ల"
+		}, {
+			"id": "76",
+			"show": "Devarkadra",
+			"show_v": "దెవర్కద్ర"
+		}, {
+			"id": "77",
+			"show": "Makthal",
+			"show_v": "మక్తల్"
+		}, {
+			"id": "78",
+			"show": "Wanaparthy",
+			"show_v": "వనపర్తి"
+		}, {
+			"id": "79",
+			"show": "Gadwal",
+			"show_v": "గద్వల్"
+		}, {
+			"id": "80",
+			"show": "Alampur (SC)",
+			"show_v": "అలంపూర్"
+		}, {
+			"id": "81",
+			"show": "Nagarkurnool",
+			"show_v": "నాగరకర్నూలు"
+		}, {
+			"id": "82",
+			"show": "Achampet (SC)",
+			"show_v": "ఆచ్చంపే఼ట్"
+		}, {
+			"id": "83",
+			"show": "Kalwakurthy",
+			"show_v": "కల్వకుర్తి"
+		}, {
+			"id": "84",
+			"show": "Shadnagar",
+			"show_v": "షాద్ నగర్"
+		}, {
+			"id": "85",
+			"show": "Kollapur",
+			"show_v": "కొల్లాపూర్"
+		}]
+	}, {
+		"id": "8",
+		"show": "Nalgonda",
+		"show_v": "నల్గండ",
+		"acs": [{
+			"id": "86",
+			"show": "Devarakonda (ST)",
+			"show_v": "దేవరకొఁడ"
+		}, {
+			"id": "87",
+			"show": "Nagarjuna Sagar",
+			"show_v": "నాగార్జున సాగర్"
+		}, {
+			"id": "88",
+			"show": "Miryalaguda",
+			"show_v": "మిర్యాలగూడ"
+		}, {
+			"id": "89",
+			"show": "Huzurnagar",
+			"show_v": "హుజూర్నగర్"
+		}, {
+			"id": "90",
+			"show": "Kodad",
+			"show_v": "కోదాడ"
+		}, {
+			"id": "91",
+			"show": "Suryapet",
+			"show_v": "సూర్యాపేట"
+		}, {
+			"id": "93",
+			"show": "Munugode",
+			"show_v": "మునుగూరు"
+		}, {
+			"id": "94",
+			"show": "Bhongir",
+			"show_v": "భువనగిరి"
+		}, {
+			"id": "95",
+			"show": "Nakrekal (SC)",
+			"show_v": "నకిరేకల్"
+		}, {
+			"id": "96",
+			"show": "Thungathurthi (SC)",
+			"show_v": "తుఁగతుర్తి"
+		}, {
+			"id": "97",
+			"show": "Alair",
+			"show_v": "ఆలేరు"
+		}]
+	}, {
+		"id": "9",
+		"show": "Warangal",
+		"show_v": "వరంగల్",
+		"acs": [{
+			"id": "98",
+			"show": "Jangoan",
+			"show_v": "జనగామ"
+		}, {
+			"id": "99",
+			"show": "Ghanpur (Station) (SC)",
+			"show_v": "ఘనాపూర్"
+		}, {
+			"id": "100",
+			"show": "Palakurthi",
+			"show_v": "పాలకుర్తి"
+		}, {
+			"id": "101",
+			"show": "Dornakal (ST)",
+			"show_v": "డోర్నకల్లు"
+		}, {
+			"id": "102",
+			"show": "Mahabubabad (ST)",
+			"show_v": "మహబూబబాద్"
+		}, {
+			"id": "103",
+			"show": "Narsampet",
+			"show_v": "నర్సఁపేట"
+		}, {
+			"id": "104",
+			"show": "Parkal",
+			"show_v": "పరకాల"
+		}, {
+			"id": "105",
+			"show": "Warangal West",
+			"show_v": "వారంగల వేస్ట"
+		}, {
+			"id": "106",
+			"show": "Warangal East",
+			"show_v": ""
+		}, {
+			"id": "107",
+			"show": "Waradhanapet (SC)",
+			"show_v": "హన్మకొండ"
+		}, {
+			"id": "108",
+			"show": "Bhupalpalle",
+			"show_v": ""
+		}, {
+			"id": "109",
+			"show": "Mulug (ST)",
+			"show_v": "ములుగు"
+		}]
+	}, {
+		"id": "10",
+		"show": "Khammam",
+		"show_v": "ఖమ్మం",
+		"acs": [{
+			"id": "110",
+			"show": "Pinapaka (ST)",
+			"show_v": ""
+		}, {
+			"id": "111",
+			"show": "Yellandu (ST)",
+			"show_v": "ఇల్లఁదు"
+		}, {
+			"id": "112",
+			"show": "Khammam",
+			"show_v": "ఖమ్మఁ"
+		}, {
+			"id": "113",
+			"show": "Palair",
+			"show_v": "పాలేరు"
+		}, {
+			"id": "114",
+			"show": "Madhira (SC)",
+			"show_v": "మధిర"
+		}, {
+			"id": "115",
+			"show": "Wyra (ST)",
+			"show_v": ""
+		}, {
+			"id": "116",
+			"show": "Sathupalle (SC)",
+			"show_v": "సత్తుపల్లి"
+		}, {
+			"id": "117",
+			"show": "Kothagudem",
+			"show_v": "కొత్తగూడెఁ"
+		}, {
+			"id": "118",
+			"show": "Aswaraopeta (ST)",
+			"show_v": ""
+		}, {
+			"id": "119",
+			"show": "Bhadrachalam (ST)",
+			"show_v": "భద్రాచలఁ"
+		}]
+	}]
+}

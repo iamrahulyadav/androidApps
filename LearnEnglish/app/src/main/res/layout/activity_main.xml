@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.highlightindianapps.learnenglishfromhindi.MainActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            >
+
+
+            <Button
+                android:id="@+id/best_way_to_learn_english"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="2dp"
+                android:backgroundTint="@color/btnBackground"
+                android:text="@string/best_way_to_learn_english"
+                android:textColor="@color/white"
+                android:textSize="16sp" />
+
+            <Button
+                android:id="@+id/abhivadhan"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="2dp"
+                android:backgroundTint="@color/btnBackground"
+                android:text="@string/abhivadhan"
+                android:textColor="@color/white"
+                android:textSize="16sp" />
+
+            <Button
+                android:backgroundTint="@color/btnBackground"
+                android:textColor="@color/white"
+                android:layout_margin="2dp"
+                android:id="@+id/is_am_are"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/is_am_are"
+                android:textSize="16sp"/>
+
+            <Button
+                android:backgroundTint="@color/btnBackground"
+                android:textColor="@color/white"
+                android:layout_margin="2dp"
+                android:id="@+id/has_have_had"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/has_have_had"
+                android:textSize="16sp"/>
+
+            <Button
+                android:backgroundTint="@color/btnBackground"
+                android:textColor="@color/white"
+                android:layout_margin="2dp"
+                android:id="@+id/please_sorry"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/please_sorry"
+                android:textSize="16sp"/>
+
+            <Button
+                android:backgroundTint="@color/btnBackground"
+                android:textColor="@color/white"
+                android:layout_margin="2dp"
+                android:id="@+id/tense"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/tense"
+                android:textSize="16sp"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/nagative_marker_toggle_btn"
+                android:layout_margin="2dp">
+
+                <FrameLayout
+                    android:id="@+id/adAtMain1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+            <Button
+                android:backgroundTint="@color/btnBackground"
+                android:textColor="@color/white"
+                android:layout_margin="2dp"
+                android:id="@+id/present_tense"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/present_tense"
+                android:textSize="16sp"/>
+
+            <Button
+                android:backgroundTint="@color/btnBackground"
+                android:textColor="@color/white"
+                android:id="@+id/past_tense"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/past_tense"
+                android:textSize="16sp"/>
+
+            <Button
+                android:backgroundTint="@color/btnBackground"
+                android:textColor="@color/white"
+                android:layout_margin="2dp"
+                android:id="@+id/future_tense"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/future_tense"
+                android:textSize="16sp"/>
+
+            <Button
+                android:backgroundTint="@color/btnBackground"
+                android:textColor="@color/white"
+                android:layout_margin="2dp"
+                android:id="@+id/samanye_vasthuye"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/samanye_vasthuye"
+                android:textSize="16sp"/>
+
+            <Button
+                android:backgroundTint="@color/btnBackground"
+                android:textColor="@color/white"
+                android:layout_margin="2dp"
+                android:id="@+id/body_parts"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/body_parts"
+                android:textSize="16sp"/>
+
+            <Button
+                android:backgroundTint="@color/btnBackground"
+                android:textColor="@color/white"
+                android:layout_margin="2dp"
+                android:id="@+id/days_names_in_english"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/days_names_in_english"
+                android:textSize="16sp"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/nagative_marker_toggle_btn"
+                android:layout_margin="2dp">
+
+                <FrameLayout
+                    android:id="@+id/adAtMain2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+
+
+            <Button
+                android:backgroundTint="@color/btnBackground"
+                android:textColor="@color/white"
+                android:layout_margin="2dp"
+                android:id="@+id/there_usage"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/there_usage"
+                android:textSize="16sp"/>
+
+            <Button
+                android:backgroundTint="@color/btnBackground"
+                android:textColor="@color/white"
+                android:layout_margin="2dp"
+                android:id="@+id/let_usage"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/let_usage"
+                android:textSize="16sp"/>
+        </LinearLayout>
+    </ScrollView>
+
+</android.support.constraint.ConstraintLayout>

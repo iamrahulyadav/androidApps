@@ -1,0 +1,205 @@
+{
+	"state_code": "S16",
+	"state": "Mizoram",
+	"dist": [{
+		"id": "1",
+		"show": "MAMIT",
+		"show_v": null,
+		"acs": [{
+			"id": "1",
+			"show": "HACHHEK",
+			"show_v": null
+		}, {
+			"id": "2",
+			"show": "DAMPA",
+			"show_v": null
+		}, {
+			"id": "3",
+			"show": "MAMIT",
+			"show_v": null
+		}]
+	}, {
+		"id": "2",
+		"show": "KOLASIB",
+		"show_v": null,
+		"acs": [{
+			"id": "4",
+			"show": "TUIRIAL",
+			"show_v": null
+		}, {
+			"id": "5",
+			"show": "KOLASIB",
+			"show_v": null
+		}, {
+			"id": "6",
+			"show": "SERLUI",
+			"show_v": null
+		}]
+	}, {
+		"id": "3",
+		"show": "AIZAWL",
+		"show_v": null,
+		"acs": [{
+			"id": "7",
+			"show": "TUIVAWL",
+			"show_v": null
+		}, {
+			"id": "8",
+			"show": "CHALFILH",
+			"show_v": null
+		}, {
+			"id": "9",
+			"show": "TAWI",
+			"show_v": null
+		}, {
+			"id": "10",
+			"show": "AIZAWL NORTH I",
+			"show_v": null
+		}, {
+			"id": "11",
+			"show": "AIZAWL NORTH II",
+			"show_v": null
+		}, {
+			"id": "12",
+			"show": "AIZAWL NORTH III",
+			"show_v": null
+		}, {
+			"id": "13",
+			"show": "AIZAWL EAST I",
+			"show_v": null
+		}, {
+			"id": "14",
+			"show": "AIZAWL EAST II",
+			"show_v": null
+		}, {
+			"id": "15",
+			"show": "AIZAWL WEST I",
+			"show_v": null
+		}, {
+			"id": "16",
+			"show": "AIZAWL WEST II",
+			"show_v": null
+		}, {
+			"id": "17",
+			"show": "AIZAWL WEST III",
+			"show_v": null
+		}, {
+			"id": "18",
+			"show": "AIZAWL SOUTH I",
+			"show_v": null
+		}, {
+			"id": "19",
+			"show": "AIZAWL SOUTH II",
+			"show_v": null
+		}, {
+			"id": "20",
+			"show": "AIZAWL SOUTH III",
+			"show_v": null
+		}]
+	}, {
+		"id": "4",
+		"show": "CHAMPHAI",
+		"show_v": null,
+		"acs": [{
+			"id": "21",
+			"show": "LENGTENG",
+			"show_v": null
+		}, {
+			"id": "22",
+			"show": "TUICHANG",
+			"show_v": null
+		}, {
+			"id": "23",
+			"show": "CHAMPHAI NORTH ",
+			"show_v": null
+		}, {
+			"id": "24",
+			"show": "CHAMPHAI SOUTH",
+			"show_v": null
+		}, {
+			"id": "25",
+			"show": "EAST TUIPUI",
+			"show_v": null
+		}]
+	}, {
+		"id": "5",
+		"show": "SERCHHIP",
+		"show_v": null,
+		"acs": [{
+			"id": "26",
+			"show": "SERCHHIP",
+			"show_v": null
+		}, {
+			"id": "27",
+			"show": "TUIKUM",
+			"show_v": null
+		}, {
+			"id": "28",
+			"show": "HRANGTURZO",
+			"show_v": null
+		}]
+	}, {
+		"id": "6",
+		"show": "LUNGLEI",
+		"show_v": null,
+		"acs": [{
+			"id": "29",
+			"show": "SOUTH TUIPUI",
+			"show_v": null
+		}, {
+			"id": "30",
+			"show": "LUNGLEI NORTH",
+			"show_v": null
+		}, {
+			"id": "31",
+			"show": "LUNGLEI EAST",
+			"show_v": null
+		}, {
+			"id": "32",
+			"show": "LUNGLEI WEST",
+			"show_v": null
+		}, {
+			"id": "33",
+			"show": "LUNGLEI SOUTH",
+			"show_v": null
+		}, {
+			"id": "34",
+			"show": "THORANG",
+			"show_v": null
+		}, {
+			"id": "35",
+			"show": "WEST TUIPUI",
+			"show_v": null
+		}]
+	}, {
+		"id": "7",
+		"show": "LAWNGTLAI",
+		"show_v": null,
+		"acs": [{
+			"id": "36",
+			"show": "TUICHAWNG",
+			"show_v": null
+		}, {
+			"id": "37",
+			"show": "LAWNGTLAI WEST",
+			"show_v": null
+		}, {
+			"id": "38",
+			"show": "LAWNGTLAI EAST",
+			"show_v": null
+		}]
+	}, {
+		"id": "8",
+		"show": "SAIHA",
+		"show_v": null,
+		"acs": [{
+			"id": "39",
+			"show": "SAIHA",
+			"show_v": null
+		}, {
+			"id": "40",
+			"show": "PALAK",
+			"show_v": null
+		}]
+	}]
+}

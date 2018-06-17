@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">English Speaking tips and quiz</string>
+
+
+    <!--test ads-->
+    <string name="admob_app_id">ca-app-pub-9569880823887785~2558890635</string>
+    <string name="ad_unit_id">ca-app-pub-9569880823887785/8504270313</string>
+    <!--<string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>-->
+    <string name="banner_ad_unit_id">ca-app-pub-9569880823887785/9671093897</string>
+    <!--<string name="interstitial_ad">ca-app-pub-3940256099942544/1033173712</string>-->
+    <string name="interstitial_ad">ca-app-pub-9569880823887785/6520270659</string>
+    <!--<string name="ad_unit_id">ca-app-pub-3940256099942544/8135179316</string>-->
+    <string name="test_interstitial_ad">ca-app-pub-3940256099942544/1033173712</string>
+
+
+    <string name="viewall">viewall</string>
+    <string-array name="ratings_array">
+        <item>Do you find this app useful? Please support us by giving us 5 star on Playstore!</item>
+        <item>Got accurate information? Please support us by giving us 5 star on Playstore!</item>
+        <item>Our app is Easy to use? Please support us by giving us 5 star on Playstore!</item>
+        <item>Do you think our app is Informative? Please support us by giving us 5 star on Playstore!</item>
+        <item>Do you find our app is providing Good Info? Please support us by giving us 5 star on Playstore!</item>
+    </string-array>
+
+
+    <!--Hindi Words-->
+    <string name="hindi">हिंदी</string>
+    <string name="telugu">క్రాంతి యొక్క మొదటి అప్లికేషన్</string>
+    <string name="learn">Learn</string>
+    <string name="best_way_to_learn_english">अंग्रेजी सीखने का सबसे अच्छा तरीका</string>
+    <string name="abhivadhan">अभिवादन</string>
+    <string name="is_am_are">is/am/are का प्रयोग</string>
+    <string name="has_have_had">Has/ have या had का प्रयोग</string>
+    <string name="please_sorry">Please / Sorry का प्रयोग</string>
+    <string name="tense">Tense (काल)</string>
+    <string name="past_tense">Past Tense (भूत काल)</string>
+    <string name="future_tense">Future Tense ( भविष्य काल )</string>
+    <string name="samanyue_vasthuye">सामान्य चीजें</string>
+    <string name="samanye_vasthuye">सामान्य वस्तुयें</string>
+    <string name="body_parts">शरीर के अंग</string>
+    <string name="days_names_in_english">दिन व महीनों के नाम</string>
+    <string name="there_usage">There का प्रयोग</string>
+    <string name="let_usage">Let का प्रयोग</string>
+    <string name="present_tense">Present Tense (वर्तमान काल)</string>
+    <string name="quit_quiz">क्या आप यह QUIZ छोड़ना चाहते हैं?</string>
+</resources>

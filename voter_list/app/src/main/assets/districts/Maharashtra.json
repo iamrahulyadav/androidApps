@@ -1,0 +1,1337 @@
+{
+	"state_code": "S13",
+	"state": "maharashtra",
+	"dist": [{
+		"id": "1",
+		"show": "Nandurabar",
+		"show_v": "नंदुरबार",
+		"acs": [{
+			"id": "1",
+			"show": "Akkalkuwa (ST)",
+			"show_v": "अक्कलकुवा (अ.ज.)"
+		}, {
+			"id": "2",
+			"show": "Shahada (ST)",
+			"show_v": "शहादा (अ.ज.)"
+		}, {
+			"id": "3",
+			"show": "Nandurbar (ST)",
+			"show_v": "नंदुरबार (अ.ज.)"
+		}, {
+			"id": "4",
+			"show": "Nawapur (ST)",
+			"show_v": "नवापूर (अ.ज.)"
+		}]
+	}, {
+		"id": "2",
+		"show": "Dhule",
+		"show_v": "धुळे",
+		"acs": [{
+			"id": "5",
+			"show": "Sakri (ST)",
+			"show_v": "साक्री (अ.ज.)"
+		}, {
+			"id": "6",
+			"show": "Dhule Rural",
+			"show_v": "धुळे ग्रामीण"
+		}, {
+			"id": "7",
+			"show": "Dhule City",
+			"show_v": "धुळे शहर"
+		}, {
+			"id": "8",
+			"show": "Sindhkheda",
+			"show_v": "सिंदखेडा"
+		}, {
+			"id": "9",
+			"show": "Shirpur (ST)",
+			"show_v": "शिरपूर (अ.ज.)"
+		}]
+	}, {
+		"id": "3",
+		"show": "Jalgaon",
+		"show_v": "जळगांव",
+		"acs": [{
+			"id": "10",
+			"show": "Chopda (ST)",
+			"show_v": "चोपडा (अ.ज.)"
+		}, {
+			"id": "11",
+			"show": "Raver",
+			"show_v": "रावेर"
+		}, {
+			"id": "12",
+			"show": "Bhusawal (SC)",
+			"show_v": "भुसावळ (अ.जा.)"
+		}, {
+			"id": "13",
+			"show": "Jalgaon City",
+			"show_v": "जळगांव शहर"
+		}, {
+			"id": "14",
+			"show": "Jalgaon Rural",
+			"show_v": "जळगांव ग्रामीण"
+		}, {
+			"id": "15",
+			"show": "Amalner",
+			"show_v": "अमळनेर"
+		}, {
+			"id": "16",
+			"show": "Erandol",
+			"show_v": "एरंडोल"
+		}, {
+			"id": "17",
+			"show": "Chalisgaon",
+			"show_v": "चाळीसगांव"
+		}, {
+			"id": "18",
+			"show": "Pachora",
+			"show_v": "पाचोरा"
+		}, {
+			"id": "19",
+			"show": "Jamner",
+			"show_v": "जामनेर"
+		}, {
+			"id": "20",
+			"show": "Muktainagar",
+			"show_v": "मुक्ताईनगर"
+		}]
+	}, {
+		"id": "4",
+		"show": "Buldhana",
+		"show_v": "बुलढाणा",
+		"acs": [{
+			"id": "21",
+			"show": "Malkapur",
+			"show_v": "मलकापूर"
+		}, {
+			"id": "22",
+			"show": "Buldhana",
+			"show_v": "बुलढाणा"
+		}, {
+			"id": "23",
+			"show": "Chikhli",
+			"show_v": "चिखली"
+		}, {
+			"id": "24",
+			"show": "Sindhkhed Raja",
+			"show_v": "सिंदखेड राजा"
+		}, {
+			"id": "25",
+			"show": "Mehkar (SC)",
+			"show_v": "मेहकर (अ.जा.)"
+		}, {
+			"id": "26",
+			"show": "Khamgaon",
+			"show_v": "खामगांव"
+		}, {
+			"id": "27",
+			"show": "Jalgaon (Jamod)",
+			"show_v": "जळगांव (जामोद)"
+		}]
+	}, {
+		"id": "5",
+		"show": "Akola",
+		"show_v": "अकोला",
+		"acs": [{
+			"id": "28",
+			"show": "Akot",
+			"show_v": "आकोट"
+		}, {
+			"id": "29",
+			"show": "Balapur",
+			"show_v": "बाळापूर"
+		}, {
+			"id": "30",
+			"show": "Aakola West",
+			"show_v": "अकोला पश्चिम"
+		}, {
+			"id": "31",
+			"show": "Akola East",
+			"show_v": "अकोला पूर्व"
+		}, {
+			"id": "32",
+			"show": "Murtizapur (SC)",
+			"show_v": "मुर्तिजापूर (अ.जा.)"
+		}]
+	}, {
+		"id": "6",
+		"show": "Washim",
+		"show_v": "वाशिम",
+		"acs": [{
+			"id": "33",
+			"show": "Risod",
+			"show_v": "रिसोड"
+		}, {
+			"id": "34",
+			"show": "Washim (SC)",
+			"show_v": "वाशिम (अ.जा.)"
+		}, {
+			"id": "35",
+			"show": "Karanja",
+			"show_v": "कारंजा"
+		}]
+	}, {
+		"id": "7",
+		"show": "Amaravati",
+		"show_v": "अमरावती",
+		"acs": [{
+			"id": "36",
+			"show": "Dhamangaon Railway",
+			"show_v": "धामणगांव रेल्वे"
+		}, {
+			"id": "37",
+			"show": "Badnera",
+			"show_v": "बडनेरा"
+		}, {
+			"id": "38",
+			"show": "Amrawati",
+			"show_v": "अमरावती"
+		}, {
+			"id": "39",
+			"show": "Teosa",
+			"show_v": "तिवसा"
+		}, {
+			"id": "40",
+			"show": "Daryapur (SC)",
+			"show_v": "दर्यापूर (अ.जा.)"
+		}, {
+			"id": "41",
+			"show": "Melghat (ST)",
+			"show_v": "मेळघाट (अ.ज.)"
+		}, {
+			"id": "42",
+			"show": "Achalpur",
+			"show_v": "अचलपूर"
+		}, {
+			"id": "43",
+			"show": "Morshi",
+			"show_v": "मोर्शी"
+		}]
+	}, {
+		"id": "8",
+		"show": "Wardha",
+		"show_v": "वर्धा",
+		"acs": [{
+			"id": "44",
+			"show": "Arvi",
+			"show_v": "आर्वी"
+		}, {
+			"id": "45",
+			"show": "Deoli",
+			"show_v": "देवळी"
+		}, {
+			"id": "46",
+			"show": "Hinganghat",
+			"show_v": "हिंगणघाट"
+		}, {
+			"id": "47",
+			"show": "Wardha",
+			"show_v": "वर्धा"
+		}]
+	}, {
+		"id": "9",
+		"show": "Nagpur",
+		"show_v": "नागपुर",
+		"acs": [{
+			"id": "48",
+			"show": "Katol",
+			"show_v": "काटोल"
+		}, {
+			"id": "49",
+			"show": "Savner",
+			"show_v": "सावनेर"
+		}, {
+			"id": "50",
+			"show": "Hingna",
+			"show_v": "हिंगणा"
+		}, {
+			"id": "51",
+			"show": "Umred (SC)",
+			"show_v": "उमरेड (अ.जा.)"
+		}, {
+			"id": "52",
+			"show": "Nagpur South West",
+			"show_v": "नागपूर दक्षिण पश्चिम"
+		}, {
+			"id": "53",
+			"show": "Nagpur South",
+			"show_v": "नागपूर दक्षिण"
+		}, {
+			"id": "54",
+			"show": "Nagpur East",
+			"show_v": "नागपूर पूर्व"
+		}, {
+			"id": "55",
+			"show": "Nagpur Central",
+			"show_v": "नागपूर मध्य"
+		}, {
+			"id": "56",
+			"show": "Nagpur West",
+			"show_v": "नागपूर पश्चिम"
+		}, {
+			"id": "57",
+			"show": "Nagpur North (SC)",
+			"show_v": "नागपूर उत्तर (अ.जा.)"
+		}, {
+			"id": "58",
+			"show": "Kamthi",
+			"show_v": "कामठी"
+		}, {
+			"id": "59",
+			"show": "Ramtek",
+			"show_v": "रामटेक"
+		}]
+	}, {
+		"id": "10",
+		"show": "Bhandara",
+		"show_v": "भंडारा",
+		"acs": [{
+			"id": "60",
+			"show": "Tumsar",
+			"show_v": "तुमसर"
+		}, {
+			"id": "61",
+			"show": "Bhandara (SC)",
+			"show_v": "भंडारा (अ.जा.)"
+		}, {
+			"id": "62",
+			"show": "Sakoli",
+			"show_v": "साकोली"
+		}]
+	}, {
+		"id": "11",
+		"show": "Gondiya",
+		"show_v": "गोंदिया",
+		"acs": [{
+			"id": "63",
+			"show": "Arjuni Morgaon (SC)",
+			"show_v": "अर्जुनी-मोरगांव (अ.जा.)"
+		}, {
+			"id": "64",
+			"show": "Tirora",
+			"show_v": "तिरोडा"
+		}, {
+			"id": "65",
+			"show": "Gondia",
+			"show_v": "गोॆंदिया"
+		}, {
+			"id": "66",
+			"show": "Amgaon (ST)",
+			"show_v": "आमगांव (अ.ज.)"
+		}]
+	}, {
+		"id": "12",
+		"show": "Gadchiroli",
+		"show_v": "गडचिरोली",
+		"acs": [{
+			"id": "67",
+			"show": "Armori (ST)",
+			"show_v": "आरमोरी (अ.ज.)"
+		}, {
+			"id": "68",
+			"show": "Gadchiroli (ST)",
+			"show_v": "गडचिरोली (अ.ज.)"
+		}, {
+			"id": "69",
+			"show": "Aheri (ST)",
+			"show_v": "अहेरी (अ.ज.)"
+		}]
+	}, {
+		"id": "13",
+		"show": "Chandrapur",
+		"show_v": "चंद्रपुर",
+		"acs": [{
+			"id": "70",
+			"show": "Rajura",
+			"show_v": "राजुरा"
+		}, {
+			"id": "71",
+			"show": "Chandrapur (SC)",
+			"show_v": "चंद्रपूर (अ.जा.)"
+		}, {
+			"id": "72",
+			"show": "Ballarpur",
+			"show_v": "बल्लारपूर"
+		}, {
+			"id": "73",
+			"show": "Bramhapuri",
+			"show_v": "ब्रह्मपुरी"
+		}, {
+			"id": "74",
+			"show": "Chimur",
+			"show_v": "चिमूर"
+		}, {
+			"id": "75",
+			"show": "Warora",
+			"show_v": "वरोरा"
+		}]
+	}, {
+		"id": "14",
+		"show": "Yavatmal",
+		"show_v": "यवतमाळ",
+		"acs": [{
+			"id": "76",
+			"show": "Wani",
+			"show_v": "वणी"
+		}, {
+			"id": "77",
+			"show": "Ralegaon (ST)",
+			"show_v": "राळेगांव (अ.ज.)"
+		}, {
+			"id": "78",
+			"show": "Yavatmal",
+			"show_v": "यवतमाळ"
+		}, {
+			"id": "79",
+			"show": "Digras",
+			"show_v": "दिग्रस"
+		}, {
+			"id": "80",
+			"show": "Arni (ST)",
+			"show_v": "आर्णी (अ.ज.)"
+		}, {
+			"id": "81",
+			"show": "Pusad",
+			"show_v": "पुसद"
+		}, {
+			"id": "82",
+			"show": "Umarkhed (SC)",
+			"show_v": "उमरखेड (अ.जा.)"
+		}]
+	}, {
+		"id": "15",
+		"show": "Nanded",
+		"show_v": "नांदेड",
+		"acs": [{
+			"id": "83",
+			"show": "Kinwat",
+			"show_v": "किनवट"
+		}, {
+			"id": "84",
+			"show": "Hadgaon",
+			"show_v": "हदगांव"
+		}, {
+			"id": "85",
+			"show": "Bhokar",
+			"show_v": "भोकर"
+		}, {
+			"id": "86",
+			"show": "Nanded North",
+			"show_v": "नांदेड उत्तर"
+		}, {
+			"id": "87",
+			"show": "Nanded South",
+			"show_v": "नांदेड दक्षिण"
+		}, {
+			"id": "88",
+			"show": "Loha",
+			"show_v": "लोहा"
+		}, {
+			"id": "89",
+			"show": "Naigaon",
+			"show_v": "नायगांव"
+		}, {
+			"id": "90",
+			"show": "Deglur (SC)",
+			"show_v": "देगलूर (अ.जा.)"
+		}, {
+			"id": "91",
+			"show": "Mukhed",
+			"show_v": "मुखेड"
+		}]
+	}, {
+		"id": "16",
+		"show": "Hingoli",
+		"show_v": "हिंगोली",
+		"acs": [{
+			"id": "92",
+			"show": "Basmath",
+			"show_v": "वसमत"
+		}, {
+			"id": "93",
+			"show": "Kalamnuri",
+			"show_v": "कळमनुरी"
+		}, {
+			"id": "94",
+			"show": "Hingoli",
+			"show_v": "हिंगोली"
+		}]
+	}, {
+		"id": "17",
+		"show": "Parbhani",
+		"show_v": "परभणी",
+		"acs": [{
+			"id": "95",
+			"show": "Jintur",
+			"show_v": "जिंतूर"
+		}, {
+			"id": "96",
+			"show": "Parbhani",
+			"show_v": "परभणी"
+		}, {
+			"id": "97",
+			"show": "Gangakhed",
+			"show_v": "गंगाखेड"
+		}, {
+			"id": "98",
+			"show": "Pathri",
+			"show_v": "पाथरी"
+		}]
+	}, {
+		"id": "18",
+		"show": "Jalna",
+		"show_v": "जालना",
+		"acs": [{
+			"id": "99",
+			"show": "Partur",
+			"show_v": "परतूर"
+		}, {
+			"id": "100",
+			"show": "Gansavangi",
+			"show_v": "घनसावंगी"
+		}, {
+			"id": "101",
+			"show": "Jalna",
+			"show_v": "जालना"
+		}, {
+			"id": "102",
+			"show": "Badnapur (SC)",
+			"show_v": "बदनापूर (अ.जा.)"
+		}, {
+			"id": "103",
+			"show": "Bhokardan",
+			"show_v": "भोकरदन"
+		}]
+	}, {
+		"id": "19",
+		"show": "Aurangabad",
+		"show_v": "ओरंगाबाद",
+		"acs": [{
+			"id": "104",
+			"show": "Sillod",
+			"show_v": "सिल्लोड"
+		}, {
+			"id": "105",
+			"show": "Kannad",
+			"show_v": "कन्नड"
+		}, {
+			"id": "106",
+			"show": "Pholambari",
+			"show_v": "फुलंब्री"
+		}, {
+			"id": "107",
+			"show": "Aurangabad (Central)",
+			"show_v": "औरंगाबाद मध्य"
+		}, {
+			"id": "108",
+			"show": "Aurangabad (West) (SC)",
+			"show_v": "औरंगाबाद पश्चिम (अ.जा.)"
+		}, {
+			"id": "109",
+			"show": "Aurangbad (East)",
+			"show_v": "औरंगाबाद पूर्व"
+		}, {
+			"id": "110",
+			"show": "Paithan",
+			"show_v": "पैठण"
+		}, {
+			"id": "111",
+			"show": "Gangapur",
+			"show_v": "गंगापूर"
+		}, {
+			"id": "112",
+			"show": "Vaijapur",
+			"show_v": "वैजापूर"
+		}]
+	}, {
+		"id": "20",
+		"show": "Nashik",
+		"show_v": "नाशिक",
+		"acs": [{
+			"id": "113",
+			"show": "Nandgaon",
+			"show_v": "नांदगांव"
+		}, {
+			"id": "114",
+			"show": "Malegaon (Central)",
+			"show_v": "मालेगांव मध्य"
+		}, {
+			"id": "115",
+			"show": "Malegaon (Outer)",
+			"show_v": "मालेगांव बाह्य"
+		}, {
+			"id": "116",
+			"show": "Baglan (ST)",
+			"show_v": "बागलाण (अ.ज.)"
+		}, {
+			"id": "117",
+			"show": "Kalwan (ST)",
+			"show_v": "कळवण (अ.ज.)"
+		}, {
+			"id": "118",
+			"show": "Chandwad",
+			"show_v": "चांदवड"
+		}, {
+			"id": "119",
+			"show": "Yevla",
+			"show_v": "येवला"
+		}, {
+			"id": "120",
+			"show": "Sinnar",
+			"show_v": "सिन्नर"
+		}, {
+			"id": "121",
+			"show": "Niphad",
+			"show_v": "निफाड"
+		}, {
+			"id": "122",
+			"show": "Dindori (ST)",
+			"show_v": "दिंडोरी (अ.ज.)"
+		}, {
+			"id": "123",
+			"show": "Nashik East",
+			"show_v": "नाशिक पूर्व"
+		}, {
+			"id": "124",
+			"show": "Nashik (Central)",
+			"show_v": "नाशिक मध्य"
+		}, {
+			"id": "125",
+			"show": "Nashik  West",
+			"show_v": "नाशिक पश्चिम"
+		}, {
+			"id": "126",
+			"show": "Deolali (SC)",
+			"show_v": "देवळाली (अ.जा.)"
+		}, {
+			"id": "127",
+			"show": "Igatpuri (ST)",
+			"show_v": "इगतपुरी (अ.ज.)"
+		}]
+	}, {
+		"id": "21",
+		"show": "Thane",
+		"show_v": "ठाणे",
+		"acs": [{
+			"id": "134",
+			"show": "Bhiwandi Rural (ST)",
+			"show_v": "भिवंडी ग्रामीण (अ.ज.)"
+		}, {
+			"id": "135",
+			"show": "Shahapur (ST)",
+			"show_v": "शहापूर (अ.ज.)"
+		}, {
+			"id": "136",
+			"show": "Bhiwandi  West",
+			"show_v": "भिवंडी पश्चिम"
+		}, {
+			"id": "137",
+			"show": "Bhiwandi East",
+			"show_v": "भिवंडी पूर्व"
+		}, {
+			"id": "138",
+			"show": "Kalyan  West",
+			"show_v": "कल्याण पश्चिम"
+		}, {
+			"id": "139",
+			"show": "Murbad",
+			"show_v": "मुरबाड"
+		}, {
+			"id": "140",
+			"show": "Ambarnath (SC)",
+			"show_v": "अंबरनाथ (अ.जा.)"
+		}, {
+			"id": "141",
+			"show": "Ulhasnagar",
+			"show_v": "उल्हासनगर"
+		}, {
+			"id": "142",
+			"show": "Kalyan East",
+			"show_v": "कल्याण पूर्व"
+		}, {
+			"id": "143",
+			"show": "Dombivali",
+			"show_v": "डोंबिवली"
+		}, {
+			"id": "144",
+			"show": "Kalyan Rural",
+			"show_v": "कल्याण ग्रामीण"
+		}, {
+			"id": "145",
+			"show": "Meera Bhayandar",
+			"show_v": "मिरा भाईदर"
+		}, {
+			"id": "146",
+			"show": "Ovala majiwada",
+			"show_v": "ओवळा-माजीवडा"
+		}, {
+			"id": "147",
+			"show": "Kopri-Pachpakhadi",
+			"show_v": "कोपरी-पाचपाखाडी"
+		}, {
+			"id": "148",
+			"show": "Thane",
+			"show_v": "ठाणे"
+		}, {
+			"id": "149",
+			"show": "Mumbra-Kalwa",
+			"show_v": "मुंब्रा-कळवा"
+		}, {
+			"id": "150",
+			"show": "Airoli",
+			"show_v": "एरोली"
+		}, {
+			"id": "151",
+			"show": "Belapur",
+			"show_v": "बेलापूर"
+		}]
+	}, {
+		"id": "22",
+		"show": "Mumbai Suburban",
+		"show_v": "मुंबई उपनगर",
+		"acs": [{
+			"id": "152",
+			"show": "Borivali",
+			"show_v": "बोरीवली"
+		}, {
+			"id": "153",
+			"show": "Dhaisar",
+			"show_v": "दहिसर"
+		}, {
+			"id": "154",
+			"show": "Magathane",
+			"show_v": "मागाठाणे"
+		}, {
+			"id": "155",
+			"show": "Mulund",
+			"show_v": "मुलुंड"
+		}, {
+			"id": "156",
+			"show": "Vikhroli",
+			"show_v": "विक्रोळी"
+		}, {
+			"id": "157",
+			"show": "Bhandup  West",
+			"show_v": "भाडुंप पश्चिम"
+		}, {
+			"id": "158",
+			"show": "Jogeshwari East",
+			"show_v": "जोगेश्वरी पूर्व"
+		}, {
+			"id": "159",
+			"show": "Dindoshi",
+			"show_v": "दिंडोशी"
+		}, {
+			"id": "160",
+			"show": "Kandivali East",
+			"show_v": "कांदियली पूर्व"
+		}, {
+			"id": "161",
+			"show": "Charkop",
+			"show_v": "चारकोप"
+		}, {
+			"id": "162",
+			"show": "Malad  West",
+			"show_v": "मालाड पश्चिम"
+		}, {
+			"id": "163",
+			"show": "Goregaon",
+			"show_v": "गोरेगांव"
+		}, {
+			"id": "164",
+			"show": "Varsova",
+			"show_v": "वर्सोवा"
+		}, {
+			"id": "165",
+			"show": "Andheri  West",
+			"show_v": "अंधेरी पश्चिम"
+		}, {
+			"id": "166",
+			"show": "Andheri East",
+			"show_v": "अंधेरी पूर्व"
+		}, {
+			"id": "167",
+			"show": "Vile Parle",
+			"show_v": "विलेपार्ले"
+		}, {
+			"id": "168",
+			"show": "Chandivali",
+			"show_v": "चांदिवली"
+		}, {
+			"id": "169",
+			"show": "Ghatkopar  West",
+			"show_v": "घाटकोपर पश्चिम"
+		}, {
+			"id": "170",
+			"show": "Ghatkopar East",
+			"show_v": "घाटकोपर पूर्व"
+		}, {
+			"id": "171",
+			"show": "Mankhurd shivajinagar",
+			"show_v": "मानखुर्द शिवाजीनगर"
+		}, {
+			"id": "172",
+			"show": "Anushakti Nagar",
+			"show_v": "अणुशक्ती नगर"
+		}, {
+			"id": "173",
+			"show": "Chembur",
+			"show_v": "चेंबूर"
+		}, {
+			"id": "174",
+			"show": "Kurla (SC)",
+			"show_v": "कुर्ला (अ.जा.)"
+		}, {
+			"id": "175",
+			"show": "Kalina",
+			"show_v": "कलीना"
+		}, {
+			"id": "176",
+			"show": "Vandre East",
+			"show_v": "वांद्रे पूर्व"
+		}, {
+			"id": "177",
+			"show": "Vandre  West",
+			"show_v": "वांद्रे पश्चिम"
+		}]
+	}, {
+		"id": "23",
+		"show": "Mumbai City",
+		"show_v": "मुंबई शहर",
+		"acs": [{
+			"id": "178",
+			"show": "Dharavi (SC)",
+			"show_v": "धारावी (अ.जा.)"
+		}, {
+			"id": "179",
+			"show": "Sion Koliwada",
+			"show_v": "सायन कोळीवाडा"
+		}, {
+			"id": "180",
+			"show": "Wadala",
+			"show_v": "वडाळा"
+		}, {
+			"id": "181",
+			"show": "Mahim",
+			"show_v": "माहिम"
+		}, {
+			"id": "182",
+			"show": "Worli",
+			"show_v": "वरळी"
+		}, {
+			"id": "183",
+			"show": "Shivadi",
+			"show_v": "शिवडी"
+		}, {
+			"id": "184",
+			"show": "Byculla",
+			"show_v": "भायखळा"
+		}, {
+			"id": "185",
+			"show": "Malabar Hill",
+			"show_v": "मलबार हिल"
+		}, {
+			"id": "186",
+			"show": "Mumbadevi",
+			"show_v": "मुंबादेवी"
+		}, {
+			"id": "187",
+			"show": "Colaba",
+			"show_v": "कुलाबा"
+		}]
+	}, {
+		"id": "24",
+		"show": "Raigad",
+		"show_v": "रायगड",
+		"acs": [{
+			"id": "188",
+			"show": "Panvel",
+			"show_v": "पनवेल"
+		}, {
+			"id": "189",
+			"show": "Karjat",
+			"show_v": "कर्जत"
+		}, {
+			"id": "190",
+			"show": "Uran",
+			"show_v": "उरण"
+		}, {
+			"id": "191",
+			"show": "Pen",
+			"show_v": "पेण"
+		}, {
+			"id": "192",
+			"show": "Alibag",
+			"show_v": "अलिबाग"
+		}, {
+			"id": "193",
+			"show": "Shrivardhan",
+			"show_v": "श्रीवर्धन"
+		}, {
+			"id": "194",
+			"show": "Mahad",
+			"show_v": "महाड"
+		}]
+	}, {
+		"id": "25",
+		"show": "Pune",
+		"show_v": "पुणे",
+		"acs": [{
+			"id": "195",
+			"show": "Junnar",
+			"show_v": "जुन्नर"
+		}, {
+			"id": "196",
+			"show": "Ambegaon",
+			"show_v": "आंबेगांव"
+		}, {
+			"id": "197",
+			"show": "Khed Alandi",
+			"show_v": "खेड आळंदी"
+		}, {
+			"id": "198",
+			"show": "Shirur",
+			"show_v": "शिरुर"
+		}, {
+			"id": "199",
+			"show": "Daund",
+			"show_v": "दौंड"
+		}, {
+			"id": "200",
+			"show": "Indapur",
+			"show_v": "इंदापूर"
+		}, {
+			"id": "201",
+			"show": "Baramati",
+			"show_v": "बारामती"
+		}, {
+			"id": "202",
+			"show": "Purandar",
+			"show_v": "पुरंदर"
+		}, {
+			"id": "203",
+			"show": "Bhor",
+			"show_v": "भोर"
+		}, {
+			"id": "204",
+			"show": "Maval",
+			"show_v": "मावळ"
+		}, {
+			"id": "205",
+			"show": "Chinchwad",
+			"show_v": "चिंचवड"
+		}, {
+			"id": "206",
+			"show": "Pimpri (SC)",
+			"show_v": "पिंपरी (अ.जा.)"
+		}, {
+			"id": "207",
+			"show": "Bhosari",
+			"show_v": "भोसरी"
+		}, {
+			"id": "208",
+			"show": "Vadgaon Sheri",
+			"show_v": "वडगांव शेरी"
+		}, {
+			"id": "209",
+			"show": "Shivajinagar",
+			"show_v": "शिवाजीनगर"
+		}, {
+			"id": "210",
+			"show": "Kothrud",
+			"show_v": "कोथरुड"
+		}, {
+			"id": "211",
+			"show": "Khadakwasala",
+			"show_v": "खडकवासला"
+		}, {
+			"id": "212",
+			"show": "Parvati",
+			"show_v": "पर्वती"
+		}, {
+			"id": "213",
+			"show": "Hadapsar",
+			"show_v": "हडपसर"
+		}, {
+			"id": "214",
+			"show": "Pune Cantonment (SC)",
+			"show_v": "पुणे कंटोनमेंट (अ.जा.)"
+		}, {
+			"id": "215",
+			"show": "Kasba Peth",
+			"show_v": "कसबा पेठ"
+		}]
+	}, {
+		"id": "26",
+		"show": "Ahmednagar",
+		"show_v": "अहमदनगर",
+		"acs": [{
+			"id": "216",
+			"show": "Akole (ST)",
+			"show_v": "अकोले (अ.ज.)"
+		}, {
+			"id": "217",
+			"show": "Sangmner",
+			"show_v": "संगमनेर"
+		}, {
+			"id": "218",
+			"show": "Shirdi",
+			"show_v": "शिर्डी"
+		}, {
+			"id": "219",
+			"show": "Kopargaon",
+			"show_v": "कोपरगांव"
+		}, {
+			"id": "220",
+			"show": "Shrirampur (SC)",
+			"show_v": "श्रीरामपूर (अ.जा.)"
+		}, {
+			"id": "221",
+			"show": "Nevasa",
+			"show_v": "नेवासा"
+		}, {
+			"id": "222",
+			"show": "Shevgaon",
+			"show_v": "शेवगांव"
+		}, {
+			"id": "223",
+			"show": "Rahuri",
+			"show_v": "राहुरी"
+		}, {
+			"id": "224",
+			"show": "Parner",
+			"show_v": "पारनेर"
+		}, {
+			"id": "225",
+			"show": "Ahmednagar City",
+			"show_v": "अहमदनगर शहर"
+		}, {
+			"id": "226",
+			"show": "Shrigonda",
+			"show_v": "श्रीगोंदा"
+		}, {
+			"id": "227",
+			"show": "Karjat Jamkhed",
+			"show_v": "कर्जत जामखेड"
+		}]
+	}, {
+		"id": "27",
+		"show": "Beed",
+		"show_v": "बीड",
+		"acs": [{
+			"id": "228",
+			"show": "Georai",
+			"show_v": "गेवराई"
+		}, {
+			"id": "229",
+			"show": "Majalgaon",
+			"show_v": "माजलगांव"
+		}, {
+			"id": "230",
+			"show": "Beed",
+			"show_v": "बीड"
+		}, {
+			"id": "231",
+			"show": "Ashti",
+			"show_v": "आष्टी"
+		}, {
+			"id": "232",
+			"show": "Kaij (SC)",
+			"show_v": "केज (अ.जा.)"
+		}, {
+			"id": "233",
+			"show": "Parli",
+			"show_v": "परळी"
+		}]
+	}, {
+		"id": "28",
+		"show": "Latur",
+		"show_v": "लातुर",
+		"acs": [{
+			"id": "234",
+			"show": "Latur Rural",
+			"show_v": "लातूर ग्रामीण"
+		}, {
+			"id": "235",
+			"show": "Latur City",
+			"show_v": "लातूर शहर"
+		}, {
+			"id": "236",
+			"show": "Ahmedpur",
+			"show_v": "अहमदपूर"
+		}, {
+			"id": "237",
+			"show": "Udgir (SC)",
+			"show_v": "उदगीर (अ.जा.)"
+		}, {
+			"id": "238",
+			"show": "Nilanga",
+			"show_v": "निलंगा"
+		}, {
+			"id": "239",
+			"show": "Ausa",
+			"show_v": "औसा"
+		}]
+	}, {
+		"id": "29",
+		"show": "Osmanabad",
+		"show_v": "उस्मानाबाद",
+		"acs": [{
+			"id": "240",
+			"show": "Omerga (SC)",
+			"show_v": "उमरगा (अ.जा.)"
+		}, {
+			"id": "241",
+			"show": "Tuljapur",
+			"show_v": "तुळजापूर"
+		}, {
+			"id": "242",
+			"show": "Osmanabad",
+			"show_v": "उस्मानाबाद"
+		}, {
+			"id": "243",
+			"show": "Paranda",
+			"show_v": "परांडा"
+		}]
+	}, {
+		"id": "30",
+		"show": "Solapur",
+		"show_v": "सोलापुर",
+		"acs": [{
+			"id": "244",
+			"show": "Karmala",
+			"show_v": "करमाळा"
+		}, {
+			"id": "245",
+			"show": "Madha",
+			"show_v": "माढा"
+		}, {
+			"id": "246",
+			"show": "Barshi",
+			"show_v": "बार्शी"
+		}, {
+			"id": "247",
+			"show": "Mohol (SC)",
+			"show_v": "मोहोळ (अ.जा.)"
+		}, {
+			"id": "248",
+			"show": "Solapur City North",
+			"show_v": "सोलापूर शहर उत्तर"
+		}, {
+			"id": "249",
+			"show": "Solapur City Central",
+			"show_v": "सोलापूर शहर मध्य"
+		}, {
+			"id": "250",
+			"show": "Akkalkot",
+			"show_v": "अक्कलकोट"
+		}, {
+			"id": "251",
+			"show": "Solapur South",
+			"show_v": "सोलापूर दक्षिण"
+		}, {
+			"id": "252",
+			"show": "Pandharpur",
+			"show_v": "पंढरपूर"
+		}, {
+			"id": "253",
+			"show": "Sangola",
+			"show_v": "सांगोले"
+		}, {
+			"id": "254",
+			"show": "Malshiran (SC)",
+			"show_v": "माळशिरस (अ.ज.)"
+		}]
+	}, {
+		"id": "31",
+		"show": "Satara",
+		"show_v": "सातारा",
+		"acs": [{
+			"id": "255",
+			"show": "Phaltan (SC)",
+			"show_v": "फलटण (अ.जा.)"
+		}, {
+			"id": "256",
+			"show": "Wai",
+			"show_v": "वाई"
+		}, {
+			"id": "257",
+			"show": "Koregaon",
+			"show_v": "कोरेगांव"
+		}, {
+			"id": "258",
+			"show": "Man",
+			"show_v": "माण"
+		}, {
+			"id": "259",
+			"show": "Karad Narth",
+			"show_v": "कराड उत्तर"
+		}, {
+			"id": "260",
+			"show": "Karad South",
+			"show_v": "कराड दक्षिण"
+		}, {
+			"id": "261",
+			"show": "Patan",
+			"show_v": "पाटण"
+		}, {
+			"id": "262",
+			"show": "Satara",
+			"show_v": "सातारा"
+		}]
+	}, {
+		"id": "32",
+		"show": "Ratnagiri",
+		"show_v": "रत्नागिरी",
+		"acs": [{
+			"id": "263",
+			"show": "Dapoli",
+			"show_v": "दापोली"
+		}, {
+			"id": "264",
+			"show": "Guhagar",
+			"show_v": "गुहागर"
+		}, {
+			"id": "265",
+			"show": "Chiplun",
+			"show_v": "चिपळूण"
+		}, {
+			"id": "266",
+			"show": "Ratnagiri",
+			"show_v": "रत्नागिरी"
+		}, {
+			"id": "267",
+			"show": "Rajapur",
+			"show_v": "राजापूर"
+		}]
+	}, {
+		"id": "33",
+		"show": "Sindhudurg",
+		"show_v": "सिंधुदुर्ग",
+		"acs": [{
+			"id": "268",
+			"show": "Kankavli",
+			"show_v": "कणकवली"
+		}, {
+			"id": "269",
+			"show": "Kudal",
+			"show_v": "कुडाळ"
+		}, {
+			"id": "270",
+			"show": "Sawantwadi",
+			"show_v": "सावंतवाडी"
+		}]
+	}, {
+		"id": "34",
+		"show": "Kolhapur",
+		"show_v": "कोल्हापुर",
+		"acs": [{
+			"id": "271",
+			"show": "Chandgad",
+			"show_v": "चंदगड"
+		}, {
+			"id": "272",
+			"show": "Radhanagari",
+			"show_v": "राधानगरी"
+		}, {
+			"id": "273",
+			"show": "kagal",
+			"show_v": "कागल"
+		}, {
+			"id": "274",
+			"show": "Kolhapur South",
+			"show_v": "कोल्हापूर दक्षिण"
+		}, {
+			"id": "275",
+			"show": "Karvir",
+			"show_v": "करवीर"
+		}, {
+			"id": "276",
+			"show": "Kolhapur North",
+			"show_v": "कोल्हापूर उत्तर"
+		}, {
+			"id": "277",
+			"show": "Shahuwadi",
+			"show_v": "शाहूवाडी"
+		}, {
+			"id": "278",
+			"show": "Hatkanangle (SC)",
+			"show_v": "हातकणंगले (अ.जा.)"
+		}, {
+			"id": "279",
+			"show": "Ichalkaranji",
+			"show_v": "इचलकरंजी"
+		}, {
+			"id": "280",
+			"show": "Shirol",
+			"show_v": "शिरोळ"
+		}]
+	}, {
+		"id": "35",
+		"show": "Sangli",
+		"show_v": "सांगली",
+		"acs": [{
+			"id": "281",
+			"show": "Miraj (SC)",
+			"show_v": "मिरज (अ.जा.)"
+		}, {
+			"id": "282",
+			"show": "Sangli",
+			"show_v": "सांगली"
+		}, {
+			"id": "283",
+			"show": "Islampur",
+			"show_v": "इस्लामपूर"
+		}, {
+			"id": "284",
+			"show": "Shirala",
+			"show_v": "शिराळा"
+		}, {
+			"id": "285",
+			"show": "Palus-Kadegaon",
+			"show_v": "पलूस-कडेगांव"
+		}, {
+			"id": "286",
+			"show": "Khanpur",
+			"show_v": "खानापूर"
+		}, {
+			"id": "287",
+			"show": "Tasgaon-Kavathe Mahankal",
+			"show_v": "तासगांव-कवठे महांकाळ"
+		}, {
+			"id": "288",
+			"show": "Jat",
+			"show_v": "जत"
+		}]
+	}, {
+		"id": "36",
+		"show": "Palghar",
+		"show_v": "पालघर",
+		"acs": [{
+			"id": "128",
+			"show": "Dahanu (ST)",
+			"show_v": "डहाणू (अ.ज.)"
+		}, {
+			"id": "129",
+			"show": "Vekramgrth (ST)",
+			"show_v": "विक्रमगड (अ.ज.)"
+		}, {
+			"id": "130",
+			"show": "Palghar (ST)",
+			"show_v": "पालघर (अ.ज.)"
+		}, {
+			"id": "131",
+			"show": "Boisar (ST)",
+			"show_v": "बोईसर (अ.ज.)"
+		}, {
+			"id": "132",
+			"show": "Nalasopara",
+			"show_v": "नालासोपारा"
+		}, {
+			"id": "133",
+			"show": "Vasai",
+			"show_v": "वसई"
+		}]
+	}]
+}

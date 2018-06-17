@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name"> Voice Lock Screen</string>
+
+    <!--test ads-->
+    <string name="admob_app_id">ca-app-pub-9304672946653192~8271451544</string>
+    <!--<string name="ad_unit_id">ca-app-pub-4445981284747506/6783416261</string>-->
+    <!--<string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>-->
+    <string name="banner_ad_unit_id">ca-app-pub-9304672946653192/1836947278</string>
+    <string name="interstitial_ad">ca-app-pub-3940256099942544/1033173712</string>
+    <!--<string name="interstitial_ad">ca-app-pub-9304672946653192/2777535990</string>-->
+    <!--<string name="ad_unit_id">ca-app-pub-3940256099942544/8135179316</string>-->
+    <!--<string name="test_interstitial_ad">ca-app-pub-3940256099942544/1033173712</string>-->
+
+
+    <string name="viewall">viewall</string>
+    <!--<string name="activate_phone_lock">Activate Phone Lock    </string>-->
+    <string name="voice_password">Voice Password</string>
+    <string name="keypad_password">keypad Password</string>
+    <string name="app_settings">App Settings</string>
+    <string name="speak_current_voice_password_to_change_your_voice_password">Speak current Voice Password to change your Voice Password.</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="tap_on_mic_to_speak_voice_password_or_click_on_keypad_icon_to_unlock_with_pincode">Tap on MIC to Speak Voice Password\'or\' Click on Keypad icon to unlock with PINCODE</string>
+    <string name="more_apps">More Apps</string>
+    <string name="permission_granted">Permission Granted, Now you can set your voice password.</string>
+    <string name="permission_denined">Permission Denied, You cannot set your voice password.</string>
+    <string name="enter_current_password">ENTER CURRENT PASSWORD</string>
+    <string name="your_default_voice_password_is_hello_alternate_password_is_1234">Your Default Voice Password is Hello , \n Alternate password is 1234</string>
+    <string name="enter_your_password">ENTER YOUR PASSWORD</string>
+    <string name="your_alternate_pass">Your Alternate Password is now</string>
+    <string name="drawing_over_other_app_permission_accepted">Permit Drawing Over Other Apps permission accepted</string>
+    <string name="drawing_over_other_apps_permission_denined">Permit Drawing Over Other Apps permission Denied</string>
+    <string-array name="ratings_array">
+        <item>Do you find this app useful? Please support us by giving us 5 star on Playstore!</item>
+        <item>Got accurate information? Please support us by giving us 5 star on Playstore!</item>
+        <item>Our app is Easy to use? Please support us by giving us 5 star on Playstore!</item>
+        <item>Do you think our app is Informative? Please support us by giving us 5 star on Playstore!</item>
+        <item>Do you find our app is providing Good Info? Please support us by giving us 5 star on Playstore!</item>
+    </string-array>
+
+</resources>

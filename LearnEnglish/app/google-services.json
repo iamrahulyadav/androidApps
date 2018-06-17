@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "291812997611",
+    "firebase_url": "https://english-speaking-tips-and-quiz.firebaseio.com",
+    "project_id": "english-speaking-tips-and-quiz",
+    "storage_bucket": "english-speaking-tips-and-quiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291812997611:android:8c4feba23e1fc677",
+        "android_client_info": {
+          "package_name": "com.highlightindianapps.learnenglishfromhindi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291812997611-npa53g3f5a9vaehkl9cca7snnh3280vd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByJz2QetUnWfQ1Bsgbx3o5yxQmpo9YBSo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

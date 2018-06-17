@@ -1,0 +1,340 @@
+{
+	"state_code": "U05",
+	"state": "Delhi",
+	"dist": [{
+		"id": "1",
+		"show": "NORTH WEST                    ",
+		"show_v": "उत्तर-पश्चिम",
+		"acs": [{
+			"id": "6",
+			"show": "RITHALA",
+			"show_v": "रिठाला"
+		}, {
+			"id": "8",
+			"show": "MUNDKA",
+			"show_v": "मुडका"
+		}, {
+			"id": "9",
+			"show": "KIRARI",
+			"show_v": "किरारी"
+		}, {
+			"id": "10",
+			"show": "SULTANPUR MAJRA",
+			"show_v": "सुलतानपुर माजरा"
+		}, {
+			"id": "12",
+			"show": "MANGOL PURI",
+			"show_v": "मंगोल पुरी"
+		}, {
+			"id": "14",
+			"show": "SHALIMAR BAGH",
+			"show_v": "शालीमार बाग"
+		}, {
+			"id": "16",
+			"show": "TRI NAGAR",
+			"show_v": "त्रि नगर"
+		}]
+	}, {
+		"id": "2",
+		"show": "NORTH EAST                    ",
+		"show_v": "उत्तर-पूर्व",
+		"acs": [{
+			"id": "65",
+			"show": "SEELAMPUR",
+			"show_v": "सीलम पुर"
+		}, {
+			"id": "66",
+			"show": "GHONDA",
+			"show_v": "घोण्डा"
+		}, {
+			"id": "68",
+			"show": "GOKALPUR",
+			"show_v": "गोकलपुर"
+		}, {
+			"id": "69",
+			"show": "MUSTAFABAD",
+			"show_v": "मुस्तफाबाद"
+		}, {
+			"id": "70",
+			"show": "KARAWAL NAGAR",
+			"show_v": "करावल नगर"
+		}]
+	}, {
+		"id": "3",
+		"show": "SOUTH                         ",
+		"show_v": "दक्षिण",
+		"acs": [{
+			"id": "43",
+			"show": "MALVIYA NAGAR",
+			"show_v": "मालवीय नगर"
+		}, {
+			"id": "45",
+			"show": "MEHRAULI",
+			"show_v": "महरॊली"
+		}, {
+			"id": "46",
+			"show": "CHHATARPUR",
+			"show_v": "छत्तर पुर"
+		}, {
+			"id": "47",
+			"show": "DEOLI",
+			"show_v": "देवली"
+		}, {
+			"id": "48",
+			"show": "AMBEDKAR NAGAR",
+			"show_v": "अम्बेड्कर नगर"
+		}]
+	}, {
+		"id": "4",
+		"show": "CENTRAL                       ",
+		"show_v": "सेन्ट्रल",
+		"acs": [{
+			"id": "2",
+			"show": "BURARI",
+			"show_v": "बुराडी"
+		}, {
+			"id": "3",
+			"show": "TIMARPUR",
+			"show_v": "तिमारपुर"
+		}, {
+			"id": "19",
+			"show": "SADAR BAZAR",
+			"show_v": "सदरबाजार"
+		}, {
+			"id": "20",
+			"show": "CHANDNI CHOWK",
+			"show_v": "चांदनी चॊक"
+		}, {
+			"id": "21",
+			"show": "MATIA MAHAL",
+			"show_v": "मटिया महल"
+		}, {
+			"id": "22",
+			"show": "BALLIMARAN",
+			"show_v": "बलीमरान"
+		}, {
+			"id": "23",
+			"show": "KAROL BAGH",
+			"show_v": "करोल बाग"
+		}]
+	}, {
+		"id": "5",
+		"show": "SOUTH WEST                    ",
+		"show_v": "दक्षिण-पश्चिम",
+		"acs": [{
+			"id": "31",
+			"show": "VIKASPURI",
+			"show_v": "विकासपुरी"
+		}, {
+			"id": "32",
+			"show": "UTTAM NAGAR",
+			"show_v": "उत्तम नगर"
+		}, {
+			"id": "33",
+			"show": "DWARKA",
+			"show_v": "द्वारका"
+		}, {
+			"id": "34",
+			"show": "MATIALA",
+			"show_v": "मटियाला"
+		}, {
+			"id": "35",
+			"show": "NAJAFGARH",
+			"show_v": "नजफगद"
+		}, {
+			"id": "36",
+			"show": "BIJWASAN",
+			"show_v": "बिजवासन"
+		}, {
+			"id": "37",
+			"show": "PALAM",
+			"show_v": "पालम"
+		}]
+	}, {
+		"id": "6",
+		"show": "EAST                          ",
+		"show_v": "पूर्वी",
+		"acs": [{
+			"id": "55",
+			"show": "TRILOKPURI",
+			"show_v": "त्रिलॊक पुरी"
+		}, {
+			"id": "56",
+			"show": "KONDLI",
+			"show_v": "कॊड्ली"
+		}, {
+			"id": "57",
+			"show": "PATPARGANJ",
+			"show_v": "पटपरगंज"
+		}, {
+			"id": "58",
+			"show": "LAXMI NAGAR",
+			"show_v": "लक्ष्मी नगर"
+		}, {
+			"id": "60",
+			"show": "KRISHNA NAGAR",
+			"show_v": "कृष्णा नगर"
+		}, {
+			"id": "61",
+			"show": "GANDHI NAGAR",
+			"show_v": "गांधीनगर"
+		}]
+	}, {
+		"id": "7",
+		"show": "WEST                          ",
+		"show_v": "पश्चिम",
+		"acs": [{
+			"id": "11",
+			"show": "NANGLOI JAT",
+			"show_v": "नागलोई जाट"
+		}, {
+			"id": "25",
+			"show": "MOTI NAGAR",
+			"show_v": "मोती नगर"
+		}, {
+			"id": "26",
+			"show": "MADIPUR",
+			"show_v": "मादीपुर"
+		}, {
+			"id": "27",
+			"show": "RAJOURI GARDEN",
+			"show_v": "राजॊरी गाडर्न"
+		}, {
+			"id": "28",
+			"show": "HARI NAGAR",
+			"show_v": "हरी नगर"
+		}, {
+			"id": "29",
+			"show": "TILAK NAGAR",
+			"show_v": "तिलक नगर"
+		}, {
+			"id": "30",
+			"show": "JANAKPURI",
+			"show_v": "जनक पुरी"
+		}]
+	}, {
+		"id": "8",
+		"show": "NORTH                         ",
+		"show_v": "उत्तर",
+		"acs": [{
+			"id": "1",
+			"show": "NERELA",
+			"show_v": "नरेला"
+		}, {
+			"id": "4",
+			"show": "ADARSH NAGAR",
+			"show_v": "आदर्श नगर"
+		}, {
+			"id": "5",
+			"show": "BADLI",
+			"show_v": "बादली"
+		}, {
+			"id": "7",
+			"show": "BAWANA",
+			"show_v": "बवाना"
+		}, {
+			"id": "13",
+			"show": "ROHINI",
+			"show_v": "रोहिणी"
+		}, {
+			"id": "15",
+			"show": "SHAKUR BASTI",
+			"show_v": "शकुरबस्ती"
+		}, {
+			"id": "17",
+			"show": "WAZIRPUR",
+			"show_v": "वजीरपुर"
+		}, {
+			"id": "18",
+			"show": "MODEL TOWN",
+			"show_v": "माडल टाउन"
+		}]
+	}, {
+		"id": "9",
+		"show": "NEW DELHI                     ",
+		"show_v": "नई दिल्ली",
+		"acs": [{
+			"id": "24",
+			"show": "PATEL NAGAR",
+			"show_v": "पटेल नगर"
+		}, {
+			"id": "38",
+			"show": "DELHI CANTT",
+			"show_v": "दिल्ली  कॆट"
+		}, {
+			"id": "39",
+			"show": "RAJINDER NAGAR",
+			"show_v": "राजेन्द्र नगर"
+		}, {
+			"id": "40",
+			"show": "NEW DELHI",
+			"show_v": "नई दिल्ली"
+		}, {
+			"id": "44",
+			"show": "R K PURAM",
+			"show_v": "आर के पुरम"
+		}, {
+			"id": "50",
+			"show": "GREATER KAILASH",
+			"show_v": "ग्रेटर कॆलाश"
+		}]
+	}, {
+		"id": "10",
+		"show": "SHAHDARA",
+		"show_v": "शाहदरा",
+		"acs": [{
+			"id": "59",
+			"show": "VISHWAS NAGAR",
+			"show_v": "विश्वास नगर"
+		}, {
+			"id": "62",
+			"show": "SHAHDARA",
+			"show_v": "शाहदरा"
+		}, {
+			"id": "63",
+			"show": "SEEMA PURI",
+			"show_v": "सीमा पुरी"
+		}, {
+			"id": "64",
+			"show": "ROHTAS NAGAR",
+			"show_v": "रोहतास नगर"
+		}, {
+			"id": "67",
+			"show": "BABARPUR",
+			"show_v": "बाबरपुर"
+		}]
+	}, {
+		"id": "11",
+		"show": "SOUTH-EAST",
+		"show_v": "दक्षिण पूर्व",
+		"acs": [{
+			"id": "41",
+			"show": "JANGPURA",
+			"show_v": "जंगपुरा"
+		}, {
+			"id": "42",
+			"show": "KASTURBA NAGAR",
+			"show_v": "कस्तूरबा नगर"
+		}, {
+			"id": "49",
+			"show": "SANGAM VIHAR",
+			"show_v": "संगम विहार"
+		}, {
+			"id": "51",
+			"show": "KALKAJI",
+			"show_v": "कालकाजी"
+		}, {
+			"id": "52",
+			"show": "TUGHLAKABAD",
+			"show_v": "तुगलकाबाद"
+		}, {
+			"id": "53",
+			"show": "BADARPUR",
+			"show_v": "बदरपुर"
+		}, {
+			"id": "54",
+			"show": "OKHLA",
+			"show_v": "ऒखला"
+		}]
+	}]
+}

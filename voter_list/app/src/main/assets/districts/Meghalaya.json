@@ -1,0 +1,300 @@
+{
+	"state_code": "S15",
+	"state": "Meghalaya",
+	"dist": [{
+		"id": "1",
+		"show": "WEST JAINTIA HILLS",
+		"show_v": "WEST JAINTIA HILLS",
+		"acs": [{
+			"id": "1",
+			"show": "NARTIANG",
+			"show_v": "NARTIANG"
+		}, {
+			"id": "2",
+			"show": "JOWAI",
+			"show_v": "JOWAI"
+		}, {
+			"id": "3",
+			"show": "RALIANG",
+			"show_v": "RALIANG"
+		}, {
+			"id": "4",
+			"show": "MOWKAIAW",
+			"show_v": "MOWKAIAW"
+		}, {
+			"id": "7",
+			"show": "AMLAREM",
+			"show_v": "AMLAREM"
+		}]
+	}, {
+		"id": "2",
+		"show": "RI-BHOI",
+		"show_v": "RI-BHOI",
+		"acs": [{
+			"id": "8",
+			"show": "MAWHATI",
+			"show_v": "MAWHATI"
+		}, {
+			"id": "9",
+			"show": "NONGPOH",
+			"show_v": "NONGPOH"
+		}, {
+			"id": "10",
+			"show": "JIRANG",
+			"show_v": "JIRANG"
+		}, {
+			"id": "11",
+			"show": "UMSNING",
+			"show_v": "UMSNING"
+		}, {
+			"id": "12",
+			"show": "UMROI",
+			"show_v": "UMROI"
+		}]
+	}, {
+		"id": "3",
+		"show": "EAST KHASI HILLS",
+		"show_v": "EAST KHASI HILLS",
+		"acs": [{
+			"id": "13",
+			"show": "MAWRYNGKNENG",
+			"show_v": "MAWRYNGKNENG"
+		}, {
+			"id": "14",
+			"show": "PYNTHORUMKHRAH",
+			"show_v": "PYNTHORUMKHRAH"
+		}, {
+			"id": "15",
+			"show": "MAWLAI",
+			"show_v": "MAWLAI"
+		}, {
+			"id": "16",
+			"show": "EAST SHILLONG",
+			"show_v": "EAST SHILLONG"
+		}, {
+			"id": "17",
+			"show": "NORTH SHILLONG",
+			"show_v": "NORTH SHILLONG"
+		}, {
+			"id": "18",
+			"show": "WEST SHILLONG",
+			"show_v": "WEST SHILLONG"
+		}, {
+			"id": "19",
+			"show": "SOUTH SHILLONG",
+			"show_v": "SOUTH SHILLONG"
+		}, {
+			"id": "20",
+			"show": "MYLLIEM",
+			"show_v": "MYLLIEM"
+		}, {
+			"id": "21",
+			"show": "NONGTHYMMAI",
+			"show_v": "NONGTHYMMAI"
+		}, {
+			"id": "22",
+			"show": "NONGKREM",
+			"show_v": "NONGKREM"
+		}, {
+			"id": "23",
+			"show": "SOHIONG",
+			"show_v": "SOHIONG"
+		}, {
+			"id": "24",
+			"show": "MAWPHLANG",
+			"show_v": "MAWPHLANG"
+		}, {
+			"id": "25",
+			"show": "MAWSYNRAM",
+			"show_v": "MAWSYNRAM"
+		}, {
+			"id": "26",
+			"show": "SHELLA",
+			"show_v": "SHELLA"
+		}, {
+			"id": "27",
+			"show": "PYNURSLA",
+			"show_v": "PYNURSLA"
+		}, {
+			"id": "28",
+			"show": "SOHRA",
+			"show_v": "SOHRA"
+		}, {
+			"id": "29",
+			"show": "MAWKYNREW",
+			"show_v": "MAWKYNREW"
+		}]
+	}, {
+		"id": "4",
+		"show": "WEST KHASI HILLS",
+		"show_v": "WEST KHASI HILLS",
+		"acs": [{
+			"id": "30",
+			"show": "MAIRANG",
+			"show_v": "MAIRANG"
+		}, {
+			"id": "31",
+			"show": "MAWTHADRAISHAN",
+			"show_v": "MAWTHADRAISHAN"
+		}, {
+			"id": "32",
+			"show": "NONGSTOIN",
+			"show_v": "NONGSTOIN"
+		}, {
+			"id": "33",
+			"show": "RAMBRAI JYRNGAM",
+			"show_v": "RAMBRAI JYRNGAM"
+		}, {
+			"id": "34",
+			"show": "MAWSHYNRUT",
+			"show_v": "MAWSHYNRUT"
+		}]
+	}, {
+		"id": "5",
+		"show": "EAST GARO HILLS",
+		"show_v": "EAST GARO HILLS",
+		"acs": [{
+			"id": "37",
+			"show": "KHARKUTTA",
+			"show_v": "KHARKUTTA"
+		}, {
+			"id": "41",
+			"show": "SONGSAK",
+			"show_v": "SONGSAK"
+		}, {
+			"id": "42",
+			"show": "RONGJENG",
+			"show_v": "RONGJENG"
+		}, {
+			"id": "43",
+			"show": "WILLIAM NAGAR",
+			"show_v": "WILLIAM NAGAR"
+		}]
+	}, {
+		"id": "6",
+		"show": "WEST GARO HILLS",
+		"show_v": "WEST GARO HILLS",
+		"acs": [{
+			"id": "44",
+			"show": "RAKSAMGRE",
+			"show_v": "RAKSAMGRE"
+		}, {
+			"id": "45",
+			"show": "TIKRIKILLA",
+			"show_v": "TIKRIKILLA"
+		}, {
+			"id": "46",
+			"show": "PHULBARI",
+			"show_v": "PHULBARI"
+		}, {
+			"id": "47",
+			"show": "RAJABALA",
+			"show_v": "RAJABALA"
+		}, {
+			"id": "48",
+			"show": "SELSELLA",
+			"show_v": "SELSELLA"
+		}, {
+			"id": "49",
+			"show": "DADENGGRE",
+			"show_v": "DADENGGRE"
+		}, {
+			"id": "50",
+			"show": "NORTH TURA",
+			"show_v": "NORTH TURA"
+		}, {
+			"id": "51",
+			"show": "SOUTH TURA",
+			"show_v": "SOUTH TURA"
+		}, {
+			"id": "52",
+			"show": "RANGSAKONA",
+			"show_v": "RANGSAKONA"
+		}, {
+			"id": "56",
+			"show": "GAMBEGRE",
+			"show_v": "GAMBEGRE"
+		}, {
+			"id": "57",
+			"show": "DALU",
+			"show_v": "DALU"
+		}]
+	}, {
+		"id": "7",
+		"show": "SOUTH GARO HILLS",
+		"show_v": "SOUTH GARO HILLS",
+		"acs": [{
+			"id": "58",
+			"show": "RONGARA SIJU",
+			"show_v": "RONGARA SIJU"
+		}, {
+			"id": "59",
+			"show": "CHOCKPOT",
+			"show_v": "CHOCKPOT"
+		}, {
+			"id": "60",
+			"show": "BAGHMARA",
+			"show_v": "BAGHMARA"
+		}]
+	}, {
+		"id": "8",
+		"show": "EAST JAINTIA HILLS",
+		"show_v": "EAST JAINTIA HILLS",
+		"acs": [{
+			"id": "5",
+			"show": "SUTNGA SAIPUNG",
+			"show_v": "SUTNGA SAIPUNG"
+		}, {
+			"id": "6",
+			"show": "KHLIEHRIAT",
+			"show_v": "KHLIEHRIAT"
+		}]
+	}, {
+		"id": "9",
+		"show": "SOUTH WEST KHASI HILLS",
+		"show_v": "SOUTH WEST KHASI HILLS",
+		"acs": [{
+			"id": "35",
+			"show": "RANIKOR",
+			"show_v": "RANIKOR"
+		}, {
+			"id": "36",
+			"show": "MAWKYRWAT",
+			"show_v": "MAWKYRWAT"
+		}]
+	}, {
+		"id": "10",
+		"show": "NORTH GARO HILLS",
+		"show_v": "NORTH GARO HILLS",
+		"acs": [{
+			"id": "38",
+			"show": "MENDIPATHAR",
+			"show_v": "MENDIPATHAR"
+		}, {
+			"id": "39",
+			"show": "RESUBELPARA",
+			"show_v": "RESUBELPARA"
+		}, {
+			"id": "40",
+			"show": "BAJENGDOBA",
+			"show_v": "BAJENGDOBA"
+		}]
+	}, {
+		"id": "11",
+		"show": "SOUTH WEST GARO HILLS",
+		"show_v": "SOUTH WEST GARO HILLS",
+		"acs": [{
+			"id": "53",
+			"show": "AMPATI",
+			"show_v": "AMPATI"
+		}, {
+			"id": "54",
+			"show": "MAHENDRAGANJ",
+			"show_v": "MAHENDRAGANJ"
+		}, {
+			"id": "55",
+			"show": "SALMANPARA",
+			"show_v": "SALMANPARA"
+		}]
+	}]
+}

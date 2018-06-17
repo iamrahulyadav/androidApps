@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.highlightindianapps.learnenglishfromhindi.ResultActivity">
+
+
+    <TextView
+        android:id="@+id/total_questions_shown"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/your_correct_ans"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/your_correct_ans"
+        android:layout_marginTop="20dp"
+        android:text="Total Questions shown :  "
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/your_correct_ans"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/total_questions_shown"
+        android:layout_marginLeft="24dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="15dp"
+        android:text="Your Correct Ans :"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/your_wrong_ans"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/your_correct_ans"
+        android:layout_alignStart="@+id/your_correct_ans"
+        android:layout_below="@+id/your_correct_ans"
+        android:layout_marginTop="15dp"
+        android:text="Your wrong Ans :"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/your_unattempted_qns"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/your_wrong_ans"
+        android:layout_alignStart="@+id/your_wrong_ans"
+        android:layout_below="@+id/your_wrong_ans"
+        android:layout_marginTop="15dp"
+        android:text="Your unattempted qns :"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/final_score"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/your_unattempted_qns"
+        android:layout_alignStart="@+id/your_unattempted_qns"
+        android:layout_below="@+id/your_unattempted_qns"
+        android:layout_marginTop="15dp"
+        android:text="Your Final Score : "
+        android:textColor="@color/common_google_signin_btn_text_dark_focused"
+        android:textSize="20sp" />
+
+    <Button
+        android:backgroundTint="@color/btnBackground"
+        android:textColor="@color/white"
+        android:id="@+id/see_answers_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="11dp"
+        android:text="See Answers" />
+
+    <Button
+        android:id="@+id/home_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/see_answers_btn"
+        android:layout_centerHorizontal="true"
+        android:backgroundTint="@color/btnBackground"
+        android:text="Home "
+        android:textColor="@color/white" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/final_score"
+        android:layout_marginTop="25dp">
+
+        <FrameLayout
+            android:id="@+id/adAtResult"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+</RelativeLayout>

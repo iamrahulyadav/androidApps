@@ -1,0 +1,350 @@
+{
+	"state_code": "S28",
+	"state": "Uttarakhand",
+	"dist": [{
+		"id": "1",
+		"show": "Haridwar                                          ",
+		"show_v": "हरिद्वार",
+		"acs": [{
+			"id": "25",
+			"show": "Haridwar",
+			"show_v": "हरिद्वार"
+		}, {
+			"id": "26",
+			"show": "BHEL Ranipur",
+			"show_v": "बीएचईएल रानीपुर"
+		}, {
+			"id": "27",
+			"show": "Jwalapur",
+			"show_v": "ज्‍वालापुर"
+		}, {
+			"id": "28",
+			"show": "Bhagwanpur",
+			"show_v": "भगवानपुर"
+		}, {
+			"id": "29",
+			"show": "Jhabrera",
+			"show_v": "झबरेड़ा"
+		}, {
+			"id": "30",
+			"show": "Piran Kaliyar",
+			"show_v": "पिरान कलियर"
+		}, {
+			"id": "31",
+			"show": "Roorkee",
+			"show_v": "रुड़की"
+		}, {
+			"id": "32",
+			"show": "Khanpur",
+			"show_v": "खानपुर"
+		}, {
+			"id": "33",
+			"show": "Manglore",
+			"show_v": "मंगलौर"
+		}, {
+			"id": "34",
+			"show": "Laksar",
+			"show_v": "लक्‍सर"
+		}, {
+			"id": "35",
+			"show": "Haridwar Rural",
+			"show_v": "हरिद्वार ग्रामीण"
+		}]
+	}, {
+		"id": "2",
+		"show": "Nainital                                          ",
+		"show_v": "नैनीताल",
+		"acs": [{
+			"id": "56",
+			"show": "Lalkuan",
+			"show_v": "लालकुंआ"
+		}, {
+			"id": "57",
+			"show": "Bhimtal",
+			"show_v": "भीमताल"
+		}, {
+			"id": "58",
+			"show": "Nainital",
+			"show_v": "नैनीताल"
+		}, {
+			"id": "59",
+			"show": "Haldwani",
+			"show_v": "हल्‍द्वानी"
+		}, {
+			"id": "60",
+			"show": "Kaladhungi",
+			"show_v": "कालाढूंगी"
+		}, {
+			"id": "61",
+			"show": "Ramnagar",
+			"show_v": "रामनगर"
+		}]
+	}, {
+		"id": "3",
+		"show": "Almora                                            ",
+		"show_v": "अल्‍मोडा",
+		"acs": [{
+			"id": "48",
+			"show": "Dwarahat",
+			"show_v": "द्वाराहाट"
+		}, {
+			"id": "49",
+			"show": "Salt",
+			"show_v": "सल्‍ट"
+		}, {
+			"id": "50",
+			"show": "Ranikhet",
+			"show_v": "रानीखेत"
+		}, {
+			"id": "51",
+			"show": "Someshwar",
+			"show_v": "सोमेश्‍वर"
+		}, {
+			"id": "52",
+			"show": "Almora",
+			"show_v": "अल्‍मोड़ा"
+		}, {
+			"id": "53",
+			"show": "Jageshwar",
+			"show_v": "जागेश्‍वर"
+		}]
+	}, {
+		"id": "4",
+		"show": "Udham Singh Nagar                                 ",
+		"show_v": "ऊधमसिंहनगर",
+		"acs": [{
+			"id": "62",
+			"show": "Jaspur",
+			"show_v": "जसपुर"
+		}, {
+			"id": "63",
+			"show": "Kashipur",
+			"show_v": "काशीपुर"
+		}, {
+			"id": "64",
+			"show": "Bajpur",
+			"show_v": "बाजपुर"
+		}, {
+			"id": "65",
+			"show": "Gadarpur",
+			"show_v": "गदरपुर"
+		}, {
+			"id": "66",
+			"show": "Rudrapur",
+			"show_v": "रुद्रपुर"
+		}, {
+			"id": "67",
+			"show": "Kichha",
+			"show_v": "किच्‍छा"
+		}, {
+			"id": "68",
+			"show": "Sitarganj",
+			"show_v": "सितारगंज"
+		}, {
+			"id": "69",
+			"show": "Nanakmatta",
+			"show_v": "नानकमत्‍ता"
+		}, {
+			"id": "70",
+			"show": "Khatima",
+			"show_v": "खटीमा"
+		}]
+	}, {
+		"id": "5",
+		"show": "Pithoragarh",
+		"show_v": "पिथौरागढ",
+		"acs": [{
+			"id": "42",
+			"show": "Dharchula",
+			"show_v": "धारचूला"
+		}, {
+			"id": "43",
+			"show": "Didihat",
+			"show_v": "डीडीहाट"
+		}, {
+			"id": "44",
+			"show": "Pithoragarh",
+			"show_v": "पिथौरागढ़"
+		}, {
+			"id": "45",
+			"show": "Gangolihat",
+			"show_v": "गंगोलीहाट"
+		}]
+	}, {
+		"id": "6",
+		"show": "Bageshwar                                         ",
+		"show_v": "बागेश्‍वर",
+		"acs": [{
+			"id": "46",
+			"show": "Kapkot",
+			"show_v": "कपकोट"
+		}, {
+			"id": "47",
+			"show": "Bageshwar",
+			"show_v": "बागेश्‍वर"
+		}]
+	}, {
+		"id": "7",
+		"show": "Champawat",
+		"show_v": "चम्‍पावत",
+		"acs": [{
+			"id": "54",
+			"show": "Lohaghat",
+			"show_v": "लोहाघाट"
+		}, {
+			"id": "55",
+			"show": "Champawat",
+			"show_v": "चम्‍पावत"
+		}]
+	}, {
+		"id": "8",
+		"show": "Chamoli",
+		"show_v": "चमोली",
+		"acs": [{
+			"id": "4",
+			"show": "Badrinath",
+			"show_v": "बद्रीनाथ"
+		}, {
+			"id": "5",
+			"show": "Tharali",
+			"show_v": "थराली"
+		}, {
+			"id": "6",
+			"show": "Karanprayag",
+			"show_v": "कर्णप्रयाग"
+		}]
+	}, {
+		"id": "9",
+		"show": "Uttarkashi                                        ",
+		"show_v": "उत्‍तरकाशी",
+		"acs": [{
+			"id": "1",
+			"show": "Purola",
+			"show_v": "पुरोला"
+		}, {
+			"id": "2",
+			"show": "Yamunotri",
+			"show_v": "यमुनोत्री"
+		}, {
+			"id": "3",
+			"show": "Gangotri",
+			"show_v": "गंगोत्री"
+		}]
+	}, {
+		"id": "10",
+		"show": "Rudraprayag                                       ",
+		"show_v": "रुद्रप्रयाग",
+		"acs": [{
+			"id": "7",
+			"show": "Kedarnath",
+			"show_v": "केदारनाथ"
+		}, {
+			"id": "8",
+			"show": "Rudraprayag",
+			"show_v": "रुद्रप्रयाग"
+		}]
+	}, {
+		"id": "11",
+		"show": "Tehri Garhwal                                     ",
+		"show_v": "टिहरी गढवाल",
+		"acs": [{
+			"id": "9",
+			"show": "Ghansali (S.C.)",
+			"show_v": "घनसाली (अ.जा.)"
+		}, {
+			"id": "10",
+			"show": "Devprayag",
+			"show_v": "देवप्रयाग"
+		}, {
+			"id": "11",
+			"show": "Narendranagar",
+			"show_v": "नरेन्‍द्रनगर"
+		}, {
+			"id": "12",
+			"show": "Pratapnagar",
+			"show_v": "प्रतापनगर"
+		}, {
+			"id": "13",
+			"show": "Tehri",
+			"show_v": "टिहरी"
+		}, {
+			"id": "14",
+			"show": "Dhanolti",
+			"show_v": "धनोल्‍टी"
+		}]
+	}, {
+		"id": "12",
+		"show": "Pauri Garhwal                                     ",
+		"show_v": "पौडी गढवाल",
+		"acs": [{
+			"id": "36",
+			"show": "Yamkeshwar",
+			"show_v": "यमकेश्‍वर"
+		}, {
+			"id": "37",
+			"show": "Pauri",
+			"show_v": "पौड़ी"
+		}, {
+			"id": "38",
+			"show": "Srinagar",
+			"show_v": "श्रीनगर"
+		}, {
+			"id": "39",
+			"show": "Chaubattakhal",
+			"show_v": "चौबट्टाखाल"
+		}, {
+			"id": "40",
+			"show": "Lansdowne",
+			"show_v": "लैन्‍सडौन"
+		}, {
+			"id": "41",
+			"show": "Kotdwar",
+			"show_v": "कोटद्वार"
+		}]
+	}, {
+		"id": "13",
+		"show": "Dehradun",
+		"show_v": "देहरादून",
+		"acs": [{
+			"id": "15",
+			"show": "Chakrata",
+			"show_v": "चकराता"
+		}, {
+			"id": "16",
+			"show": "Vikasnagar",
+			"show_v": "विकासनगर"
+		}, {
+			"id": "17",
+			"show": "Sahaspur",
+			"show_v": "सहसपुर"
+		}, {
+			"id": "18",
+			"show": "Dharmpur",
+			"show_v": "धर्मपुर"
+		}, {
+			"id": "19",
+			"show": "Raipur",
+			"show_v": "रायपुर"
+		}, {
+			"id": "20",
+			"show": "Rajpur Road",
+			"show_v": "राजपुर रोड़"
+		}, {
+			"id": "21",
+			"show": "Dehradun Cantonment",
+			"show_v": "देहरादून कैन्‍टोनमेन्‍ट"
+		}, {
+			"id": "22",
+			"show": "Mussoorie",
+			"show_v": "मसूरी"
+		}, {
+			"id": "23",
+			"show": "Doiwala",
+			"show_v": "डोईवाला"
+		}, {
+			"id": "24",
+			"show": "Rishikesh",
+			"show_v": "ऋषिकेश"
+		}]
+	}]
+}

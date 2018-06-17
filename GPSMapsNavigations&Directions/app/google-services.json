@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1041101429662",
+    "firebase_url": "https://maps-and-navigations.firebaseio.com",
+    "project_id": "maps-and-navigations",
+    "storage_bucket": "maps-and-navigations.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041101429662:android:6b9f5d077a760aa4",
+        "android_client_info": {
+          "package_name": "com.highlightindianapps.gpsroutefinder.mobile.location.tracker.gps.maps.locator.route.finder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041101429662-baahc30urjsrrc9m9ckutafk6jchdm1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnTR3QCIZslUB7bkBtgirtDeW8wzk0R0M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,1180 @@
+{
+	"state_code": "S12",
+	"state": "Madhya Pradesh",
+	"dist": [{
+		"id": "1",
+		"show": "SHEOPUR ",
+		"show_v": "श्योपुर",
+		"acs": [{
+			"id": "1",
+			"show": "SHEOPUR",
+			"show_v": "श्योपुर"
+		}, {
+			"id": "2",
+			"show": "VIJAYPUR",
+			"show_v": "विजयपुर"
+		}]
+	}, {
+		"id": "2",
+		"show": "MORENA",
+		"show_v": "मुरैना",
+		"acs": [{
+			"id": "3",
+			"show": "SABALAGADH ",
+			"show_v": "सबलगढ"
+		}, {
+			"id": "4",
+			"show": "JAURA",
+			"show_v": "जौरा"
+		}, {
+			"id": "5",
+			"show": "SUMAOLI",
+			"show_v": "सुमावली"
+		}, {
+			"id": "6",
+			"show": "MORENA",
+			"show_v": "मुरैना"
+		}, {
+			"id": "7",
+			"show": "DIMANI ",
+			"show_v": "दिमनी"
+		}, {
+			"id": "8",
+			"show": "AMBAH",
+			"show_v": "अम्बाह"
+		}]
+	}, {
+		"id": "3",
+		"show": "BHIND",
+		"show_v": "भिण्ड",
+		"acs": [{
+			"id": "9",
+			"show": "ATER ",
+			"show_v": "अटेर"
+		}, {
+			"id": "10",
+			"show": "BHIND ",
+			"show_v": "भिण्ड"
+		}, {
+			"id": "11",
+			"show": "LAHAR ",
+			"show_v": "लहार"
+		}, {
+			"id": "12",
+			"show": "MEHGAON",
+			"show_v": "मेहगांव"
+		}, {
+			"id": "13",
+			"show": "GOHAD ",
+			"show_v": "गोहद"
+		}]
+	}, {
+		"id": "4",
+		"show": "GWALIOR",
+		"show_v": "ग्वालियर",
+		"acs": [{
+			"id": "14",
+			"show": "GWALIOR RURAL",
+			"show_v": "ग्वालियर ग्रामीण"
+		}, {
+			"id": "15",
+			"show": "GWALIOR",
+			"show_v": "ग्वालियर"
+		}, {
+			"id": "16",
+			"show": "GWALIOR EAST ",
+			"show_v": "ग्वालियर पूर्व"
+		}, {
+			"id": "17",
+			"show": "GWALIOR SOUTH",
+			"show_v": "ग्वालियर दक्षिण"
+		}, {
+			"id": "18",
+			"show": "BHITRWAR",
+			"show_v": "भितरवार"
+		}, {
+			"id": "19",
+			"show": "DABRA",
+			"show_v": "डबरा"
+		}]
+	}, {
+		"id": "5",
+		"show": "DATIA",
+		"show_v": "दतिया",
+		"acs": [{
+			"id": "20",
+			"show": "SEONDHA",
+			"show_v": "सेवढा"
+		}, {
+			"id": "21",
+			"show": "BHANDER",
+			"show_v": "भाण्डेर"
+		}, {
+			"id": "22",
+			"show": "DATIA",
+			"show_v": "दतिया"
+		}]
+	}, {
+		"id": "6",
+		"show": "SHIVPURI",
+		"show_v": "शिवपुरी",
+		"acs": [{
+			"id": "23",
+			"show": "KARERA",
+			"show_v": "करैरा"
+		}, {
+			"id": "24",
+			"show": "POHARI ",
+			"show_v": "पोहरी"
+		}, {
+			"id": "25",
+			"show": "SHIVPURI",
+			"show_v": "शिवपुरी"
+		}, {
+			"id": "26",
+			"show": "PICHHORE",
+			"show_v": "पिछोर"
+		}, {
+			"id": "27",
+			"show": "KOLARAS ",
+			"show_v": "कोलारस"
+		}]
+	}, {
+		"id": "7",
+		"show": "GUNA ",
+		"show_v": "गुना",
+		"acs": [{
+			"id": "28",
+			"show": "BAMORI",
+			"show_v": "बमोरी"
+		}, {
+			"id": "29",
+			"show": "GUNA ",
+			"show_v": "गुना"
+		}, {
+			"id": "30",
+			"show": "CHACHODA",
+			"show_v": "चाचौडा"
+		}, {
+			"id": "31",
+			"show": "RAGHOGADH",
+			"show_v": "राघोगढ"
+		}]
+	}, {
+		"id": "8",
+		"show": "ASHOK NAGAR ",
+		"show_v": "अशोक नगर",
+		"acs": [{
+			"id": "32",
+			"show": "ASHOK NAGAR ",
+			"show_v": "अशोकनगर"
+		}, {
+			"id": "33",
+			"show": "CHANDERI",
+			"show_v": "चन्देरी"
+		}, {
+			"id": "34",
+			"show": "MUNGAOLI",
+			"show_v": "मुंगावली"
+		}]
+	}, {
+		"id": "9",
+		"show": "SAGAR ",
+		"show_v": "सागर",
+		"acs": [{
+			"id": "35",
+			"show": "BINA",
+			"show_v": "बीना"
+		}, {
+			"id": "36",
+			"show": "KHURAI ",
+			"show_v": "खुरई"
+		}, {
+			"id": "37",
+			"show": "SURKHI",
+			"show_v": "सुरखी"
+		}, {
+			"id": "38",
+			"show": "DEORI",
+			"show_v": "देवरी"
+		}, {
+			"id": "39",
+			"show": "REHLI",
+			"show_v": "रेहली"
+		}, {
+			"id": "40",
+			"show": "NARYAWALI",
+			"show_v": "नरयावली"
+		}, {
+			"id": "41",
+			"show": "SAGAR ",
+			"show_v": "सागर"
+		}, {
+			"id": "42",
+			"show": "BANDA",
+			"show_v": "बण्डा"
+		}]
+	}, {
+		"id": "10",
+		"show": "TIKAMGARH",
+		"show_v": "टीकमगढ",
+		"acs": [{
+			"id": "43",
+			"show": "TIKAMGARH",
+			"show_v": "टीकमगढ"
+		}, {
+			"id": "44",
+			"show": "JATARA",
+			"show_v": "जतारा"
+		}, {
+			"id": "45",
+			"show": "PRITHVIPUR",
+			"show_v": "पृथ्वीपुर"
+		}, {
+			"id": "46",
+			"show": "NIWARI",
+			"show_v": "निवाडी"
+		}, {
+			"id": "47",
+			"show": "KHARGAPUR",
+			"show_v": "खरगापुर"
+		}]
+	}, {
+		"id": "11",
+		"show": "CHHATARPUR",
+		"show_v": "छतरपुर",
+		"acs": [{
+			"id": "48",
+			"show": "MAHARAJPUR",
+			"show_v": "महाराजपुर"
+		}, {
+			"id": "49",
+			"show": "CHANDLA",
+			"show_v": "चंदला"
+		}, {
+			"id": "50",
+			"show": "RAJNAGAR",
+			"show_v": "राजनगर"
+		}, {
+			"id": "51",
+			"show": "CHHATARPUR",
+			"show_v": "छतरपुर"
+		}, {
+			"id": "52",
+			"show": "BIJAWAR",
+			"show_v": "बिजावर"
+		}, {
+			"id": "53",
+			"show": "MALHARA",
+			"show_v": "मलहरा"
+		}]
+	}, {
+		"id": "12",
+		"show": "DAMOH ",
+		"show_v": "दमोह",
+		"acs": [{
+			"id": "54",
+			"show": "PATHARIYA ",
+			"show_v": "पथरिया"
+		}, {
+			"id": "55",
+			"show": "DAMOH ",
+			"show_v": "दमोह"
+		}, {
+			"id": "56",
+			"show": "JABERA ",
+			"show_v": "जबेरा"
+		}, {
+			"id": "57",
+			"show": "HATA",
+			"show_v": "हटा"
+		}]
+	}, {
+		"id": "13",
+		"show": "PANNA ",
+		"show_v": "पन्ना",
+		"acs": [{
+			"id": "58",
+			"show": "PAWAI",
+			"show_v": "पवई"
+		}, {
+			"id": "59",
+			"show": "GUNNAOR",
+			"show_v": "गुन्नौर"
+		}, {
+			"id": "60",
+			"show": "PANNA ",
+			"show_v": "पन्ना"
+		}]
+	}, {
+		"id": "14",
+		"show": "SATNA",
+		"show_v": "सतना",
+		"acs": [{
+			"id": "61",
+			"show": "CHITRAKOOT",
+			"show_v": "चित्रकूट"
+		}, {
+			"id": "62",
+			"show": "RAIGAON",
+			"show_v": "रैगांव"
+		}, {
+			"id": "63",
+			"show": "SATNA",
+			"show_v": "सतना"
+		}, {
+			"id": "64",
+			"show": "NAGOD",
+			"show_v": "नागौद"
+		}, {
+			"id": "65",
+			"show": "MAIHAR",
+			"show_v": "मैहर"
+		}, {
+			"id": "66",
+			"show": "AMARPATAN",
+			"show_v": "अमरपाटन"
+		}, {
+			"id": "67",
+			"show": "RAMPUR BAGHELAN",
+			"show_v": "रामपुर- बघेलान"
+		}]
+	}, {
+		"id": "15",
+		"show": "REWA ",
+		"show_v": "रीवा",
+		"acs": [{
+			"id": "68",
+			"show": "SIRMOUR",
+			"show_v": "सिरमौर"
+		}, {
+			"id": "69",
+			"show": "SEMARIYA",
+			"show_v": "सेमरिया"
+		}, {
+			"id": "70",
+			"show": "TEONTHAR",
+			"show_v": "त्यौंथर"
+		}, {
+			"id": "71",
+			"show": "MAUGANJ",
+			"show_v": "मऊगंज"
+		}, {
+			"id": "72",
+			"show": "DEOTALAB",
+			"show_v": "देवतालाब"
+		}, {
+			"id": "73",
+			"show": "MANGAWAN",
+			"show_v": "मनगवा"
+		}, {
+			"id": "74",
+			"show": "REWA",
+			"show_v": "रीवा"
+		}, {
+			"id": "75",
+			"show": "GURH",
+			"show_v": "गुढ़"
+		}]
+	}, {
+		"id": "16",
+		"show": "SIDHI ",
+		"show_v": "सीधी",
+		"acs": [{
+			"id": "76",
+			"show": "CHURHAT",
+			"show_v": "चुरहट"
+		}, {
+			"id": "77",
+			"show": "SIDHI",
+			"show_v": "सीधी"
+		}, {
+			"id": "78",
+			"show": "SIHAWAL",
+			"show_v": "सिहावल"
+		}, {
+			"id": "82",
+			"show": "DHOUHANI ",
+			"show_v": "धौहनी"
+		}]
+	}, {
+		"id": "17",
+		"show": "SINGRAULI",
+		"show_v": "सिंगरौली",
+		"acs": [{
+			"id": "79",
+			"show": "CHITARANGI",
+			"show_v": "चितरंगी"
+		}, {
+			"id": "80",
+			"show": "SINGARAULI",
+			"show_v": "सिंगरौली"
+		}, {
+			"id": "81",
+			"show": "DEOSAR",
+			"show_v": "देवसर"
+		}]
+	}, {
+		"id": "18",
+		"show": "SHAHADOL ",
+		"show_v": "शहडोल",
+		"acs": [{
+			"id": "83",
+			"show": "BEOHARI",
+			"show_v": "ब्यौहारी"
+		}, {
+			"id": "84",
+			"show": "JAISINGHNAGAR",
+			"show_v": "जयसिंहनगर"
+		}, {
+			"id": "85",
+			"show": "JAITPUR",
+			"show_v": "जैतपुर"
+		}]
+	}, {
+		"id": "19",
+		"show": "ANUPPUR",
+		"show_v": "अनूपपुर",
+		"acs": [{
+			"id": "86",
+			"show": "KOTAMA ",
+			"show_v": "कोतमा"
+		}, {
+			"id": "87",
+			"show": "ANUPPUR",
+			"show_v": "अनूपपुर"
+		}, {
+			"id": "88",
+			"show": "PUSPRAJGARH",
+			"show_v": "पुष्पराजगढ"
+		}]
+	}, {
+		"id": "20",
+		"show": "UMARIYA",
+		"show_v": "उमरिया",
+		"acs": [{
+			"id": "89",
+			"show": "BANDHAVGARH",
+			"show_v": "बाधवगढ"
+		}, {
+			"id": "90",
+			"show": "MANPUR",
+			"show_v": "मानपुर"
+		}]
+	}, {
+		"id": "21",
+		"show": "KATNI",
+		"show_v": "कटनी",
+		"acs": [{
+			"id": "91",
+			"show": "BADWARA",
+			"show_v": "बडवारा"
+		}, {
+			"id": "92",
+			"show": "VIJAYRAGHAVGARH",
+			"show_v": "विजयराघवगढ"
+		}, {
+			"id": "93",
+			"show": "MUDWARA",
+			"show_v": "मुडवारा"
+		}, {
+			"id": "94",
+			"show": "BAHORIBAND",
+			"show_v": "बहोरीबंद"
+		}]
+	}, {
+		"id": "22",
+		"show": "JABALPUR",
+		"show_v": "जबलपुर",
+		"acs": [{
+			"id": "95",
+			"show": "PATAN ",
+			"show_v": "पाटन"
+		}, {
+			"id": "96",
+			"show": "BARGI",
+			"show_v": "बरगी"
+		}, {
+			"id": "97",
+			"show": "JABALPUR EAST",
+			"show_v": "जबलपुर पूर्व"
+		}, {
+			"id": "98",
+			"show": "JABALPUR NORTH",
+			"show_v": "जबलपुर उत्तर"
+		}, {
+			"id": "99",
+			"show": "JABALPUR CANTT",
+			"show_v": "जबलपुर केंट"
+		}, {
+			"id": "100",
+			"show": "JABALPUR WEST",
+			"show_v": "जबलपुर पश्चिम"
+		}, {
+			"id": "101",
+			"show": "PANAGAR",
+			"show_v": "पनागर"
+		}, {
+			"id": "102",
+			"show": "SIHORA",
+			"show_v": "सिहोरा"
+		}]
+	}, {
+		"id": "23",
+		"show": "DINDORI ",
+		"show_v": "डिण्डोरी",
+		"acs": [{
+			"id": "103",
+			"show": "SHAHPURA",
+			"show_v": "शहपुरा"
+		}, {
+			"id": "104",
+			"show": "DINDORI",
+			"show_v": "डिन्डोरी"
+		}]
+	}, {
+		"id": "24",
+		"show": "MANDLA ",
+		"show_v": "मण्डला",
+		"acs": [{
+			"id": "105",
+			"show": "BICHHIYA ",
+			"show_v": "बिछिया"
+		}, {
+			"id": "106",
+			"show": "NIWAS",
+			"show_v": "निवास"
+		}, {
+			"id": "107",
+			"show": "MANDLA",
+			"show_v": "मण्डला"
+		}]
+	}, {
+		"id": "25",
+		"show": "BALAGHAT ",
+		"show_v": "बालाघाट",
+		"acs": [{
+			"id": "108",
+			"show": "BAIHAR ",
+			"show_v": "बैहर"
+		}, {
+			"id": "109",
+			"show": "LANJI ",
+			"show_v": "लांजी"
+		}, {
+			"id": "110",
+			"show": "PARASWADA",
+			"show_v": "परसवाडा"
+		}, {
+			"id": "111",
+			"show": "BALAGHAT ",
+			"show_v": "बालाघाट"
+		}, {
+			"id": "112",
+			"show": "WARASEONI",
+			"show_v": "वारासिवनी"
+		}, {
+			"id": "113",
+			"show": "KATANGI",
+			"show_v": "कटंगी"
+		}]
+	}, {
+		"id": "26",
+		"show": "SEONI",
+		"show_v": "सिवनी",
+		"acs": [{
+			"id": "114",
+			"show": "BARGHAT",
+			"show_v": "बरघाट"
+		}, {
+			"id": "115",
+			"show": "SEONI",
+			"show_v": "सिवनी"
+		}, {
+			"id": "116",
+			"show": "KEOLARI",
+			"show_v": "केवलारी"
+		}, {
+			"id": "117",
+			"show": "LAKHANADON ",
+			"show_v": "लखनादौन"
+		}]
+	}, {
+		"id": "27",
+		"show": "NARSINGHPUR",
+		"show_v": "नरसिंहपुर",
+		"acs": [{
+			"id": "118",
+			"show": "GOTEGAON",
+			"show_v": "गोटेगांव"
+		}, {
+			"id": "119",
+			"show": "NARSINGPUR",
+			"show_v": "नरसिंहपुर"
+		}, {
+			"id": "120",
+			"show": "TENDUKHEDA ",
+			"show_v": "तेंदूखेडा"
+		}, {
+			"id": "121",
+			"show": "GADARWARA",
+			"show_v": "गाडरवारा"
+		}]
+	}, {
+		"id": "28",
+		"show": "CHHINDWARA",
+		"show_v": "छिन्दवाडा",
+		"acs": [{
+			"id": "122",
+			"show": "JUNNARDEO",
+			"show_v": "जुन्नारदेव"
+		}, {
+			"id": "123",
+			"show": "AMARWARA",
+			"show_v": "अमरवाडा"
+		}, {
+			"id": "124",
+			"show": "CHURAI",
+			"show_v": "चौरई"
+		}, {
+			"id": "125",
+			"show": "SAUSAR",
+			"show_v": "सौंसर"
+		}, {
+			"id": "126",
+			"show": "CHHINDWARA",
+			"show_v": "छिन्दवाडा"
+		}, {
+			"id": "127",
+			"show": "PARASIYA",
+			"show_v": "परासिया"
+		}, {
+			"id": "128",
+			"show": "PANDHURNA",
+			"show_v": "पाण्डुर्ना"
+		}]
+	}, {
+		"id": "29",
+		"show": "BETUL",
+		"show_v": "बैतूल",
+		"acs": [{
+			"id": "129",
+			"show": "MULTAI",
+			"show_v": "मुलताई"
+		}, {
+			"id": "130",
+			"show": "AMLA",
+			"show_v": "आमला"
+		}, {
+			"id": "131",
+			"show": "BETUL",
+			"show_v": "बैतूल"
+		}, {
+			"id": "132",
+			"show": "GHODADONGRI",
+			"show_v": "घोडाडोंगरी"
+		}, {
+			"id": "133",
+			"show": "BHAINSDEHI",
+			"show_v": "भैंसदेही"
+		}]
+	}, {
+		"id": "30",
+		"show": "HARDA",
+		"show_v": "हरदा",
+		"acs": [{
+			"id": "134",
+			"show": "TIMARNI",
+			"show_v": "टिमरनी"
+		}, {
+			"id": "135",
+			"show": "HARDA",
+			"show_v": "हरदा"
+		}]
+	}, {
+		"id": "31",
+		"show": "HOSHANGABAD",
+		"show_v": "होशंगाबाद",
+		"acs": [{
+			"id": "136",
+			"show": "SEONI MALWA",
+			"show_v": "सिवनी-मालवा"
+		}, {
+			"id": "137",
+			"show": "HOSHANGABAD",
+			"show_v": "होशंगाबाद"
+		}, {
+			"id": "138",
+			"show": "SOHAGPUR",
+			"show_v": "सोहागपुर"
+		}, {
+			"id": "139",
+			"show": "PIPARIYA",
+			"show_v": "पिपरिया"
+		}]
+	}, {
+		"id": "32",
+		"show": "RAISEN",
+		"show_v": "रायसेन",
+		"acs": [{
+			"id": "140",
+			"show": "UDAIPURA",
+			"show_v": "उदयपुरा"
+		}, {
+			"id": "141",
+			"show": "BHOJPUR",
+			"show_v": "भोजपुर"
+		}, {
+			"id": "142",
+			"show": "SANCHI ",
+			"show_v": "सांची"
+		}, {
+			"id": "143",
+			"show": "SILWANI",
+			"show_v": "सिलवानी"
+		}]
+	}, {
+		"id": "33",
+		"show": "VIDISHA",
+		"show_v": "विदिशा",
+		"acs": [{
+			"id": "144",
+			"show": "VIDISHA ",
+			"show_v": "विदिशा"
+		}, {
+			"id": "145",
+			"show": "BASODA",
+			"show_v": "बासौदा"
+		}, {
+			"id": "146",
+			"show": "KURWAI",
+			"show_v": "कुरवाई"
+		}, {
+			"id": "147",
+			"show": "SIRONJ",
+			"show_v": "सिरोंज"
+		}, {
+			"id": "148",
+			"show": "SHAMSHABAD",
+			"show_v": "शमशाबाद"
+		}]
+	}, {
+		"id": "34",
+		"show": "BHOPAL ",
+		"show_v": "भोपाल",
+		"acs": [{
+			"id": "149",
+			"show": "BERASIA",
+			"show_v": "बैरसिया"
+		}, {
+			"id": "150",
+			"show": "BHOPAL UTTAR",
+			"show_v": "भोपाल उत्तर"
+		}, {
+			"id": "151",
+			"show": "NARELA ",
+			"show_v": "नरेला"
+		}, {
+			"id": "152",
+			"show": "BHOPAL DAKSHINA-PASHCHIM",
+			"show_v": "भोपाल दक्षिण-पश्चिम"
+		}, {
+			"id": "153",
+			"show": "BHOPAL MADHYA",
+			"show_v": "भोपाल मध्य"
+		}, {
+			"id": "154",
+			"show": "GOVINDPURA",
+			"show_v": "गोविन्दपुरा"
+		}, {
+			"id": "155",
+			"show": "HUZUR",
+			"show_v": "हुजुर"
+		}]
+	}, {
+		"id": "35",
+		"show": "SEHORE",
+		"show_v": "सीहोर",
+		"acs": [{
+			"id": "156",
+			"show": "BUDHNI",
+			"show_v": "बुधनी"
+		}, {
+			"id": "157",
+			"show": "ASHTA ",
+			"show_v": "आष्टा"
+		}, {
+			"id": "158",
+			"show": "ICHHAWAR",
+			"show_v": "इच्छावर"
+		}, {
+			"id": "159",
+			"show": "Sehore",
+			"show_v": "सीहोर"
+		}]
+	}, {
+		"id": "36",
+		"show": "RAJGARH ",
+		"show_v": "राजगढ",
+		"acs": [{
+			"id": "160",
+			"show": "NARSINGHGARH",
+			"show_v": "नरसिंहगढ"
+		}, {
+			"id": "161",
+			"show": "BIAORA",
+			"show_v": "ब्यावरा"
+		}, {
+			"id": "162",
+			"show": "RAJGARH ",
+			"show_v": "राजगढ"
+		}, {
+			"id": "163",
+			"show": "KHILCHIPUR",
+			"show_v": "खिलचीपुर"
+		}, {
+			"id": "164",
+			"show": "SARANGPUR",
+			"show_v": "सारंगपुर"
+		}]
+	}, {
+		"id": "37",
+		"show": "SHAJAPUR",
+		"show_v": "शाजापुर",
+		"acs": [{
+			"id": "167",
+			"show": "SHAJAPUR ",
+			"show_v": "शाजापुर"
+		}, {
+			"id": "168",
+			"show": "SHUJALPUR",
+			"show_v": "शुजालपुर"
+		}, {
+			"id": "169",
+			"show": "KALAPIPAL",
+			"show_v": "कालापीपल"
+		}]
+	}, {
+		"id": "38",
+		"show": "DEWAS ",
+		"show_v": "देवास",
+		"acs": [{
+			"id": "170",
+			"show": "SONKATCH",
+			"show_v": "सोनकच्छ"
+		}, {
+			"id": "171",
+			"show": "DEWAS",
+			"show_v": "देवास"
+		}, {
+			"id": "172",
+			"show": "HATPIPLIYA",
+			"show_v": "हाटपिपल्या"
+		}, {
+			"id": "173",
+			"show": "KHATEGAON",
+			"show_v": "खातेगांव"
+		}, {
+			"id": "174",
+			"show": "BAGLI",
+			"show_v": "बागली"
+		}]
+	}, {
+		"id": "39",
+		"show": "KHANDWA",
+		"show_v": "खण्डवा",
+		"acs": [{
+			"id": "175",
+			"show": "MANDHATA ",
+			"show_v": "मांधाता"
+		}, {
+			"id": "176",
+			"show": "HARSUD",
+			"show_v": "हरसुद"
+		}, {
+			"id": "177",
+			"show": "KHANDWA",
+			"show_v": "खण्डवा"
+		}, {
+			"id": "178",
+			"show": "PANDHANA ",
+			"show_v": "पंधाना"
+		}]
+	}, {
+		"id": "40",
+		"show": "BURHANPUR",
+		"show_v": "बुरहानपुर",
+		"acs": [{
+			"id": "179",
+			"show": "NEPANAGAR ",
+			"show_v": "नेपानगर"
+		}, {
+			"id": "180",
+			"show": "BURHANPUR",
+			"show_v": "बुरहानपुर"
+		}]
+	}, {
+		"id": "41",
+		"show": "KHARGONE",
+		"show_v": "खरगोन",
+		"acs": [{
+			"id": "181",
+			"show": "BHIKANGAON",
+			"show_v": "भीकनगांव"
+		}, {
+			"id": "182",
+			"show": "BADWAHA",
+			"show_v": "बडवाहा"
+		}, {
+			"id": "183",
+			"show": "MAHESHWAR",
+			"show_v": "महेश्‍वर"
+		}, {
+			"id": "184",
+			"show": "KASRAWAD",
+			"show_v": "कसरावद"
+		}, {
+			"id": "185",
+			"show": "KHARGONE",
+			"show_v": "खरगौन"
+		}, {
+			"id": "186",
+			"show": "BHAGWANPURA",
+			"show_v": "भगवानपुरा"
+		}]
+	}, {
+		"id": "42",
+		"show": "BARWANI",
+		"show_v": "बड़वानी",
+		"acs": [{
+			"id": "187",
+			"show": "SENDHWA ",
+			"show_v": "सेंधवा "
+		}, {
+			"id": "188",
+			"show": "RAJPUR",
+			"show_v": "राजपुर"
+		}, {
+			"id": "189",
+			"show": "PANSEMAL",
+			"show_v": "पानसेमल"
+		}, {
+			"id": "190",
+			"show": "BARWANI",
+			"show_v": "बड़वानी"
+		}]
+	}, {
+		"id": "43",
+		"show": "ALIRAJPUR",
+		"show_v": "अलीराजपुर",
+		"acs": [{
+			"id": "191",
+			"show": "ALIRAJPUR",
+			"show_v": "अलीराजपुर"
+		}, {
+			"id": "192",
+			"show": "JOBAT",
+			"show_v": "जोबट"
+		}]
+	}, {
+		"id": "44",
+		"show": "JHABUA",
+		"show_v": "झाबुआ",
+		"acs": [{
+			"id": "193",
+			"show": "JHABUA",
+			"show_v": "झाबुआ"
+		}, {
+			"id": "194",
+			"show": "THANDLA",
+			"show_v": "थांदला"
+		}, {
+			"id": "195",
+			"show": "PETLAWAD",
+			"show_v": "पेटलावद"
+		}]
+	}, {
+		"id": "45",
+		"show": "DHAR ",
+		"show_v": "धार",
+		"acs": [{
+			"id": "196",
+			"show": "SARDARPUR",
+			"show_v": "सरदारपुर"
+		}, {
+			"id": "197",
+			"show": "Gandhwani",
+			"show_v": "गंधवानी"
+		}, {
+			"id": "198",
+			"show": "KUKSHI ",
+			"show_v": "कुक्षी"
+		}, {
+			"id": "199",
+			"show": "MANAWAR",
+			"show_v": "मनावर"
+		}, {
+			"id": "200",
+			"show": "DHARAMPURI",
+			"show_v": "धरमपुरी"
+		}, {
+			"id": "201",
+			"show": "DHAR ",
+			"show_v": "धार"
+		}, {
+			"id": "202",
+			"show": "BADNAWAR",
+			"show_v": "बदनावर"
+		}]
+	}, {
+		"id": "46",
+		"show": "INDORE",
+		"show_v": "इन्दौर",
+		"acs": [{
+			"id": "203",
+			"show": "DEPALPUR ",
+			"show_v": "देपालपुर"
+		}, {
+			"id": "204",
+			"show": "INDORE-1",
+			"show_v": "इन्दौर-1"
+		}, {
+			"id": "205",
+			"show": "INDORE-2",
+			"show_v": "इन्दौर-2"
+		}, {
+			"id": "206",
+			"show": "INDORE-3",
+			"show_v": "इन्दौर-3"
+		}, {
+			"id": "207",
+			"show": "INDORE-4",
+			"show_v": "इन्दौर-4"
+		}, {
+			"id": "208",
+			"show": "INDORE-5",
+			"show_v": "इन्दौर-5"
+		}, {
+			"id": "209",
+			"show": "DR.AMBEDKAR NAGAR -Mhow ",
+			"show_v": "डा.अम्बेडकर नगर -महू"
+		}, {
+			"id": "210",
+			"show": "RAU ",
+			"show_v": "राउ"
+		}, {
+			"id": "211",
+			"show": "SANWER",
+			"show_v": "सांवेर"
+		}]
+	}, {
+		"id": "47",
+		"show": "UJJAIN ",
+		"show_v": "उज्जैन",
+		"acs": [{
+			"id": "212",
+			"show": "NAGADA - KHACHAROD ",
+			"show_v": "नागदा - खाचरोद"
+		}, {
+			"id": "213",
+			"show": "MAHIDPUR",
+			"show_v": "महीदपुर"
+		}, {
+			"id": "214",
+			"show": "TARANA",
+			"show_v": "तराना"
+		}, {
+			"id": "215",
+			"show": "GHATIYA",
+			"show_v": "घट्टिया"
+		}, {
+			"id": "216",
+			"show": "UJJAIN NORTH",
+			"show_v": "उज्जैन उत्तर"
+		}, {
+			"id": "217",
+			"show": "UJJAIN SOUTH",
+			"show_v": "उज्जैन दक्षिण"
+		}, {
+			"id": "218",
+			"show": "BADNAGAR",
+			"show_v": "बडनगर"
+		}]
+	}, {
+		"id": "48",
+		"show": "RATLAM",
+		"show_v": "रतलाम",
+		"acs": [{
+			"id": "219",
+			"show": "RATLAM RURAL",
+			"show_v": "रतलाम ग्रामीण"
+		}, {
+			"id": "220",
+			"show": "RATLAM CITY",
+			"show_v": "रतलाम सिटी"
+		}, {
+			"id": "221",
+			"show": "SAILANA ",
+			"show_v": "सैलाना"
+		}, {
+			"id": "222",
+			"show": "JAORA",
+			"show_v": "जावरा"
+		}, {
+			"id": "223",
+			"show": "ALOT",
+			"show_v": "आलोट"
+		}]
+	}, {
+		"id": "49",
+		"show": "MANDSOUR ",
+		"show_v": "मन्दसौर",
+		"acs": [{
+			"id": "224",
+			"show": "MANDSOUR ",
+			"show_v": "मंदसौर"
+		}, {
+			"id": "225",
+			"show": "MALHARGARH",
+			"show_v": "मल्हारगढ"
+		}, {
+			"id": "226",
+			"show": "SUWASRA",
+			"show_v": "सुवासरा"
+		}, {
+			"id": "227",
+			"show": "GAROTH ",
+			"show_v": "गरोठ"
+		}]
+	}, {
+		"id": "50",
+		"show": "NEEMUCH",
+		"show_v": "नीमच",
+		"acs": [{
+			"id": "228",
+			"show": "MANASA ",
+			"show_v": "मनासा"
+		}, {
+			"id": "229",
+			"show": "NEEMUCH",
+			"show_v": "नीमच"
+		}, {
+			"id": "230",
+			"show": "JAWAD",
+			"show_v": "जावद"
+		}]
+	}, {
+		"id": "51",
+		"show": "AGAR MALWA",
+		"show_v": "आगर मालवा",
+		"acs": [{
+			"id": "165",
+			"show": "SUSNER",
+			"show_v": "सुसनेर"
+		}, {
+			"id": "166",
+			"show": "AGAR",
+			"show_v": "आगर"
+		}]
+	}]
+}

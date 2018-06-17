@@ -1,0 +1,500 @@
+{
+	"state_code": "S26",
+	"state": "Chhattisgarh",
+	"dist": [{
+		"id": "39",
+		"show": "SURGUJA",
+		"show_v": "सरगुजा",
+		"acs": [{
+			"id": "9",
+			"show": "Lundra",
+			"show_v": "लुण्ड्रा"
+		}, {
+			"id": "10",
+			"show": "Ambikapur",
+			"show_v": "अम्बिकापुर"
+		}, {
+			"id": "11",
+			"show": "Sitapur",
+			"show_v": "सीतापुर"
+		}]
+	}, {
+		"id": "40",
+		"show": "BILASPUR",
+		"show_v": "बिलासपुर",
+		"acs": [{
+			"id": "24",
+			"show": "Marwahi",
+			"show_v": "मरवाही"
+		}, {
+			"id": "25",
+			"show": "Kota",
+			"show_v": "कोटा"
+		}, {
+			"id": "28",
+			"show": "Takhatpur",
+			"show_v": "तखतपुर"
+		}, {
+			"id": "29",
+			"show": "Bilha",
+			"show_v": "बिल्हा"
+		}, {
+			"id": "30",
+			"show": "Bilaspur",
+			"show_v": "बिलासपुर"
+		}, {
+			"id": "31",
+			"show": "Beltara",
+			"show_v": "बेलतरा"
+		}, {
+			"id": "32",
+			"show": "Masturi",
+			"show_v": "मस्तुरी"
+		}]
+	}, {
+		"id": "41",
+		"show": "RAIGARH",
+		"show_v": "रायगढ़",
+		"acs": [{
+			"id": "15",
+			"show": "Lailunga",
+			"show_v": "लैलुंगा"
+		}, {
+			"id": "16",
+			"show": "Raigarh",
+			"show_v": "रायगढ"
+		}, {
+			"id": "17",
+			"show": "Sarangarh",
+			"show_v": "सारंगढ"
+		}, {
+			"id": "18",
+			"show": "Kharsia",
+			"show_v": "खरसिया"
+		}, {
+			"id": "19",
+			"show": "Dharamjaigarh",
+			"show_v": "धर्मजयगढ"
+		}]
+	}, {
+		"id": "42",
+		"show": "RAJNANDGAON",
+		"show_v": "राजनांदगांव",
+		"acs": [{
+			"id": "73",
+			"show": "Khairagarh",
+			"show_v": "खैरागढ"
+		}, {
+			"id": "74",
+			"show": "Dongargarh",
+			"show_v": "डोंगरगढ्"
+		}, {
+			"id": "75",
+			"show": "Rajnandgaon",
+			"show_v": "राजनांदगांव"
+		}, {
+			"id": "76",
+			"show": "Dongargaon",
+			"show_v": "डोंगरगांव"
+		}, {
+			"id": "77",
+			"show": "Khujji",
+			"show_v": "खुज्जी"
+		}, {
+			"id": "78",
+			"show": "Mohal - Manpur",
+			"show_v": "मोहला - मानपुर"
+		}]
+	}, {
+		"id": "43",
+		"show": "DURG",
+		"show_v": "दुर्ग",
+		"acs": [{
+			"id": "62",
+			"show": "Patan",
+			"show_v": "पाटन"
+		}, {
+			"id": "63",
+			"show": "Durg Gramin",
+			"show_v": "दुर्ग ग्रामीण"
+		}, {
+			"id": "64",
+			"show": "Durg City",
+			"show_v": "दुर्ग शहर"
+		}, {
+			"id": "65",
+			"show": "Bhilai Nagar",
+			"show_v": "भिलाई नगर"
+		}, {
+			"id": "66",
+			"show": "Vaishali Nagar",
+			"show_v": "वैशाली नगर"
+		}, {
+			"id": "67",
+			"show": "Ahiwara",
+			"show_v": "अहिवारा "
+		}]
+	}, {
+		"id": "44",
+		"show": "RAIPUR",
+		"show_v": "रायपुर",
+		"acs": [{
+			"id": "47",
+			"show": "Dharsiwa",
+			"show_v": "धरसींवा"
+		}, {
+			"id": "48",
+			"show": "Raipur City Gramin",
+			"show_v": "रायपुर ग्रामीण"
+		}, {
+			"id": "49",
+			"show": "Raipur City West",
+			"show_v": "रायपुर नगर पश्चिम"
+		}, {
+			"id": "50",
+			"show": "Raipur City North",
+			"show_v": "रायपुर नगर उत्तर"
+		}, {
+			"id": "51",
+			"show": "Raipur City South",
+			"show_v": "रायपुर नगर दक्षिण"
+		}, {
+			"id": "52",
+			"show": "Arang",
+			"show_v": "आरंग"
+		}, {
+			"id": "53",
+			"show": "Abhanpur",
+			"show_v": "अभनपुर"
+		}]
+	}, {
+		"id": "45",
+		"show": "BASTAR (JAGDALPUR)",
+		"show_v": "बस्तर (जगदलपुर)",
+		"acs": [{
+			"id": "85",
+			"show": "Bastar",
+			"show_v": "बस्तर"
+		}, {
+			"id": "86",
+			"show": "Jagdalpur",
+			"show_v": "जगदलपुर"
+		}, {
+			"id": "87",
+			"show": "Chitrakoat",
+			"show_v": "चित्रकोट"
+		}]
+	}, {
+		"id": "53",
+		"show": "KORIA",
+		"show_v": "कोरिया",
+		"acs": [{
+			"id": "1",
+			"show": "Bharatpur - Sonhat",
+			"show_v": "भरतपुर - सोनहत "
+		}, {
+			"id": "2",
+			"show": "Manendragarh",
+			"show_v": "मनेन्द्रगढ"
+		}, {
+			"id": "3",
+			"show": "Baikunthpur",
+			"show_v": "बैंकुठपुर"
+		}]
+	}, {
+		"id": "54",
+		"show": "JANJGIR-CHAMPA",
+		"show_v": "जांजगीर-चाम्पा",
+		"acs": [{
+			"id": "33",
+			"show": "Akaltara",
+			"show_v": "अकलतरा"
+		}, {
+			"id": "34",
+			"show": "Janjgir - Champa",
+			"show_v": "जांजगीर - चांपा"
+		}, {
+			"id": "35",
+			"show": "Sakti",
+			"show_v": "सक्ती"
+		}, {
+			"id": "36",
+			"show": "Chandrapur",
+			"show_v": "चन्द्रपुर"
+		}, {
+			"id": "37",
+			"show": "Jaijepur",
+			"show_v": "जैजेपुर"
+		}, {
+			"id": "38",
+			"show": "Pamgarh",
+			"show_v": "पामगढ"
+		}]
+	}, {
+		"id": "55",
+		"show": "KORBA",
+		"show_v": "कोरबा",
+		"acs": [{
+			"id": "20",
+			"show": "Rampur",
+			"show_v": "रामपुर"
+		}, {
+			"id": "21",
+			"show": "Korba",
+			"show_v": "कोरबा"
+		}, {
+			"id": "22",
+			"show": "Katghora",
+			"show_v": "कटघोरा"
+		}, {
+			"id": "23",
+			"show": "Pali - Tanakhar",
+			"show_v": "पाली - तानाखार"
+		}]
+	}, {
+		"id": "56",
+		"show": "JASHPUR",
+		"show_v": "जशपुर",
+		"acs": [{
+			"id": "12",
+			"show": "Jashpur",
+			"show_v": "जशपुर"
+		}, {
+			"id": "13",
+			"show": "Kunkuri",
+			"show_v": "कुनकुरी"
+		}, {
+			"id": "14",
+			"show": "Patalgaon",
+			"show_v": "पत्थलगांव"
+		}]
+	}, {
+		"id": "57",
+		"show": "KABIRDHAM",
+		"show_v": "कबीरधाम",
+		"acs": [{
+			"id": "71",
+			"show": "Pandaria",
+			"show_v": "पंडरिया"
+		}, {
+			"id": "72",
+			"show": "Kawardha",
+			"show_v": "कवर्धा"
+		}]
+	}, {
+		"id": "58",
+		"show": "MAHASAMUND",
+		"show_v": "महासमुंद",
+		"acs": [{
+			"id": "39",
+			"show": "Saraipali",
+			"show_v": "सराईपाली"
+		}, {
+			"id": "40",
+			"show": "Basna",
+			"show_v": "बसना"
+		}, {
+			"id": "41",
+			"show": "Khallari",
+			"show_v": "खल्लारी"
+		}, {
+			"id": "42",
+			"show": "Mahasamund",
+			"show_v": "महासमुन्द"
+		}]
+	}, {
+		"id": "59",
+		"show": "DHAMTARI",
+		"show_v": "धमतरी",
+		"acs": [{
+			"id": "56",
+			"show": "Sihawa",
+			"show_v": "सिहावा"
+		}, {
+			"id": "57",
+			"show": "Kurud",
+			"show_v": "कुरूद"
+		}, {
+			"id": "58",
+			"show": "Dhamtari",
+			"show_v": "धमतरी"
+		}]
+	}, {
+		"id": "60",
+		"show": "UTTAR BASTAR KANKER",
+		"show_v": "उत्तर बस्तर कांकेर",
+		"acs": [{
+			"id": "79",
+			"show": "Antagarh",
+			"show_v": "अंतागढ्"
+		}, {
+			"id": "80",
+			"show": "Bhanupratappur",
+			"show_v": "भानुप्रतापपुर"
+		}, {
+			"id": "81",
+			"show": "Kanker",
+			"show_v": "कांकेर "
+		}]
+	}, {
+		"id": "61",
+		"show": "DAKSHIN BASTAR DANTEWADA",
+		"show_v": "दक्षिण बस्तर दन्तेवाड़ा",
+		"acs": [{
+			"id": "88",
+			"show": "Dantewada",
+			"show_v": "दन्तेवाडा"
+		}]
+	}, {
+		"id": "62",
+		"show": "BIJAPUR",
+		"show_v": "बीजापुर",
+		"acs": [{
+			"id": "89",
+			"show": "Bijapur",
+			"show_v": "बीजापुर"
+		}]
+	}, {
+		"id": "63",
+		"show": "NARAYANPUR",
+		"show_v": "नारायणपुर",
+		"acs": [{
+			"id": "84",
+			"show": "Narainpur",
+			"show_v": "नारायणपुर"
+		}]
+	}, {
+		"id": "64",
+		"show": "SURAJPUR",
+		"show_v": "सूरजपुर",
+		"acs": [{
+			"id": "4",
+			"show": "Premnagar",
+			"show_v": "प्रेमनगर"
+		}, {
+			"id": "5",
+			"show": "Bhatgaon",
+			"show_v": "भटगांव"
+		}]
+	}, {
+		"id": "65",
+		"show": "BALRAMPUR",
+		"show_v": "बलरामपुर",
+		"acs": [{
+			"id": "6",
+			"show": "Pratappur",
+			"show_v": "प्रतापपुर"
+		}, {
+			"id": "7",
+			"show": "Ramanujganj",
+			"show_v": "रामानुजगंज"
+		}, {
+			"id": "8",
+			"show": "Samri",
+			"show_v": "सामरी"
+		}]
+	}, {
+		"id": "66",
+		"show": "SUKAMA",
+		"show_v": "सुकमा",
+		"acs": [{
+			"id": "90",
+			"show": "Konta",
+			"show_v": "कोन्टा"
+		}]
+	}, {
+		"id": "67",
+		"show": "BALOD",
+		"show_v": "बालोद",
+		"acs": [{
+			"id": "59",
+			"show": "Sanjari Balod",
+			"show_v": "संजारी बालोद"
+		}, {
+			"id": "60",
+			"show": "Dondilohara",
+			"show_v": "डौण्डीलोहारा"
+		}, {
+			"id": "61",
+			"show": "Gunderdehi",
+			"show_v": "गुण्डरदेही"
+		}]
+	}, {
+		"id": "68",
+		"show": "BEMETARA",
+		"show_v": "बेमेतरा",
+		"acs": [{
+			"id": "68",
+			"show": "Saja",
+			"show_v": "साजा"
+		}, {
+			"id": "69",
+			"show": "Bemetara",
+			"show_v": "बेमेतरा"
+		}, {
+			"id": "70",
+			"show": "Navagarh",
+			"show_v": "नवागढ्"
+		}]
+	}, {
+		"id": "69",
+		"show": "KONDAGAON",
+		"show_v": "कोंडागांव",
+		"acs": [{
+			"id": "82",
+			"show": "Keshkal",
+			"show_v": "केशकाल"
+		}, {
+			"id": "83",
+			"show": "Kondagaon",
+			"show_v": "कोण्डागांव"
+		}]
+	}, {
+		"id": "70",
+		"show": "BALODABAZAR - BHATAPARA",
+		"show_v": "बलौदाबाजार - भाटापारा",
+		"acs": [{
+			"id": "43",
+			"show": "Bilaigarh",
+			"show_v": "बिलाईगढ्"
+		}, {
+			"id": "44",
+			"show": "Kasdol",
+			"show_v": "कसडोल"
+		}, {
+			"id": "45",
+			"show": "Baloda Bazar",
+			"show_v": "बलौदा बाजार"
+		}, {
+			"id": "46",
+			"show": "Bhatapara",
+			"show_v": "भाटापारा"
+		}]
+	}, {
+		"id": "71",
+		"show": "GARIYABAND",
+		"show_v": "गरियाबंद",
+		"acs": [{
+			"id": "54",
+			"show": "Rajim",
+			"show_v": "राजिम"
+		}, {
+			"id": "55",
+			"show": "Bindranavagarh",
+			"show_v": "बिन्द्रानवागढ"
+		}]
+	}, {
+		"id": "72",
+		"show": "MUNGELI",
+		"show_v": "मुंगेली",
+		"acs": [{
+			"id": "26",
+			"show": "Lormi",
+			"show_v": "लोरमी"
+		}, {
+			"id": "27",
+			"show": "Mungeli",
+			"show_v": "मुंगेली"
+		}]
+	}]
+}

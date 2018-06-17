@@ -1,0 +1,14 @@
+{
+	"state_code": "U02",
+	"state": "Chandigarh",
+	"dist": [{
+		"id": "1",
+		"show": "CHANDIGARH",
+		"show_v": "चण्डीगढ़",
+		"acs": [{
+			"id": "1",
+			"show": "CHANDIGARH",
+			"show_v": "चण्डीगढ़"
+		}]
+	}]
+}

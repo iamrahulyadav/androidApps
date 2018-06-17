@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">English to Hindi dictionary offline</string>
+
+    <!--test ads-->
+    <string name="admob_app_id">ca-app-pub-9304672946653192~8271451544</string>
+    <string name="ad_unit_id">ca-app-pub-4445981284747506/6783416261</string>
+    <!--<string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>-->
+    <string name="banner_ad_unit_id">ca-app-pub-9304672946653192/1836947278</string>
+    <!--<string name="interstitial_ad">ca-app-pub-3940256099942544/1033173712</string>-->
+    <string name="interstitial_ad">ca-app-pub-9304672946653192/2777535990</string>
+    <!--<string name="ad_unit_id">ca-app-pub-3940256099942544/8135179316</string>-->
+
+
+    <string name="viewall">viewall</string>
+    <string-array name="ratings_array">
+        <item>Do you find this app useful? Please support us by giving us 5 star on Playstore!</item>
+        <item>Got accurate information? Please support us by giving us 5 star on Playstore!</item>
+        <item>Our app is Easy to use? Please support us by giving us 5 star on Playstore!</item>
+        <item>Do you think our app is Informative? Please support us by giving us 5 star on Playstore!</item>
+        <item>Do you find our app is providing Good Info? Please support us by giving us 5 star on Playstore!</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="qnsdata">
+        <item>‘प्रत्येक व्यक्ति’ शब्द का अंग्रेजी शब्द है -</item>
+        <item>‘Conversation’ शब्द का अर्थ क्या है ?</item>
+        <item>‘असुविधा’ शब्द का अंग्रेजी शब्द है -</item>
+        <item>‘मुझे प्यास लगी है’ का अंग्रेजी अनुवाद है -</item>
+        <item>‘convenience’ शब्द का अर्थ है -</item>
+        <item>‘She lives in Jaipur.’ Find correct match for it.</item>
+        <item>Find the correctly spelt word.</item>
+        <item>She looks..............than she is.</item>
+        <item>Success in this examination depends ...... hard work alone.</item>
+        <item>A lot of work..............to be done.</item>
+        <item>I saw.......of my friends.</item>
+        <item>Find the correctly spelt word.</item>
+        <item>My father decided to take ...... and my brother to the market.</item>
+        <item>Science ......my favorite subject.</item>
+        <item>He is ..........a book.</item>
+        <item>..............those girls are beautiful.</item>
+        <item>They saw your teacher ............down the street.</item>
+        <item>Find the correctly spelt word.</item>
+        <item>Five thousands rupees......a lot of money.</item>
+        <item>It has been two years......I saw you last.</item>
+        <item>...............your hands are dirty.</item>
+        <item>They are sitting.........a table.</item>
+        <item>Find the correctly spelt word.</item>
+        <item>Do it right away ........you will be suspended.</item>
+        <item>My house is as .......as your house.</item>
+        <item>Find the correctly spelt word.</item>
+        <item>I saw a ...... of cows in the field.</item>
+        <item>The telephone ...... several times before I answered it.</item>
+        <item>Find the correctly spelt word.</item>
+        <item>I haven&apos;t seen you ...... a week.</item>
+        <item>That which cannot be corrected -</item>
+        <item>I don’t have ..........furniture.</item>
+        <item>Our cricket team ...........ten players.</item>
+        <item>We had our house............Green.</item>
+        <item>A person who knows many foreign languages-</item>
+        <item>I will...........you tomorrow morning.</item>
+        <item>Find the correctly spelt words.</item>
+        <item>Find the correctly spelt words.</item>
+        <item>A small shop that sells fashionable clothes, cosmetics, etc.</item>
+        <item>................Men like to watch TV.</item>
+        <item>I saw some ..............playing cricket.</item>
+    </array>
+
+    <array name="list">
+        <item>Select</item>
+        <item>Quiz 1</item>
+        <item>Quiz 2</item>
+        <item>Quiz 3</item>
+        <item>Quiz 4</item>
+        <item>Quiz 5</item>
+        <item>Quiz 6</item>
+    </array>
+    <!--Answers-->
+
+    <array name="ansdata">
+        <item>Everyone</item>
+        <item>बातचीत</item>
+        <item>Inconvenience</item>
+        <item>I&apos;m feeling thirsty</item>
+        <item>सुविधा</item>
+        <item>Where does she live?</item>
+        <item>Passenger</item>
+        <item>much younger</item>
+        <item>on</item>
+        <item>remains</item>
+        <item>none</item>
+        <item>Bouquet</item>
+        <item>me</item>
+        <item>is</item>
+        <item>reading</item>
+        <item>All</item>
+        <item>running</item>
+        <item>Excessive</item>
+        <item>is</item>
+        <item>since</item>
+        <item>both</item>
+        <item>on</item>
+        <item>Sincerely</item>
+        <item>or</item>
+        <item>big</item>
+        <item>Guarantee</item>
+        <item>herd</item>
+        <item>had rung</item>
+        <item>Satellite</item>
+        <item>for</item>
+        <item>Incorrigible</item>
+        <item>much</item>
+        <item>has</item>
+        <item>painted</item>
+        <item>Linguist</item>
+        <item>help</item>
+        <item>Occasion</item>
+        <item>Medicine</item>
+        <item>Boutique</item>
+        <item>Most</item>
+        <item>people</item>
+    </array>
+    <array name="ansdata1">
+        <item>Anyone</item>
+        <item>संरक्षण</item>
+        <item>Inconvenience</item>
+        <item>I’m hungry</item>
+        <item>समस्या</item>
+        <item>Where she lives?</item>
+        <item>Pessenger</item>
+        <item>more young</item>
+        <item>on</item>
+        <item>remain</item>
+        <item>none</item>
+        <item>Bouquete</item>
+        <item>me</item>
+        <item>are</item>
+        <item>reading</item>
+        <item>All</item>
+        <item>running</item>
+        <item>Exccessive</item>
+        <item>are</item>
+        <item>since</item>
+        <item>each</item>
+        <item>on</item>
+        <item>Faithfuly</item>
+        <item>or</item>
+        <item>biggest</item>
+        <item>Guarantee</item>
+        <item>herd</item>
+        <item>was ringing</item>
+        <item>Satellite</item>
+        <item>since</item>
+        <item>Incorrigible</item>
+        <item>many</item>
+        <item>has</item>
+        <item>painting</item>
+        <item>Bilingual</item>
+        <item>help</item>
+        <item>Occassion</item>
+        <item>Furnituer</item>
+        <item>Boutique</item>
+        <item>Most</item>
+        <item>peoples</item>
+    </array>
+    <array name="ansdata2">
+        <item>Everyone</item>
+        <item>बातचीत</item>
+        <item>Instability</item>
+        <item>I’m thrust</item>
+        <item>बताना</item>
+        <item>Where does she living?</item>
+        <item>Pesanger</item>
+        <item>much younger</item>
+        <item>over</item>
+        <item>remains</item>
+        <item>no one</item>
+        <item>Bouquet</item>
+        <item>I</item>
+        <item>am</item>
+        <item>read</item>
+        <item>Everyone</item>
+        <item>to run</item>
+        <item>Excesive</item>
+        <item>the</item>
+        <item>for</item>
+        <item>both</item>
+        <item>in</item>
+        <item>Sincerely</item>
+        <item>but</item>
+        <item>big</item>
+        <item>Gaurantee</item>
+        <item>group</item>
+        <item>has rung</item>
+        <item>Satelite</item>
+        <item>for</item>
+        <item>Illegible</item>
+        <item>much</item>
+        <item>have</item>
+        <item>paint</item>
+        <item>Polyglot</item>
+        <item>helping</item>
+        <item>Ocassion</item>
+        <item>Mornning</item>
+        <item>Store</item>
+        <item>A most</item>
+        <item>people</item>
+    </array>
+    <array name="ansdata3">
+        <item>Same</item>
+        <item>बचत</item>
+        <item>Instances</item>
+        <item>I&apos;m feeling thirsty</item>
+        <item>सुविधा</item>
+        <item>Where does she live?</item>
+        <item>Passenger</item>
+        <item>more younger</item>
+        <item>at</item>
+        <item>being</item>
+        <item>nobody</item>
+        <item>Boqquet</item>
+        <item>mine</item>
+        <item>is</item>
+        <item>reads</item>
+        <item>Every</item>
+        <item>ran</item>
+        <item>Excessive</item>
+        <item>is</item>
+        <item>that</item>
+        <item>every</item>
+        <item>to</item>
+        <item>Truely</item>
+        <item>for</item>
+        <item>bigger</item>
+        <item>Garuntee</item>
+        <item>flock</item>
+        <item>had rung</item>
+        <item>Setelite</item>
+        <item>from</item>
+        <item>correct</item>
+        <item>lot</item>
+        <item>is</item>
+        <item>painted</item>
+        <item>Linguist</item>
+        <item>To help</item>
+        <item>Occasion</item>
+        <item>Medicine</item>
+        <item>Stall</item>
+        <item>The most</item>
+        <item>Many people</item>
+    </array>
+</resources>

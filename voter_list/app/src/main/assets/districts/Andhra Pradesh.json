@@ -1,0 +1,770 @@
+{
+	"state_code": "S01",
+	"state": "Andhra Pradesh",
+	"dist": [{
+		"id": "1",
+		"show": "Srikakulam",
+		"show_v": "శ్రీకాకుళం",
+		"acs": [{
+			"id": "1",
+			"show": "Ichchapuram",
+			"show_v": "ఇచ్చాపురం"
+		}, {
+			"id": "2",
+			"show": "Palasa",
+			"show_v": ""
+		}, {
+			"id": "3",
+			"show": "Tekkali",
+			"show_v": "టెక్కలి"
+		}, {
+			"id": "4",
+			"show": "Pathapatnam",
+			"show_v": "పాతపట్఩ం"
+		}, {
+			"id": "5",
+			"show": "Srikakulam",
+			"show_v": "శ్రీకాకుళఁ"
+		}, {
+			"id": "6",
+			"show": "Amadalavalasa",
+			"show_v": "ఆమదాలవలస"
+		}, {
+			"id": "7",
+			"show": "Etcherla",
+			"show_v": "ఎచ్చర్ల"
+		}, {
+			"id": "8",
+			"show": "Narasannapeta",
+			"show_v": "నర్సన్నపేట"
+		}, {
+			"id": "9",
+			"show": "Rajam (SC)",
+			"show_v": ""
+		}, {
+			"id": "10",
+			"show": "Palakonda (ST)",
+			"show_v": "పాలకొఁడ"
+		}]
+	}, {
+		"id": "2",
+		"show": "Vizianagaram",
+		"show_v": "విజయనగరం",
+		"acs": [{
+			"id": "11",
+			"show": "Kurupam (ST)",
+			"show_v": ""
+		}, {
+			"id": "12",
+			"show": "Parvathipuram (SC)",
+			"show_v": "పార్వతిపురం"
+		}, {
+			"id": "13",
+			"show": "Salur (ST)",
+			"show_v": "సాలూరు"
+		}, {
+			"id": "14",
+			"show": "Bobbili",
+			"show_v": "బొబ్బిలి"
+		}, {
+			"id": "15",
+			"show": "Cheepurupalle",
+			"show_v": "చీపురుపల్లి"
+		}, {
+			"id": "16",
+			"show": "Gajapathinagaram",
+			"show_v": "గజపతినగరఁ"
+		}, {
+			"id": "17",
+			"show": "Nellimarla",
+			"show_v": "భోగాపురఁ"
+		}, {
+			"id": "18",
+			"show": "Vizianagaram",
+			"show_v": "విజయనగరఁ"
+		}, {
+			"id": "19",
+			"show": "Srungavarapukota",
+			"show_v": "శృఁగవరపుకోట"
+		}]
+	}, {
+		"id": "3",
+		"show": "Visakhapatnam",
+		"show_v": "విశాఖపట్నం",
+		"acs": [{
+			"id": "20",
+			"show": "Bhimili",
+			"show_v": ""
+		}, {
+			"id": "21",
+			"show": "Visakhapatnam East",
+			"show_v": "విశాఖపట్నఁ - 1"
+		}, {
+			"id": "22",
+			"show": "Visakhapatnam South",
+			"show_v": "విశాఖపట్నఁ - 2"
+		}, {
+			"id": "23",
+			"show": "Visakhapatnam North",
+			"show_v": ""
+		}, {
+			"id": "24",
+			"show": "Visakhapatnam West",
+			"show_v": ""
+		}, {
+			"id": "25",
+			"show": "Gajuwaka",
+			"show_v": ""
+		}, {
+			"id": "26",
+			"show": "Chodavaram",
+			"show_v": "చోడవరఁ"
+		}, {
+			"id": "27",
+			"show": "Madugula",
+			"show_v": "మాడుగుల"
+		}, {
+			"id": "28",
+			"show": "Araku Valley (ST)",
+			"show_v": ""
+		}, {
+			"id": "29",
+			"show": "Paderu (ST)",
+			"show_v": "పాడేరు"
+		}, {
+			"id": "30",
+			"show": "Anakapalle",
+			"show_v": "అనకాపల్లి"
+		}, {
+			"id": "31",
+			"show": "Pendurthi",
+			"show_v": "పెఁదుర్తి"
+		}, {
+			"id": "32",
+			"show": "Yelamanchili",
+			"show_v": "ఎలమఁచిలి"
+		}, {
+			"id": "33",
+			"show": "Payakaraopet (SC)",
+			"show_v": "పాయకరావు పేట"
+		}, {
+			"id": "34",
+			"show": "Narsipatnam",
+			"show_v": "నరిసీపట్నఁ"
+		}]
+	}, {
+		"id": "4",
+		"show": "East Godavari",
+		"show_v": "తూర్పుగోదావరి",
+		"acs": [{
+			"id": "35",
+			"show": "Tuni",
+			"show_v": "తుని"
+		}, {
+			"id": "36",
+			"show": "Prathipadu",
+			"show_v": "ప్రత్తిపాడు"
+		}, {
+			"id": "37",
+			"show": "Pithapuram",
+			"show_v": "పిఠాపురఁ"
+		}, {
+			"id": "38",
+			"show": "Kakinada Rural",
+			"show_v": ""
+		}, {
+			"id": "39",
+			"show": "Peddapuram",
+			"show_v": "పెద్దాపురఁ"
+		}, {
+			"id": "40",
+			"show": "Anaparthy",
+			"show_v": "అనపర్తి"
+		}, {
+			"id": "41",
+			"show": "Kakinada City",
+			"show_v": "కాకినాడ"
+		}, {
+			"id": "42",
+			"show": "Ramachandrapuram",
+			"show_v": "రామచఁద్రాపురఁ"
+		}, {
+			"id": "43",
+			"show": "Mummidivaram",
+			"show_v": "ముమ్మిడివరం"
+		}, {
+			"id": "44",
+			"show": "Amalapuram (SC)",
+			"show_v": "అమలాపురఁ"
+		}, {
+			"id": "45",
+			"show": "Razole (SC)",
+			"show_v": "రాజోలు"
+		}, {
+			"id": "46",
+			"show": "Gannavaram (SC)",
+			"show_v": ""
+		}, {
+			"id": "47",
+			"show": "Kothapeta",
+			"show_v": "కొత్తపేట"
+		}, {
+			"id": "48",
+			"show": "Mandapeta",
+			"show_v": ""
+		}, {
+			"id": "49",
+			"show": "Rajanagaram",
+			"show_v": ""
+		}, {
+			"id": "50",
+			"show": "Rajahmundry City",
+			"show_v": "రాజమఁడ్రి"
+		}, {
+			"id": "51",
+			"show": "Rajahmundry Rural",
+			"show_v": ""
+		}, {
+			"id": "52",
+			"show": "Jaggampeta",
+			"show_v": "జగ్గఁపేట"
+		}, {
+			"id": "53",
+			"show": "Rampachodavaram (ST)",
+			"show_v": ""
+		}]
+	}, {
+		"id": "5",
+		"show": "West Godavari",
+		"show_v": "పశ్చిమగోదావరి",
+		"acs": [{
+			"id": "54",
+			"show": "Kovvur (SC)",
+			"show_v": "కొవ్వూరు"
+		}, {
+			"id": "55",
+			"show": "Nidadavole",
+			"show_v": ""
+		}, {
+			"id": "56",
+			"show": "Achanta",
+			"show_v": "ఆచంట"
+		}, {
+			"id": "57",
+			"show": "Palacole",
+			"show_v": "పాలకొల్లు"
+		}, {
+			"id": "58",
+			"show": "Narasapuram",
+			"show_v": "నరసాపురం"
+		}, {
+			"id": "59",
+			"show": "Bhimavaram",
+			"show_v": "భీమవరఁ"
+		}, {
+			"id": "60",
+			"show": "Undi",
+			"show_v": "ఉఁడి"
+		}, {
+			"id": "61",
+			"show": "Tanuku",
+			"show_v": "తణుకు"
+		}, {
+			"id": "62",
+			"show": "Tadepalligudem",
+			"show_v": "తా఼డేపల్లిగూ఼డెఁ"
+		}, {
+			"id": "63",
+			"show": "Ungutur",
+			"show_v": "ఉఁగుటూరు"
+		}, {
+			"id": "64",
+			"show": "Denduluru",
+			"show_v": "దెఁదులూరు"
+		}, {
+			"id": "65",
+			"show": "Eluru",
+			"show_v": "ఏలూరు"
+		}, {
+			"id": "66",
+			"show": "Gopalapuram (SC)",
+			"show_v": "గోపాలపురఁ"
+		}, {
+			"id": "67",
+			"show": "Polavaram (ST)",
+			"show_v": "పోలవరఁ"
+		}, {
+			"id": "68",
+			"show": "Chintalapudi (SC)",
+			"show_v": "చింతలపూడి"
+		}]
+	}, {
+		"id": "6",
+		"show": "Krishna",
+		"show_v": "కృష్ణ",
+		"acs": [{
+			"id": "69",
+			"show": "Tiruvuru (SC)",
+			"show_v": "తిరువూరు"
+		}, {
+			"id": "70",
+			"show": "Nuzvid",
+			"show_v": "నూజివీడు"
+		}, {
+			"id": "71",
+			"show": "Gannavaram",
+			"show_v": "గన్నవరఁ"
+		}, {
+			"id": "72",
+			"show": "Gudivada",
+			"show_v": "గుడివాడ"
+		}, {
+			"id": "73",
+			"show": "Kaikalur",
+			"show_v": "కైకలూరు"
+		}, {
+			"id": "74",
+			"show": "Pedana",
+			"show_v": "పెడన"
+		}, {
+			"id": "75",
+			"show": "Machilipatnam",
+			"show_v": "మచిలీపట్నం"
+		}, {
+			"id": "76",
+			"show": "Avanigadda",
+			"show_v": "అవనిగడ్డ"
+		}, {
+			"id": "77",
+			"show": "Pamarru (SC)",
+			"show_v": "పామర్రు"
+		}, {
+			"id": "78",
+			"show": "Penamaluru",
+			"show_v": "పెనమలూరు"
+		}, {
+			"id": "79",
+			"show": "Vijayawada West",
+			"show_v": "వౢజయవాడ వెష్టు"
+		}, {
+			"id": "80",
+			"show": "Vijayawada Central",
+			"show_v": "వౢజయవాడ సెంట్రల్"
+		}, {
+			"id": "81",
+			"show": "Vijayawada East",
+			"show_v": "విజయవాడ ఈష్టు"
+		}, {
+			"id": "82",
+			"show": "Mylavaram",
+			"show_v": "మైలవరఁ"
+		}, {
+			"id": "83",
+			"show": "Nandigama (SC)",
+			"show_v": "నఁదిగామ"
+		}, {
+			"id": "84",
+			"show": "Jaggayyapeta",
+			"show_v": "జగ్గయ్యపేట"
+		}]
+	}, {
+		"id": "7",
+		"show": "Guntur",
+		"show_v": "గుంటూరు",
+		"acs": [{
+			"id": "85",
+			"show": "Pedakurapadu",
+			"show_v": "పెద్దకూరుపాడు"
+		}, {
+			"id": "86",
+			"show": "Tadikonda (SC)",
+			"show_v": "తాడికొండ"
+		}, {
+			"id": "87",
+			"show": "Mangalagiri",
+			"show_v": "మంగళగిరి"
+		}, {
+			"id": "88",
+			"show": "Ponnur",
+			"show_v": "పొన్నూరు"
+		}, {
+			"id": "89",
+			"show": "Vemuru (SC)",
+			"show_v": "వేమూరు"
+		}, {
+			"id": "90",
+			"show": "Repalle",
+			"show_v": "రేపల్లె"
+		}, {
+			"id": "91",
+			"show": "Tenali",
+			"show_v": "తెనాలి"
+		}, {
+			"id": "92",
+			"show": "Bapatla",
+			"show_v": "బాపట్ల"
+		}, {
+			"id": "93",
+			"show": "Prathipadu (SC)",
+			"show_v": "ప్రత్తిపాడు"
+		}, {
+			"id": "94",
+			"show": "Guntur West",
+			"show_v": "గుఁటూరు - 1"
+		}, {
+			"id": "95",
+			"show": "Guntur East",
+			"show_v": "గుంటూరు - 2"
+		}, {
+			"id": "96",
+			"show": "Chilakaluripet",
+			"show_v": "చిలకలూరిపేట"
+		}, {
+			"id": "97",
+			"show": "Narasaraopet",
+			"show_v": "నరసరావుపేట"
+		}, {
+			"id": "98",
+			"show": "Sattenapalle",
+			"show_v": "సత్తెనపల్లి"
+		}, {
+			"id": "99",
+			"show": "Vinukonda",
+			"show_v": "వినుకొండ"
+		}, {
+			"id": "100",
+			"show": "Gurajala",
+			"show_v": "గురజాల"
+		}, {
+			"id": "101",
+			"show": "Macherla",
+			"show_v": "మాచర్ల"
+		}]
+	}, {
+		"id": "8",
+		"show": "Prakasam",
+		"show_v": "ప్రకాశం",
+		"acs": [{
+			"id": "102",
+			"show": "Yerragondapalem (SC)",
+			"show_v": ""
+		}, {
+			"id": "103",
+			"show": "Darsi",
+			"show_v": "దర్శి"
+		}, {
+			"id": "104",
+			"show": "Parchur",
+			"show_v": "పర్చూరు"
+		}, {
+			"id": "105",
+			"show": "Addanki",
+			"show_v": "అద్దంకి"
+		}, {
+			"id": "106",
+			"show": "Chirala",
+			"show_v": "చీరాల"
+		}, {
+			"id": "107",
+			"show": "Santhanuthalapadu (SC)",
+			"show_v": "సంతనూతలపాడు"
+		}, {
+			"id": "108",
+			"show": "Ongole",
+			"show_v": "ఒంగోలు"
+		}, {
+			"id": "109",
+			"show": "Kandukur",
+			"show_v": "కందుకూరు"
+		}, {
+			"id": "110",
+			"show": "Kondapi (SC)",
+			"show_v": "కొండెపి"
+		}, {
+			"id": "111",
+			"show": "Markapuram",
+			"show_v": "మార్కాపూర్"
+		}, {
+			"id": "112",
+			"show": "Giddalur",
+			"show_v": "గిద్దలూరు"
+		}, {
+			"id": "113",
+			"show": "Kanigiri",
+			"show_v": "కనిగిరి"
+		}]
+	}, {
+		"id": "9",
+		"show": "Nellore",
+		"show_v": "నెల్లూరు",
+		"acs": [{
+			"id": "114",
+			"show": "Kavali",
+			"show_v": "కావలి"
+		}, {
+			"id": "115",
+			"show": "Atmakur",
+			"show_v": "ఆత్మకూరు"
+		}, {
+			"id": "116",
+			"show": "Kovur",
+			"show_v": "కోవూరు"
+		}, {
+			"id": "117",
+			"show": "Nellore City",
+			"show_v": "నెల్లూరు"
+		}, {
+			"id": "118",
+			"show": "Nellore Rural",
+			"show_v": "నెల్లూరు"
+		}, {
+			"id": "119",
+			"show": "Sarvepalli",
+			"show_v": "సర్వేపల్లి"
+		}, {
+			"id": "120",
+			"show": "Gudur (SC)",
+			"show_v": "గూడూరు"
+		}, {
+			"id": "121",
+			"show": "Sullurpeta (SC)",
+			"show_v": "సూల్లూరుపేట"
+		}, {
+			"id": "122",
+			"show": "Venkatagiri",
+			"show_v": "వెంకటగిరి"
+		}, {
+			"id": "123",
+			"show": "Udayagiri",
+			"show_v": "ఉదయగిరి"
+		}]
+	}, {
+		"id": "10",
+		"show": "Kadapa",
+		"show_v": "కడప",
+		"acs": [{
+			"id": "124",
+			"show": "Badvel (SC)",
+			"show_v": "బద్వేలు"
+		}, {
+			"id": "125",
+			"show": "Rajampet",
+			"show_v": "రాజంపేట"
+		}, {
+			"id": "126",
+			"show": "Kadapa",
+			"show_v": "కడప"
+		}, {
+			"id": "127",
+			"show": "Kodur (SC)",
+			"show_v": "కోడూరు"
+		}, {
+			"id": "128",
+			"show": "Rayachoti",
+			"show_v": "రాయచోటి"
+		}, {
+			"id": "129",
+			"show": "Pulivendla",
+			"show_v": "పులివెందుల"
+		}, {
+			"id": "130",
+			"show": "Kamalapuram",
+			"show_v": "కమలాపురం"
+		}, {
+			"id": "131",
+			"show": "Jammalamadugu",
+			"show_v": "జమ్మలమడుగు"
+		}, {
+			"id": "132",
+			"show": "Proddatur",
+			"show_v": "ప్రోద్దటూరు"
+		}, {
+			"id": "133",
+			"show": "Mydukur",
+			"show_v": "మైదకూరు"
+		}]
+	}, {
+		"id": "11",
+		"show": "Kurnool",
+		"show_v": "కర్నూలు",
+		"acs": [{
+			"id": "134",
+			"show": "Allagadda",
+			"show_v": "ఆళ్లగడ్డ"
+		}, {
+			"id": "135",
+			"show": "Srisailam",
+			"show_v": ""
+		}, {
+			"id": "136",
+			"show": "Nandikotkur (SC)",
+			"show_v": "నందికొట్కూరు"
+		}, {
+			"id": "137",
+			"show": "Kurnool",
+			"show_v": "కర్నూలు"
+		}, {
+			"id": "138",
+			"show": "Panyam",
+			"show_v": ""
+		}, {
+			"id": "139",
+			"show": "Nandyal",
+			"show_v": "నంద్యాల"
+		}, {
+			"id": "140",
+			"show": "Banaganapalle",
+			"show_v": ""
+		}, {
+			"id": "141",
+			"show": "Dhone",
+			"show_v": "డోన్"
+		}, {
+			"id": "142",
+			"show": "Pattikonda",
+			"show_v": "పత్తికొండ"
+		}, {
+			"id": "143",
+			"show": "Kodumur (SC)",
+			"show_v": "కొడుమూరు"
+		}, {
+			"id": "144",
+			"show": "Yemmiganur",
+			"show_v": "ఎమ్మిగనూరు"
+		}, {
+			"id": "145",
+			"show": "Mantralayam",
+			"show_v": ""
+		}, {
+			"id": "146",
+			"show": "Adoni",
+			"show_v": "ఆధోని"
+		}, {
+			"id": "147",
+			"show": "Alur",
+			"show_v": "ఆలూరు"
+		}]
+	}, {
+		"id": "12",
+		"show": "Anantapur",
+		"show_v": "అనంతపురం",
+		"acs": [{
+			"id": "148",
+			"show": "Rayadurg",
+			"show_v": "రాయదుర్గం"
+		}, {
+			"id": "149",
+			"show": "Uravakonda",
+			"show_v": "ఉరవకొండ"
+		}, {
+			"id": "150",
+			"show": "Guntakal",
+			"show_v": ""
+		}, {
+			"id": "151",
+			"show": "Tadpatri",
+			"show_v": "తాడిపత్రి"
+		}, {
+			"id": "152",
+			"show": "Singanamala (SC)",
+			"show_v": "సింగన్నమాల"
+		}, {
+			"id": "153",
+			"show": "Anantapur Urban",
+			"show_v": "అనంతపూర్"
+		}, {
+			"id": "154",
+			"show": "Kalyandurg",
+			"show_v": "కళ్యాణదుర్గం"
+		}, {
+			"id": "155",
+			"show": "Raptadu",
+			"show_v": ""
+		}, {
+			"id": "156",
+			"show": "Madakasira (SC)",
+			"show_v": "మ఼దకశిర"
+		}, {
+			"id": "157",
+			"show": "Hindupur",
+			"show_v": "హిందుపూర్"
+		}, {
+			"id": "158",
+			"show": "Penukonda",
+			"show_v": "పెనుగొండ"
+		}, {
+			"id": "159",
+			"show": "Puttaparthi",
+			"show_v": ""
+		}, {
+			"id": "160",
+			"show": "Dharmavaram",
+			"show_v": "ధర్మవరఁ"
+		}, {
+			"id": "161",
+			"show": "Kadiri",
+			"show_v": "కదిరి"
+		}]
+	}, {
+		"id": "13",
+		"show": "Chittoor",
+		"show_v": "చిత్తూరు",
+		"acs": [{
+			"id": "162",
+			"show": "Thamballapalle",
+			"show_v": "తంబళ్లపల్లి"
+		}, {
+			"id": "163",
+			"show": "Pileru",
+			"show_v": "పీలేరు"
+		}, {
+			"id": "164",
+			"show": "Madanapalle",
+			"show_v": "మదనపల్లె"
+		}, {
+			"id": "165",
+			"show": "Punganur",
+			"show_v": "పుంగనూరు"
+		}, {
+			"id": "166",
+			"show": "Chandragiri",
+			"show_v": "చంద్రగిరి"
+		}, {
+			"id": "167",
+			"show": "Tirupati",
+			"show_v": "తిరుపతి"
+		}, {
+			"id": "168",
+			"show": "Srikalahasti",
+			"show_v": "శ్రీకాళహస్తి"
+		}, {
+			"id": "169",
+			"show": "Satyavedu (SC)",
+			"show_v": "సత్యవేడు"
+		}, {
+			"id": "170",
+			"show": "Nagari",
+			"show_v": "నగరి"
+		}, {
+			"id": "171",
+			"show": "Gangadhara Nellore (SC)",
+			"show_v": ""
+		}, {
+			"id": "172",
+			"show": "Chittoor",
+			"show_v": "చిత్తూరు"
+		}, {
+			"id": "173",
+			"show": "Puthalapattu (SC)",
+			"show_v": ""
+		}, {
+			"id": "174",
+			"show": "Palamaner",
+			"show_v": "పలమనేరు"
+		}, {
+			"id": "175",
+			"show": "Kuppam",
+			"show_v": "కుప్పం"
+		}]
+	}]
+}

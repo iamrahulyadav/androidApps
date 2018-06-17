@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">GPS, Maps, Navigations&amp;Directions</string>
+    <!--<string name="app_name">Test App</string>-->
+
+    <!--test ads-->
+    <string name="admob_app_id">ca-app-pub-4445981284747506~9723004751</string>
+
+    <string name="ad_unit_id">ca-app-pub-4445981284747506/6783416261</string>
+    <!--<string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>-->
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <!--<string name="interstitial_ad">ca-app-pub-3940256099942544/1033173712</string>-->
+    <string name="interstitial_ad">ca-app-pub-8534176219398220/4977510072</string>
+    <!--<string name="ad_unit_id">ca-app-pub-3940256099942544/8135179316</string>-->
+
+    <string name="test_interstitial_ad">ca-app-pub-3940256099942544/1033173712</string>
+
+    <string name="viewall">viewall</string>
+    <string-array name="ratings_array">
+        <item>Do you find this app useful? Please support us by giving us 5 star on Playstore!</item>
+        <item>Got accurate information? Please support us by giving us 5 star on Playstore!</item>
+        <item>Our app is Easy to use? Please support us by giving us 5 star on Playstore!</item>
+        <item>Do you think our app is Informative? Please support us by giving us 5 star on Playstore!</item>
+        <item>Do you find our app is providing Good Info? Please support us by giving us 5 star on Playstore!</item>
+    </string-array>
+
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCHqhX2XztOiS0ODC8LFZau9AAix9bDiy8</string>
+    <string name="celsius">&#176;C</string>
+    <string name="my_current_location">My Current Location</string>
+    <string name="near_by_places">Near By Places</string>
+    <string name="get_directions">Get Directions</string>
+    <string name="know_address">Know Address</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mosque">Mosque</string>
+    <string name="park">Park</string>
+    <string name="bus_stations">Bus Stations</string>
+    <string name="pharmacy">Pharmacy</string>
+    <string name="parking">Parking</string>
+    <string name="temples">Temples</string>
+    <string name="railway_station">Railway Station</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="university">University</string>
+    <string name="police">Police</string>
+    <string name="petrol_pump">Petrol Pump</string>
+    <string name="doctor">Doctor</string>
+    <string name="hospital">Hospital</string>
+    <string name="atm">ATM</string>
+    <string name="banks">Banks</string>
+    <string name="bar">Bar</string>
+    <string name="art_gallery">Art Gallery</string>
+    <string name="airports">Airports</string>
+    <string name="wait_few_seconds_we_are_preparing_things_for_you">Wait few seconds we are preparing things for you</string>
+</resources>

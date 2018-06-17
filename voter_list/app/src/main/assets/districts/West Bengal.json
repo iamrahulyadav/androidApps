@@ -1,0 +1,1281 @@
+{
+	"state_code": "S25",
+	"state": "West Bengal",
+	"dist": [{
+		"id": "1",
+		"show": "COOCHBEHAR",
+		"show_v": "কুচবিহার",
+		"acs": [{
+			"id": "1",
+			"show": "Mekliganj",
+			"show_v": "মেখলিগঞ্জ"
+		}, {
+			"id": "2",
+			"show": "Mathabhanga",
+			"show_v": "মাথাভাঙা"
+		}, {
+			"id": "3",
+			"show": "Cooch Behar Uttar",
+			"show_v": "কুচবিহার উত্তর"
+		}, {
+			"id": "4",
+			"show": "Cooch Behar Dakshin",
+			"show_v": "কুচবিহার দক্ষিণ"
+		}, {
+			"id": "5",
+			"show": "Sitalkuchi",
+			"show_v": "শীতলকুচি"
+		}, {
+			"id": "6",
+			"show": "Sitai",
+			"show_v": "সিতাই"
+		}, {
+			"id": "7",
+			"show": "Dinhata",
+			"show_v": "দিনহাটা"
+		}, {
+			"id": "8",
+			"show": "Natabari",
+			"show_v": "নাটাবাড়ি"
+		}, {
+			"id": "9",
+			"show": "Tufanganj",
+			"show_v": "তুফানগঞ্জ"
+		}]
+	}, {
+		"id": "2",
+		"show": "JALPAIGURI",
+		"show_v": "জলপাইগুড়ি",
+		"acs": [{
+			"id": "15",
+			"show": "Dhupguri",
+			"show_v": "ধূপগুড়ি"
+		}, {
+			"id": "16",
+			"show": "Maynaguri",
+			"show_v": "ময়নাগুড়ি"
+		}, {
+			"id": "17",
+			"show": "Jalpaiguri",
+			"show_v": "জলপাইগুড়ি"
+		}, {
+			"id": "18",
+			"show": "Rajganj",
+			"show_v": "রাজগঞ্জ"
+		}, {
+			"id": "19",
+			"show": "Dabgram-Fulbari",
+			"show_v": "ডাবগ্রাম-ফুলবাড়ি"
+		}, {
+			"id": "20",
+			"show": "Mal",
+			"show_v": "মাল"
+		}, {
+			"id": "21",
+			"show": "Nagrakata",
+			"show_v": "নাগরাকাটা"
+		}]
+	}, {
+		"id": "3",
+		"show": "DARJEELING",
+		"show_v": "দার্জিলিং",
+		"acs": [{
+			"id": "22",
+			"show": "Kalimpong",
+			"show_v": "কালিম্পোঙ্গ"
+		}, {
+			"id": "23",
+			"show": "Darjeeling",
+			"show_v": "দার্জিলিং"
+		}, {
+			"id": "24",
+			"show": "Kurseong",
+			"show_v": "খরসাঙ্গ"
+		}, {
+			"id": "25",
+			"show": "Matigara-Naxalbari",
+			"show_v": "মাটিগারা- নক্সালবাড়ি"
+		}, {
+			"id": "26",
+			"show": "Siliguri",
+			"show_v": "শিলিগুড়ি"
+		}, {
+			"id": "27",
+			"show": "Phansidewa",
+			"show_v": "ফাঁসিদেওয়া"
+		}]
+	}, {
+		"id": "4",
+		"show": "UTTAR DINAJPUR",
+		"show_v": "উত্তর দিনাজপুর",
+		"acs": [{
+			"id": "28",
+			"show": "Chopra",
+			"show_v": "চোপড়া"
+		}, {
+			"id": "29",
+			"show": "Islampur",
+			"show_v": "ইসলামপুর"
+		}, {
+			"id": "30",
+			"show": "Goalpokhar",
+			"show_v": "গোয়ালপোখর"
+		}, {
+			"id": "31",
+			"show": "Chakulia",
+			"show_v": "চাকুলিয়া"
+		}, {
+			"id": "32",
+			"show": "Karandighi",
+			"show_v": "করণদীঘি"
+		}, {
+			"id": "33",
+			"show": "Hemtabad",
+			"show_v": "হেমতাবাদ"
+		}, {
+			"id": "34",
+			"show": "Kaliaganj",
+			"show_v": "কালীয়াগঞ্জ"
+		}, {
+			"id": "35",
+			"show": "Raiganj",
+			"show_v": "রায়গঞ্জ"
+		}, {
+			"id": "36",
+			"show": "Itahar",
+			"show_v": "ইটাহার"
+		}]
+	}, {
+		"id": "5",
+		"show": "DAKSHIN DINAJPUR",
+		"show_v": "দক্ষিণ দিনাজপুর",
+		"acs": [{
+			"id": "37",
+			"show": "Kushmandi",
+			"show_v": "কুশমন্ডি"
+		}, {
+			"id": "38",
+			"show": "Kumarganj",
+			"show_v": "কুমারগঞ্জ"
+		}, {
+			"id": "39",
+			"show": "Balurghat",
+			"show_v": "বালুরঘাট"
+		}, {
+			"id": "40",
+			"show": "Tapan",
+			"show_v": "তপন"
+		}, {
+			"id": "41",
+			"show": "Gangarampur",
+			"show_v": "গঙ্গারামপুর"
+		}, {
+			"id": "42",
+			"show": "Harirampur",
+			"show_v": "হরিরামপুর"
+		}]
+	}, {
+		"id": "6",
+		"show": "MALDA",
+		"show_v": "মালদহ",
+		"acs": [{
+			"id": "43",
+			"show": "Habibpur",
+			"show_v": "হবিবপুর"
+		}, {
+			"id": "44",
+			"show": "Gazole",
+			"show_v": "গাজোল"
+		}, {
+			"id": "45",
+			"show": "Chanchal",
+			"show_v": "চাঁচল"
+		}, {
+			"id": "46",
+			"show": "Harischandrapur",
+			"show_v": "হরিশচন্দ্রপুর"
+		}, {
+			"id": "47",
+			"show": "Malatipur",
+			"show_v": "মালতীপুর"
+		}, {
+			"id": "48",
+			"show": "Ratua",
+			"show_v": "রতুয়া"
+		}, {
+			"id": "49",
+			"show": "Manikchak",
+			"show_v": "মানিকচক"
+		}, {
+			"id": "50",
+			"show": "Maldaha",
+			"show_v": "মালদহ"
+		}, {
+			"id": "51",
+			"show": "Englishbazar",
+			"show_v": "ইংলিশবাজার"
+		}, {
+			"id": "52",
+			"show": "Mothabari",
+			"show_v": "মোথাবাড়ি"
+		}, {
+			"id": "53",
+			"show": "Sujapur",
+			"show_v": "সুজাপুর"
+		}, {
+			"id": "54",
+			"show": "Baisnabnagar",
+			"show_v": "বৈষ্ণবনগর"
+		}]
+	}, {
+		"id": "7",
+		"show": "MURSHIDABAD",
+		"show_v": "মুর্শিদাবাদ",
+		"acs": [{
+			"id": "55",
+			"show": "Farakka",
+			"show_v": "ফরাক্কা"
+		}, {
+			"id": "56",
+			"show": "Samserganj",
+			"show_v": "সামসেরগঞ্জ"
+		}, {
+			"id": "57",
+			"show": "Suti",
+			"show_v": "সুতি"
+		}, {
+			"id": "58",
+			"show": "Jangipur",
+			"show_v": "জঙ্গীপুর"
+		}, {
+			"id": "59",
+			"show": "RaghunathGanj",
+			"show_v": "রঘুনাথগঞ্জ"
+		}, {
+			"id": "60",
+			"show": "Sagardighi",
+			"show_v": "সাগরদিঘী"
+		}, {
+			"id": "61",
+			"show": "Lalgola",
+			"show_v": "লালগোলা"
+		}, {
+			"id": "62",
+			"show": "Bhagabangola",
+			"show_v": "ভগবানগোলা"
+		}, {
+			"id": "63",
+			"show": "Raninagar",
+			"show_v": "রাণীনগর"
+		}, {
+			"id": "64",
+			"show": "Murshidabad",
+			"show_v": "মুর্শিদাবাদ"
+		}, {
+			"id": "65",
+			"show": "Nabagram",
+			"show_v": "নবগ্রাম"
+		}, {
+			"id": "66",
+			"show": "Khargram",
+			"show_v": "খড়গ্রাম"
+		}, {
+			"id": "67",
+			"show": "Burwan",
+			"show_v": "বড়ঞা"
+		}, {
+			"id": "68",
+			"show": "Kandi",
+			"show_v": "কান্দি"
+		}, {
+			"id": "69",
+			"show": "Bharatpur",
+			"show_v": "ভরতপুর"
+		}, {
+			"id": "70",
+			"show": "Rejinagar",
+			"show_v": "রেজিনগর"
+		}, {
+			"id": "71",
+			"show": "Beldanga",
+			"show_v": "বেলডাঙা"
+		}, {
+			"id": "72",
+			"show": "Baharampur",
+			"show_v": "বহরমপুর"
+		}, {
+			"id": "73",
+			"show": "Hariharpara",
+			"show_v": "হরিহরপাড়া"
+		}, {
+			"id": "74",
+			"show": "Naoda",
+			"show_v": "নওদা"
+		}, {
+			"id": "75",
+			"show": "Domkal",
+			"show_v": "ডোমকল"
+		}, {
+			"id": "76",
+			"show": "Jalangi",
+			"show_v": "জলঙ্গী"
+		}]
+	}, {
+		"id": "8",
+		"show": "NADIA",
+		"show_v": "নদীয়া",
+		"acs": [{
+			"id": "77",
+			"show": "Karimpur",
+			"show_v": "করিমপুর"
+		}, {
+			"id": "78",
+			"show": "Tehatta",
+			"show_v": "তেহট্ট"
+		}, {
+			"id": "79",
+			"show": "Palashipara",
+			"show_v": "পলাশীপাড়া"
+		}, {
+			"id": "80",
+			"show": "Kaliganj",
+			"show_v": "কালীগঞ্জ"
+		}, {
+			"id": "81",
+			"show": "Nakashipara",
+			"show_v": "নাকাশিপাড়া"
+		}, {
+			"id": "82",
+			"show": "Chapra",
+			"show_v": "চাপড়া"
+		}, {
+			"id": "83",
+			"show": "Krishnanagar Uttar",
+			"show_v": "কৃষ্ণনগর উত্তর"
+		}, {
+			"id": "84",
+			"show": "Nabadwip",
+			"show_v": "নবদ্বীপ"
+		}, {
+			"id": "85",
+			"show": "Krishnanagar Dakshin",
+			"show_v": "কৃষ্ণনগর দক্ষিণ"
+		}, {
+			"id": "86",
+			"show": "Santipur",
+			"show_v": "শান্তিপুর"
+		}, {
+			"id": "87",
+			"show": "Ranaghat Uttar Paschim",
+			"show_v": "রানাঘাট উত্তর পশ্চিম"
+		}, {
+			"id": "88",
+			"show": "Krishnaganj",
+			"show_v": "কৃষ্ণগঞ্জ"
+		}, {
+			"id": "89",
+			"show": "Ranaghat Uttar Purba",
+			"show_v": "রানাঘাট উত্তর পূর্ব"
+		}, {
+			"id": "90",
+			"show": "Ranaghat Dakshin",
+			"show_v": "রানাঘাট দক্ষিণ"
+		}, {
+			"id": "91",
+			"show": "Chakdaha",
+			"show_v": "চাকদহ"
+		}, {
+			"id": "92",
+			"show": "Kalyani",
+			"show_v": "কল্যাণী"
+		}, {
+			"id": "93",
+			"show": "Haringhata",
+			"show_v": "হরিণঘাটা"
+		}]
+	}, {
+		"id": "9",
+		"show": "NORTH 24 PARGANAS",
+		"show_v": "উত্তর 24 পরগণা",
+		"acs": [{
+			"id": "94",
+			"show": "Bagda",
+			"show_v": "বাগদা"
+		}, {
+			"id": "95",
+			"show": "Bangaon Uttar",
+			"show_v": "বনগাঁ উত্তর"
+		}, {
+			"id": "96",
+			"show": "Bangaon Dakshin",
+			"show_v": "বনগাঁ দক্ষিণ"
+		}, {
+			"id": "97",
+			"show": "Gaighata",
+			"show_v": "গাইঘাটা"
+		}, {
+			"id": "98",
+			"show": "Swarupnagar",
+			"show_v": "স্বরূপনগর"
+		}, {
+			"id": "99",
+			"show": "Baduria",
+			"show_v": "বাদুড়িয়া"
+		}, {
+			"id": "100",
+			"show": "Habra",
+			"show_v": "হাবড়া"
+		}, {
+			"id": "101",
+			"show": "Ashoknagar",
+			"show_v": "অশোকনগর"
+		}, {
+			"id": "102",
+			"show": "Amdanga",
+			"show_v": "আমডাঙা"
+		}, {
+			"id": "103",
+			"show": "Bijpur",
+			"show_v": "বিজপুর"
+		}, {
+			"id": "104",
+			"show": "Naihati",
+			"show_v": "নৈহাটী"
+		}, {
+			"id": "105",
+			"show": "Bhatpara",
+			"show_v": "ভাটপাড়া"
+		}, {
+			"id": "106",
+			"show": "Jagatdal",
+			"show_v": "জগদ্দল"
+		}, {
+			"id": "107",
+			"show": "Noapara",
+			"show_v": "নোয়াপাড়া"
+		}, {
+			"id": "108",
+			"show": "Barrackpur",
+			"show_v": "ব্যারাকপুর"
+		}, {
+			"id": "109",
+			"show": "Khardaha",
+			"show_v": "খড়দহ"
+		}, {
+			"id": "110",
+			"show": "Dum Dum Uttar",
+			"show_v": "দমদম উত্তর"
+		}, {
+			"id": "111",
+			"show": "Panihati",
+			"show_v": "পানিহাটি"
+		}, {
+			"id": "112",
+			"show": "Kamarhati",
+			"show_v": "কামারহাটি"
+		}, {
+			"id": "113",
+			"show": "Baranagar",
+			"show_v": "বরানগর"
+		}, {
+			"id": "114",
+			"show": "Dum Dum",
+			"show_v": "দমদম"
+		}, {
+			"id": "115",
+			"show": "Rajarhat New Town",
+			"show_v": "রাজারহাট নিউটাউন"
+		}, {
+			"id": "116",
+			"show": "Bidhannagar",
+			"show_v": "বিধান নগর"
+		}, {
+			"id": "117",
+			"show": "Rajarhat  Gopalpur",
+			"show_v": "রাজারহাট গোপালপুর"
+		}, {
+			"id": "118",
+			"show": "Madhyamgram",
+			"show_v": "মধ্যমগ্রাম"
+		}, {
+			"id": "119",
+			"show": "Barasat",
+			"show_v": "বারাসাত"
+		}, {
+			"id": "120",
+			"show": "Deganga",
+			"show_v": "দেগঙ্গা"
+		}, {
+			"id": "121",
+			"show": "Haroa",
+			"show_v": "হাড়োয়া"
+		}, {
+			"id": "122",
+			"show": "Minakhan",
+			"show_v": "মিনাখাঁ"
+		}, {
+			"id": "123",
+			"show": "Sandeshkhali",
+			"show_v": "সন্দেশখালি"
+		}, {
+			"id": "124",
+			"show": "Basirhat Dakshin",
+			"show_v": "বসিরহাট দক্ষিণ"
+		}, {
+			"id": "125",
+			"show": "Basirhat Uttar",
+			"show_v": "বসিরহাট উত্তর"
+		}, {
+			"id": "126",
+			"show": "Hingalganj",
+			"show_v": "হিঙ্গলগঞ্জ"
+		}]
+	}, {
+		"id": "10",
+		"show": "SOUTH 24  PARGANAS",
+		"show_v": "দক্ষিন 24 পরগণা",
+		"acs": [{
+			"id": "127",
+			"show": "Gosaba",
+			"show_v": "গোসাবা"
+		}, {
+			"id": "128",
+			"show": "Basanti",
+			"show_v": "বাসন্তী"
+		}, {
+			"id": "129",
+			"show": "Kultali",
+			"show_v": "কুলতলি"
+		}, {
+			"id": "130",
+			"show": "Patharpratima",
+			"show_v": "পাথরপ্রতিমা"
+		}, {
+			"id": "131",
+			"show": "Kakdwip",
+			"show_v": "কাকদ্বীপ"
+		}, {
+			"id": "132",
+			"show": "Sagar",
+			"show_v": "সাগর"
+		}, {
+			"id": "133",
+			"show": "Kulpi",
+			"show_v": "কুলপি"
+		}, {
+			"id": "134",
+			"show": "Raidighi",
+			"show_v": "রায়দিঘী"
+		}, {
+			"id": "135",
+			"show": "Mandirbazar",
+			"show_v": "মন্দিরবাজার"
+		}, {
+			"id": "136",
+			"show": "Joynagar",
+			"show_v": "জয়নগর"
+		}, {
+			"id": "137",
+			"show": "Baruipur Purba",
+			"show_v": "বারুইপুর পূর্ব"
+		}, {
+			"id": "138",
+			"show": "Canning Paschim",
+			"show_v": "ক্যানিং পশ্চিম"
+		}, {
+			"id": "139",
+			"show": "Canning Purba",
+			"show_v": "ক্যানিং পূর্ব"
+		}, {
+			"id": "140",
+			"show": "Baruipur Paschim",
+			"show_v": "বারুইপুর পশ্চিম"
+		}, {
+			"id": "141",
+			"show": "Magrahat Purba",
+			"show_v": "মগরাহাট পূর্ব"
+		}, {
+			"id": "142",
+			"show": "Magrahat Paschim",
+			"show_v": "মগরাহাট পশ্চিম"
+		}, {
+			"id": "143",
+			"show": "Diamond Harbour",
+			"show_v": "ডায়মণ্ডহারবার"
+		}, {
+			"id": "144",
+			"show": "Falta",
+			"show_v": "ফলতা"
+		}, {
+			"id": "145",
+			"show": "Satgachhia",
+			"show_v": "সাতগাছিয়া"
+		}, {
+			"id": "146",
+			"show": "Bishnupur",
+			"show_v": "বিষ্ণুপুর"
+		}, {
+			"id": "147",
+			"show": "Sonarpur Dakshin",
+			"show_v": "সোনারপুর দক্ষিণ"
+		}, {
+			"id": "148",
+			"show": "Bhangar",
+			"show_v": "ভাঙ্গড়"
+		}, {
+			"id": "149",
+			"show": "Kasba",
+			"show_v": "কসবা"
+		}, {
+			"id": "150",
+			"show": "Jadavpur",
+			"show_v": "যাদবপুর"
+		}, {
+			"id": "151",
+			"show": "Sonarpur Uttar",
+			"show_v": "সোনারপুর উত্তর"
+		}, {
+			"id": "152",
+			"show": "Tollyganj",
+			"show_v": "টালিগঞ্জ"
+		}, {
+			"id": "153",
+			"show": "Behala Purba",
+			"show_v": "বেহালা  পূর্ব"
+		}, {
+			"id": "154",
+			"show": "Behala Paschim",
+			"show_v": "বেহালা  পশ্চিম"
+		}, {
+			"id": "155",
+			"show": "Maheshtala",
+			"show_v": "মহেশতলা"
+		}, {
+			"id": "156",
+			"show": "Budge Budge",
+			"show_v": "বজবজ"
+		}, {
+			"id": "157",
+			"show": "Metiaburuz",
+			"show_v": "মেটিয়াবুরুজ"
+		}]
+	}, {
+		"id": "11",
+		"show": "KOLKATA",
+		"show_v": "কলকাতা",
+		"acs": [{
+			"id": "158",
+			"show": "Kolkata Port",
+			"show_v": "কোলকাতা পোর্ট"
+		}, {
+			"id": "159",
+			"show": "Bhabanipur",
+			"show_v": "ভবানীপুর"
+		}, {
+			"id": "160",
+			"show": "Rashbehari",
+			"show_v": "রাসবিহারী"
+		}, {
+			"id": "161",
+			"show": "Ballygunge",
+			"show_v": "বালীগঞ্জ"
+		}, {
+			"id": "162",
+			"show": "Chowrangee",
+			"show_v": "চৌরঙ্গী"
+		}, {
+			"id": "163",
+			"show": "Entally",
+			"show_v": "এন্টালী"
+		}, {
+			"id": "164",
+			"show": "Beleghata",
+			"show_v": "বেলেঘাটা"
+		}, {
+			"id": "165",
+			"show": "Jorasanko",
+			"show_v": "জোড়া সাঁকো"
+		}, {
+			"id": "166",
+			"show": "Shyampukur",
+			"show_v": "শ্যাম পুকুর"
+		}, {
+			"id": "167",
+			"show": "Maniktola",
+			"show_v": "মানিকতলা"
+		}, {
+			"id": "168",
+			"show": "Kashipur-Belgachhia",
+			"show_v": "কাশীপুর বেলগাছিয়া"
+		}]
+	}, {
+		"id": "14",
+		"show": "HOWRAH",
+		"show_v": "হাওড়া",
+		"acs": [{
+			"id": "169",
+			"show": "Bally",
+			"show_v": "বালী"
+		}, {
+			"id": "170",
+			"show": "Howrah Uttar",
+			"show_v": "হাওড়া উত্তর"
+		}, {
+			"id": "171",
+			"show": "Howrah Madhya",
+			"show_v": "হাওড়া মধ্য"
+		}, {
+			"id": "172",
+			"show": "Shibpur",
+			"show_v": "শিবপুর"
+		}, {
+			"id": "173",
+			"show": "Howrah Dakshin",
+			"show_v": "হাওড়া দক্ষিণ"
+		}, {
+			"id": "174",
+			"show": "Sankrail",
+			"show_v": "সাঁকরাইল"
+		}, {
+			"id": "175",
+			"show": "Panchla",
+			"show_v": "পাঁচলা"
+		}, {
+			"id": "176",
+			"show": "Uluberia Purba",
+			"show_v": "উলুবেড়িয়া পূর্ব"
+		}, {
+			"id": "177",
+			"show": "Uluberia Uttar",
+			"show_v": "উলুবেড়িয়া উত্তর"
+		}, {
+			"id": "178",
+			"show": "Uluberia Dakshin",
+			"show_v": "উলুবেড়িয়া দক্ষিণ"
+		}, {
+			"id": "179",
+			"show": "Shyampur",
+			"show_v": "শ্যামপুর"
+		}, {
+			"id": "180",
+			"show": "Bagnan",
+			"show_v": "বাগনান"
+		}, {
+			"id": "181",
+			"show": "Amta",
+			"show_v": "আমতা"
+		}, {
+			"id": "182",
+			"show": "Udaynarayanpur",
+			"show_v": "উদয়নারায়ণপুর"
+		}, {
+			"id": "183",
+			"show": "Jagatballavpur",
+			"show_v": "জগৎবল্লভপুর"
+		}, {
+			"id": "184",
+			"show": "Domjur",
+			"show_v": "ডোমজুড়"
+		}]
+	}, {
+		"id": "15",
+		"show": "HOOGHLY",
+		"show_v": "হুগলী",
+		"acs": [{
+			"id": "185",
+			"show": "Uttarpara",
+			"show_v": "উত্তরপাড়া"
+		}, {
+			"id": "186",
+			"show": "Sreerampur",
+			"show_v": "শ্রীরামপুর"
+		}, {
+			"id": "187",
+			"show": "Champdani",
+			"show_v": "চাঁপদানী"
+		}, {
+			"id": "188",
+			"show": "Singur",
+			"show_v": "সিঙ্গুর"
+		}, {
+			"id": "189",
+			"show": "Chandannagar",
+			"show_v": "চন্দননগর"
+		}, {
+			"id": "190",
+			"show": "Chunchura",
+			"show_v": "চুঁচুড়া"
+		}, {
+			"id": "191",
+			"show": "Balagarh",
+			"show_v": "বলাগড়"
+		}, {
+			"id": "192",
+			"show": "Pandua",
+			"show_v": "পাণ্ডুয়া"
+		}, {
+			"id": "193",
+			"show": "Saptagram",
+			"show_v": "সপ্তগ্রাম"
+		}, {
+			"id": "194",
+			"show": "Chanditala",
+			"show_v": "চণ্ডীতলা"
+		}, {
+			"id": "195",
+			"show": "Jangipara",
+			"show_v": "জাঙ্গীপাড়া"
+		}, {
+			"id": "196",
+			"show": "Haripal",
+			"show_v": "হরিপাল"
+		}, {
+			"id": "197",
+			"show": "Dhanekhali",
+			"show_v": "ধনিয়াখালি"
+		}, {
+			"id": "198",
+			"show": "Tarakeswar",
+			"show_v": "তারকেশ্বর"
+		}, {
+			"id": "199",
+			"show": "Pursurah",
+			"show_v": "পুরশুড়া"
+		}, {
+			"id": "200",
+			"show": "Arambag",
+			"show_v": "আরামবাগ"
+		}, {
+			"id": "201",
+			"show": "Goghat",
+			"show_v": "গোঘাট"
+		}, {
+			"id": "202",
+			"show": "Khanakul",
+			"show_v": "খানাকুল"
+		}]
+	}, {
+		"id": "16",
+		"show": "PURBO MEDINIPUR",
+		"show_v": "পূর্ব  মেদিনীপুর",
+		"acs": [{
+			"id": "203",
+			"show": "Tamluk",
+			"show_v": "তমলুক"
+		}, {
+			"id": "204",
+			"show": "Panskura Purba",
+			"show_v": "পাঁশকুড়া পূর্ব"
+		}, {
+			"id": "205",
+			"show": "Panskura Paschim",
+			"show_v": "পাঁশকুড়া পশ্চিম"
+		}, {
+			"id": "206",
+			"show": "Moyna",
+			"show_v": "ময়না"
+		}, {
+			"id": "207",
+			"show": "Nandakumar",
+			"show_v": "নন্দকুমার"
+		}, {
+			"id": "208",
+			"show": "Mahishadal",
+			"show_v": "মহিষাদল"
+		}, {
+			"id": "209",
+			"show": "Haldia",
+			"show_v": "হলদিয়া"
+		}, {
+			"id": "210",
+			"show": "Nandigram",
+			"show_v": "নন্দীগ্রাম"
+		}, {
+			"id": "211",
+			"show": "Chandipur",
+			"show_v": "চন্ডী পুর"
+		}, {
+			"id": "212",
+			"show": "Patashpur",
+			"show_v": "পটাশপুর"
+		}, {
+			"id": "213",
+			"show": "Kanthi Uttar",
+			"show_v": "কাঁথি উত্তর"
+		}, {
+			"id": "214",
+			"show": "Bhagabanpur",
+			"show_v": "ভগবানপুর"
+		}, {
+			"id": "215",
+			"show": "Khejuri",
+			"show_v": "খেজুরি"
+		}, {
+			"id": "216",
+			"show": "Kanthi Dakshin",
+			"show_v": "কাঁথি দক্ষিণ"
+		}, {
+			"id": "217",
+			"show": "Ramnagar",
+			"show_v": "রামনগর"
+		}, {
+			"id": "218",
+			"show": "Egra",
+			"show_v": "এগরা"
+		}]
+	}, {
+		"id": "17",
+		"show": "PASCHIM MEDINIPUR",
+		"show_v": "পশ্চিম মেদিনীপুর",
+		"acs": [{
+			"id": "219",
+			"show": "Dantan",
+			"show_v": "দাঁতন"
+		}, {
+			"id": "220",
+			"show": "Nayagram",
+			"show_v": "নয়াগ্রাম"
+		}, {
+			"id": "221",
+			"show": "Gopiballavpur",
+			"show_v": "গোপীবল্লভপুর"
+		}, {
+			"id": "222",
+			"show": "Jhargram",
+			"show_v": "ঝাড়গ্রাম"
+		}, {
+			"id": "223",
+			"show": "Keshiary",
+			"show_v": "কেশিয়াড়ী"
+		}, {
+			"id": "224",
+			"show": "Kharagpur Sadar",
+			"show_v": "খড়গপুর সদর"
+		}, {
+			"id": "225",
+			"show": "Narayangarh",
+			"show_v": "নারায়ণগড়"
+		}, {
+			"id": "226",
+			"show": "Sabang",
+			"show_v": "সবং"
+		}, {
+			"id": "227",
+			"show": "Pingla",
+			"show_v": "পিংলা"
+		}, {
+			"id": "228",
+			"show": "Kharagpur",
+			"show_v": "খড়গপুর"
+		}, {
+			"id": "229",
+			"show": "Debra",
+			"show_v": "ডেবরা"
+		}, {
+			"id": "230",
+			"show": "Daspur",
+			"show_v": "দাসপুর"
+		}, {
+			"id": "231",
+			"show": "Ghatal",
+			"show_v": "ঘাটাল"
+		}, {
+			"id": "232",
+			"show": "Chandrakona",
+			"show_v": "চন্দ্রকোণা"
+		}, {
+			"id": "233",
+			"show": "Garbeta",
+			"show_v": "গড়বেতা"
+		}, {
+			"id": "234",
+			"show": "Salboni",
+			"show_v": "শালবনী"
+		}, {
+			"id": "235",
+			"show": "Keshpur",
+			"show_v": "কেশপুর"
+		}, {
+			"id": "236",
+			"show": "Medinipur",
+			"show_v": "মেদিনীপুর"
+		}, {
+			"id": "237",
+			"show": "Binpur",
+			"show_v": "বিনপুর"
+		}]
+	}, {
+		"id": "18",
+		"show": "PURULIA",
+		"show_v": "পুরুলিয়া",
+		"acs": [{
+			"id": "238",
+			"show": "Bandwan",
+			"show_v": "বান্দোয়ান"
+		}, {
+			"id": "239",
+			"show": "Balarampur",
+			"show_v": "বলরামপুর"
+		}, {
+			"id": "240",
+			"show": "Baghmundi",
+			"show_v": "বাঘমুন্ডি"
+		}, {
+			"id": "241",
+			"show": "Joypur",
+			"show_v": "জয়পুর"
+		}, {
+			"id": "242",
+			"show": "Purulia",
+			"show_v": "পুরুলিয়া"
+		}, {
+			"id": "243",
+			"show": "Manbazar",
+			"show_v": "মানবাজার"
+		}, {
+			"id": "244",
+			"show": "Kashipur",
+			"show_v": "কাশীপুর"
+		}, {
+			"id": "245",
+			"show": "Para",
+			"show_v": "পাড়া"
+		}, {
+			"id": "246",
+			"show": "Raghunathpur",
+			"show_v": "রঘুনাথপুর"
+		}]
+	}, {
+		"id": "19",
+		"show": "BANKURA",
+		"show_v": "বাঁকুড়া",
+		"acs": [{
+			"id": "247",
+			"show": "Saltora",
+			"show_v": "শালতোড়া"
+		}, {
+			"id": "248",
+			"show": "Chhatna",
+			"show_v": "ছাত ্‌না"
+		}, {
+			"id": "249",
+			"show": "Ranibandh",
+			"show_v": "রানীবাঁধ"
+		}, {
+			"id": "250",
+			"show": "Raipur",
+			"show_v": "রাইপুর"
+		}, {
+			"id": "251",
+			"show": "Taldangra",
+			"show_v": "তালডাংরা"
+		}, {
+			"id": "252",
+			"show": "Bankura",
+			"show_v": "বাঁকুড়া"
+		}, {
+			"id": "253",
+			"show": "Barjora",
+			"show_v": "বড়জোড়া"
+		}, {
+			"id": "254",
+			"show": "Onda",
+			"show_v": "ওন্দা"
+		}, {
+			"id": "255",
+			"show": "Bishnupur",
+			"show_v": "বিষ্ণুপুর"
+		}, {
+			"id": "256",
+			"show": "Katulpur",
+			"show_v": "কোতুলপুর"
+		}, {
+			"id": "257",
+			"show": "Indus",
+			"show_v": "ইন্দাস"
+		}, {
+			"id": "258",
+			"show": "Sonamukhi",
+			"show_v": "সোনামুখী"
+		}]
+	}, {
+		"id": "20",
+		"show": "BURDWAN",
+		"show_v": "বর্ধমান",
+		"acs": [{
+			"id": "259",
+			"show": "Khandaghosh",
+			"show_v": "খণ্ডঘোষ"
+		}, {
+			"id": "260",
+			"show": "Burdwan Dakshin",
+			"show_v": "বর্ধমান দক্ষিণ"
+		}, {
+			"id": "261",
+			"show": "Raina",
+			"show_v": "রায়না"
+		}, {
+			"id": "262",
+			"show": "Jamalpur",
+			"show_v": "জামালপুর"
+		}, {
+			"id": "263",
+			"show": "Monteswar",
+			"show_v": "মন্তেশ্বর"
+		}, {
+			"id": "264",
+			"show": "Kalna",
+			"show_v": "কালনা"
+		}, {
+			"id": "265",
+			"show": "Memari",
+			"show_v": "মেমারি"
+		}, {
+			"id": "266",
+			"show": "Burdwan Uttar",
+			"show_v": "বর্ধমান উত্তর"
+		}, {
+			"id": "267",
+			"show": "Bhatar",
+			"show_v": "ভাতার"
+		}, {
+			"id": "268",
+			"show": "Purbasthali Dakshin",
+			"show_v": "পূর্বস্থলী দক্ষিণ"
+		}, {
+			"id": "269",
+			"show": "Purbasthali Uttar",
+			"show_v": "পূর্বস্থলী উত্তর"
+		}, {
+			"id": "270",
+			"show": "Katwa",
+			"show_v": "কাটোয়া"
+		}, {
+			"id": "271",
+			"show": "Ketugram",
+			"show_v": "কেতুগ্রাম"
+		}, {
+			"id": "272",
+			"show": "Mangalkot",
+			"show_v": "মঙ্গলকোট"
+		}, {
+			"id": "273",
+			"show": "Ausgram",
+			"show_v": "আউসগ্রাম"
+		}, {
+			"id": "274",
+			"show": "Galsi",
+			"show_v": "গলসি"
+		}, {
+			"id": "275",
+			"show": "Pandabeswar",
+			"show_v": "পান্ডবেশ্বর"
+		}, {
+			"id": "276",
+			"show": "Durgapur Purba",
+			"show_v": "দুর্গাপুর পূর্ব"
+		}, {
+			"id": "277",
+			"show": "Durgapur Paschim",
+			"show_v": "দুর্গাপুর পশ্চিম"
+		}, {
+			"id": "278",
+			"show": "Raniganj",
+			"show_v": "রানীগঞ্জ"
+		}, {
+			"id": "279",
+			"show": "Jamuria",
+			"show_v": "জামুরিয়া"
+		}, {
+			"id": "280",
+			"show": "Asnsol Dakshin",
+			"show_v": "আসানসোল দক্ষিণ"
+		}, {
+			"id": "281",
+			"show": "Asansol Uttar",
+			"show_v": "আসানসোল উত্তর"
+		}, {
+			"id": "282",
+			"show": "Kulti",
+			"show_v": "কুলটি"
+		}, {
+			"id": "283",
+			"show": "Barabani",
+			"show_v": "বারাবনি"
+		}]
+	}, {
+		"id": "21",
+		"show": "BIRBHUM",
+		"show_v": "বীরভূম",
+		"acs": [{
+			"id": "284",
+			"show": "Dubrajpur",
+			"show_v": "দুবরাজপুর"
+		}, {
+			"id": "285",
+			"show": "Suri",
+			"show_v": "সিউড়ি"
+		}, {
+			"id": "286",
+			"show": "Bolpur",
+			"show_v": "বোলপুর"
+		}, {
+			"id": "287",
+			"show": "Nanoor",
+			"show_v": "নানূর"
+		}, {
+			"id": "288",
+			"show": "Labhpur",
+			"show_v": "লাভপুর"
+		}, {
+			"id": "289",
+			"show": "Sainthia",
+			"show_v": "সাঁইথিয়া"
+		}, {
+			"id": "290",
+			"show": "Mayureswar",
+			"show_v": "ময়ূরেশ্বর"
+		}, {
+			"id": "291",
+			"show": "Rampurhat",
+			"show_v": "রামপুরহাট"
+		}, {
+			"id": "292",
+			"show": "Hansan",
+			"show_v": "হাঁসন"
+		}, {
+			"id": "293",
+			"show": "Nalhati",
+			"show_v": "নলহাটি"
+		}, {
+			"id": "294",
+			"show": "Murarai",
+			"show_v": "মুরারই"
+		}]
+	}, {
+		"id": "22",
+		"show": "ALIPURDUAR",
+		"show_v": "আলিপুরদুয়ার",
+		"acs": [{
+			"id": "10",
+			"show": "Kumargram",
+			"show_v": "কুমারগ্রাম"
+		}, {
+			"id": "11",
+			"show": "Kalchini",
+			"show_v": "কালচিনি"
+		}, {
+			"id": "12",
+			"show": "Alipurduars",
+			"show_v": "আলিপুরদুয়ার"
+		}, {
+			"id": "13",
+			"show": "Falakata",
+			"show_v": "ফালাকাটা"
+		}, {
+			"id": "14",
+			"show": "Madarihat",
+			"show_v": "মাদারীহাট"
+		}]
+	}]
+}

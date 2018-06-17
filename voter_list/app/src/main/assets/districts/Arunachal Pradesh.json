@@ -1,0 +1,340 @@
+{
+  "state_code" : "S02",
+  "state" : "Arunachal Pradesh",
+  "dist" : [ {
+    "id" : "1",
+    "show" : "TAWANG",
+    "show_v" : "TAWANG",
+    "acs" : [ {
+      "id" : "1",
+      "show" : "LUMLA",
+      "show_v" : "LUMLA"
+    }, {
+      "id" : "2",
+      "show" : "TAWANG",
+      "show_v" : "TAWANG"
+    }, {
+      "id" : "3",
+      "show" : "MUKTO",
+      "show_v" : "MUKTO"
+    } ]
+  }, {
+    "id" : "2",
+    "show" : "WEST KAMENG",
+    "show_v" : "WEST KAMENG",
+    "acs" : [ {
+      "id" : "4",
+      "show" : "DIRANG",
+      "show_v" : "DIRANG"
+    }, {
+      "id" : "5",
+      "show" : "KALAKTANG",
+      "show_v" : "KALAKTANG"
+    }, {
+      "id" : "6",
+      "show" : "THRIZINO-BURAGAON",
+      "show_v" : "THRIZINO-BURAGAON"
+    }, {
+      "id" : "7",
+      "show" : "BOMDILA",
+      "show_v" : "BOMDILA"
+    } ]
+  }, {
+    "id" : "3",
+    "show" : "EAST KAMENG",
+    "show_v" : "EAST KAMENG",
+    "acs" : [ {
+      "id" : "8",
+      "show" : "BAMENG",
+      "show_v" : "BAMENG"
+    }, {
+      "id" : "9",
+      "show" : "CHAYANG TAJO",
+      "show_v" : "CHAYANG TAJO"
+    }, {
+      "id" : "10",
+      "show" : "SEPPA EAST",
+      "show_v" : "SEPPA EAST"
+    }, {
+      "id" : "11",
+      "show" : "SEPPA WEST",
+      "show_v" : "SEPPA WEST"
+    }, {
+      "id" : "12",
+      "show" : "PAKKE KESSANG",
+      "show_v" : "PAKKE KESSANG"
+    } ]
+  }, {
+    "id" : "4",
+    "show" : "PAPUM PARE",
+    "show_v" : "PAPUM PARE",
+    "acs" : [ {
+      "id" : "13",
+      "show" : "ITANAGAR",
+      "show_v" : "ITANAGAR"
+    }, {
+      "id" : "14",
+      "show" : "DOIMUKH",
+      "show_v" : "DOIMUKH"
+    }, {
+      "id" : "15",
+      "show" : "SAGALEE",
+      "show_v" : "SAGALEE"
+    } ]
+  }, {
+    "id" : "5",
+    "show" : "LOWER SUBANSIRI",
+    "show_v" : "LOWER SUBANSIRI",
+    "acs" : [ {
+      "id" : "16",
+      "show" : "YACHULI",
+      "show_v" : "YACHULI"
+    }, {
+      "id" : "17",
+      "show" : "ZIRO HAPOLI",
+      "show_v" : "ZIRO HAPOLI"
+    } ]
+  }, {
+    "id" : "6",
+    "show" : "UPPER SUBANSIRI",
+    "show_v" : "UPPER SUBANSIRI",
+    "acs" : [ {
+      "id" : "22",
+      "show" : "NACHO",
+      "show_v" : "NACHO"
+    }, {
+      "id" : "23",
+      "show" : "TALIHA",
+      "show_v" : "TALIHA"
+    }, {
+      "id" : "24",
+      "show" : "DAPORIJO",
+      "show_v" : "DAPORIJO"
+    }, {
+      "id" : "25",
+      "show" : "RAGA",
+      "show_v" : "RAGA"
+    }, {
+      "id" : "26",
+      "show" : "DUMPORIJO",
+      "show_v" : "DUMPORIJO"
+    } ]
+  }, {
+    "id" : "7",
+    "show" : "WEST SIANG",
+    "show_v" : "WEST SIANG",
+    "acs" : [ {
+      "id" : "27",
+      "show" : "LIROMOBA",
+      "show_v" : "LIROMOBA"
+    }, {
+      "id" : "28",
+      "show" : "LIKABALI",
+      "show_v" : "LIKABALI"
+    }, {
+      "id" : "29",
+      "show" : "BASAR",
+      "show_v" : "BASAR"
+    }, {
+      "id" : "30",
+      "show" : "ALONG WEST",
+      "show_v" : "ALONG WEST"
+    }, {
+      "id" : "31",
+      "show" : "ALONG EAST",
+      "show_v" : "ALONG EAST"
+    }, {
+      "id" : "32",
+      "show" : "RUMGONG",
+      "show_v" : "RUMGONG"
+    } ]
+  }, {
+    "id" : "8",
+    "show" : "WEST SIANG",
+    "show_v" : "WEST SIANG",
+    "acs" : [ {
+      "id" : "33",
+      "show" : "MECHUKHA",
+      "show_v" : "MECHUKHA"
+    } ]
+  }, {
+    "id" : "9",
+    "show" : "UPPER SIANG",
+    "show_v" : "UPPER SIANG",
+    "acs" : [ {
+      "id" : "34",
+      "show" : "TUTING YINGKIONG",
+      "show_v" : "TUTING YINGKIONG"
+    }, {
+      "id" : "40",
+      "show" : "MARIYANG-GEKU",
+      "show_v" : "MARIYANG-GEKU"
+    } ]
+  }, {
+    "id" : "10",
+    "show" : "EAST SIANG",
+    "show_v" : "EAST SIANG",
+    "acs" : [ {
+      "id" : "35",
+      "show" : "PANGIN",
+      "show_v" : "PANGIN"
+    }, {
+      "id" : "36",
+      "show" : "NARI-KOYU",
+      "show_v" : "NARI-KOYU"
+    }, {
+      "id" : "37",
+      "show" : "PASIGHAT WEST",
+      "show_v" : "PASIGHAT WEST"
+    }, {
+      "id" : "38",
+      "show" : "PASIGHAT EAST",
+      "show_v" : "PASIGHAT EAST"
+    }, {
+      "id" : "39",
+      "show" : "MEBO",
+      "show_v" : "MEBO"
+    } ]
+  }, {
+    "id" : "11",
+    "show" : "DIBANG VALLEY",
+    "show_v" : "DIBANG VALLEY",
+    "acs" : [ {
+      "id" : "41",
+      "show" : "ANINI",
+      "show_v" : "ANINI"
+    } ]
+  }, {
+    "id" : "12",
+    "show" : "LOWER DIBANG VALLEY",
+    "show_v" : "LOWER DIBANG VALLEY",
+    "acs" : [ {
+      "id" : "42",
+      "show" : "DAMBUK",
+      "show_v" : "DAMBUK"
+    }, {
+      "id" : "43",
+      "show" : "ROING",
+      "show_v" : "ROING"
+    } ]
+  }, {
+    "id" : "13",
+    "show" : "LOHIT",
+    "show_v" : "LOHIT",
+    "acs" : [ {
+      "id" : "44",
+      "show" : "TEZU",
+      "show_v" : "TEZU"
+    } ]
+  }, {
+    "id" : "14",
+    "show" : "ANJAW",
+    "show_v" : "ANJAW",
+    "acs" : [ {
+      "id" : "45",
+      "show" : "HAYULIANG",
+      "show_v" : "HAYULIANG"
+    } ]
+  }, {
+    "id" : "15",
+    "show" : "CHANGLANG",
+    "show_v" : "CHANGLANG",
+    "acs" : [ {
+      "id" : "49",
+      "show" : "BORDUMSA - DIYUM",
+      "show_v" : "BORDUMSA - DIYUM"
+    }, {
+      "id" : "50",
+      "show" : "MIAO",
+      "show_v" : "MIAO"
+    }, {
+      "id" : "51",
+      "show" : "NAMPONG",
+      "show_v" : "NAMPONG"
+    }, {
+      "id" : "52",
+      "show" : "CHANGLANG SOUTH",
+      "show_v" : "CHANGLANG SOUTH"
+    }, {
+      "id" : "53",
+      "show" : "CHANGLANG NORTH",
+      "show_v" : "CHANGLANG NORTH"
+    } ]
+  }, {
+    "id" : "16",
+    "show" : "TIRAP",
+    "show_v" : "TIRAP",
+    "acs" : [ {
+      "id" : "54",
+      "show" : "NAMSANG",
+      "show_v" : "NAMSANG"
+    }, {
+      "id" : "55",
+      "show" : "KHONSA EAST",
+      "show_v" : "KHONSA EAST"
+    }, {
+      "id" : "56",
+      "show" : "KHONSA WEST",
+      "show_v" : "KHONSA WEST"
+    }, {
+      "id" : "57",
+      "show" : "BORDURIA BOGAPANI",
+      "show_v" : "BORDURIA BOGAPANI"
+    } ]
+  }, {
+    "id" : "17",
+    "show" : "KURUNG KUMEY",
+    "show_v" : "KURUNG KUMEY",
+    "acs" : [ {
+      "id" : "18",
+      "show" : "PALIN",
+      "show_v" : "PALIN"
+    }, {
+      "id" : "19",
+      "show" : "NYAPIN",
+      "show_v" : "NYAPIN"
+    }, {
+      "id" : "20",
+      "show" : "TALI",
+      "show_v" : "TALI"
+    }, {
+      "id" : "21",
+      "show" : "KOLORIANG",
+      "show_v" : "KOLORIANG"
+    } ]
+  }, {
+    "id" : "18",
+    "show" : "LONGDING ",
+    "show_v" : "LONGDING ",
+    "acs" : [ {
+      "id" : "58",
+      "show" : "KANUBARI",
+      "show_v" : "KANUBARI"
+    }, {
+      "id" : "59",
+      "show" : "LONGDING PUMAO",
+      "show_v" : "LONGDING PUMAO"
+    }, {
+      "id" : "60",
+      "show" : "PONGCHAO WAKKA",
+      "show_v" : "PONGCHAO WAKKA"
+    } ]
+  }, {
+    "id" : "19",
+    "show" : "NAMSAI",
+    "show_v" : "NAMSAI",
+    "acs" : [ {
+      "id" : "46",
+      "show" : "CHOWKHAM",
+      "show_v" : "CHOWKHAM"
+    }, {
+      "id" : "47",
+      "show" : "NAMSAI",
+      "show_v" : "NAMSAI"
+    }, {
+      "id" : "48",
+      "show" : "LEKANG",
+      "show_v" : "LEKANG"
+    } ]
+  } ]
+}

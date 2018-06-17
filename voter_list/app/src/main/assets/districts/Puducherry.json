@@ -1,0 +1,135 @@
+{
+	"state_code": "U07",
+	"state": "Puducherry",
+	"dist": [{
+		"id": "1",
+		"show": "Puducherry",
+		"show_v": "புதுச்சேரி",
+		"acs": [{
+			"id": "1",
+			"show": "MANNADIPET",
+			"show_v": "மண்ணாடிப்பட்டு"
+		}, {
+			"id": "2",
+			"show": "THIRUBUVANAI",
+			"show_v": "திருபுவனை"
+		}, {
+			"id": "3",
+			"show": "OUSSUDU",
+			"show_v": "ஊசுடு"
+		}, {
+			"id": "4",
+			"show": "MANGALAM",
+			"show_v": "மங்கலம்"
+		}, {
+			"id": "5",
+			"show": "VILLIANUR",
+			"show_v": "வில்லியனூர்"
+		}, {
+			"id": "6",
+			"show": "OZHUKARAI",
+			"show_v": "உழவர்கரை"
+		}, {
+			"id": "7",
+			"show": "KADIRGAMAM",
+			"show_v": "கதிர்காமம்"
+		}, {
+			"id": "8",
+			"show": "INDIRA NAGAR",
+			"show_v": "இந்திரா நகர்"
+		}, {
+			"id": "9",
+			"show": "THATTANCHAVADY",
+			"show_v": "தட்டாஞ்சாவடி"
+		}, {
+			"id": "10",
+			"show": "KAMARAJ NAGAR",
+			"show_v": "காமராஜ் நகர்"
+		}, {
+			"id": "11",
+			"show": "LAWSPET",
+			"show_v": "இலாசுபேட்டை"
+		}, {
+			"id": "12",
+			"show": "KALAPET",
+			"show_v": "காலாப்பட்டு"
+		}, {
+			"id": "13",
+			"show": "MUTHIALPET",
+			"show_v": "முத்தியால்பேட்டை"
+		}, {
+			"id": "14",
+			"show": "RAJ BHAVAN",
+			"show_v": "ராஜ்பவன்"
+		}, {
+			"id": "15",
+			"show": "OUPALAM",
+			"show_v": "உப்பளம்"
+		}, {
+			"id": "16",
+			"show": "ORLEANPETH",
+			"show_v": "உருளையன்பேட்டை"
+		}, {
+			"id": "17",
+			"show": "NELLITHOPE",
+			"show_v": "நெல்லித்தோப்பு"
+		}, {
+			"id": "18",
+			"show": "MUDALIARPET",
+			"show_v": "முதலியார்பேட்டை"
+		}, {
+			"id": "19",
+			"show": "ARIANKUPPAM",
+			"show_v": "அரியாங்குப்பம்"
+		}, {
+			"id": "20",
+			"show": "MANAVELY",
+			"show_v": "மணவெளி"
+		}, {
+			"id": "21",
+			"show": "EMBALAM",
+			"show_v": "ஏம்பலம்"
+		}, {
+			"id": "22",
+			"show": "NETTAPAKKAM",
+			"show_v": "நெட்டப்பாக்கம்"
+		}, {
+			"id": "23",
+			"show": "BAHOUR",
+			"show_v": "பாகூர்"
+		}, {
+			"id": "29",
+			"show": "MAHE",
+			"show_v": "മാഹി"
+		}, {
+			"id": "30",
+			"show": "YANAM",
+			"show_v": "యానాం"
+		}]
+	}, {
+		"id": "2",
+		"show": "Karaikal",
+		"show_v": "காரைக்கால்",
+		"acs": [{
+			"id": "24",
+			"show": "NEDUNGADU",
+			"show_v": "நெடுங்காடு"
+		}, {
+			"id": "25",
+			"show": "THIRUNALLAR",
+			"show_v": "திருநள்ளார்"
+		}, {
+			"id": "26",
+			"show": "KARAIKAL NORTH",
+			"show_v": "காரைக்கால் வடக்கு"
+		}, {
+			"id": "27",
+			"show": "KARAIKAL SOUTH",
+			"show_v": "காரைக்கால் தெற்கு"
+		}, {
+			"id": "28",
+			"show": "NERAVY T.R. PATTINAM",
+			"show_v": "நிரவி திருப்பட்டினம்"
+		}]
+	}]
+}

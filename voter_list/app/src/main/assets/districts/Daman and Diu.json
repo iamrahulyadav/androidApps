@@ -1,0 +1,23 @@
+{
+	"state_code": "U04",
+	"state": "Daman and Diu",
+	"dist": [{
+		"id": "1",
+		"show": "DAMAN",
+		"show_v": "દમણ",
+		"acs": [{
+			"id": "1",
+			"show": "DAMAN AND DIU",
+			"show_v": "દમણ અને દીવ "
+		}]
+	}, {
+		"id": "2",
+		"show": "DIU",
+		"show_v": "દીવ",
+		"acs": [{
+			"id": "1",
+			"show": "DAMAN AND DIU",
+			"show_v": "દમણ અને દીવ "
+		}]
+	}]
+}

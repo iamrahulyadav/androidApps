@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1085923236187",
+    "firebase_url": "https://english-hindi-translator-7f463.firebaseio.com",
+    "project_id": "english-hindi-translator-7f463",
+    "storage_bucket": "english-hindi-translator-7f463.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085923236187:android:2841bf46842407f5",
+        "android_client_info": {
+          "package_name": "com.english.hindi.offline.dictionary.translate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085923236187-kf3lbe8u4ptimfep05ovce1pudv9r8n0.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1085923236187-kf3lbe8u4ptimfep05ovce1pudv9r8n0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCStJVRucW0psC5F8Dyc6Bbnq-FhXCzKzA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

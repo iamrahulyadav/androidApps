@@ -1,0 +1,14 @@
+{
+	"state_code": "U03",
+	"state": "Dadra and Nagar Haveli",
+	"dist": [{
+		"id": "1",
+		"show": "Dadra & Nagar Haveli",
+		"show_v": "દાદરા અને નગર હવેલી",
+		"acs": [{
+			"id": "1",
+			"show": "DADRA AND NAGAR HAVELI",
+			"show_v": "દાદરા અને નગર હવેલી"
+		}]
+	}]
+}

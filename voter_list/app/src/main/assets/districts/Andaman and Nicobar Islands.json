@@ -1,0 +1,14 @@
+{
+  "state_code" : "U01",
+  "state" : "Andaman and Nicobar Islands",
+  "dist" : [ {
+    "id" : "2",
+    "show" : "SOUTH ANDAMAN",
+    "show_v" : "दक्षिण अन्डमान",
+    "acs" : [ {
+      "id" : "1",
+      "show" : "ANDAMAN & NICOBAR ISLANDS",
+      "show_v" : "अंडमान तथा निकोबार द्वीप समुह"
+    } ]
+  } ]
+}

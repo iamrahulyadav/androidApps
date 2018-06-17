@@ -1,0 +1,644 @@
+{
+	"state_code": "S03",
+	"state": "Assam",
+	"dist": [{
+		"id": "1",
+		"show": "KARIMGANJ",
+		"show_v": "করিমগঞ্জ",
+		"acs": [{
+			"id": "1",
+			"show": "RATABARI   ",
+			"show_v": "রাতাবাড়ি "
+		}, {
+			"id": "2",
+			"show": "PATHARKANDI   ",
+			"show_v": "পাথারকান্দি"
+		}, {
+			"id": "3",
+			"show": "KARIMGANJ NORTH",
+			"show_v": "উত্তর করিমগঞ্জ"
+		}, {
+			"id": "4",
+			"show": "KARIMGANJ SOUTH",
+			"show_v": "দক্ষিন করিমগঞ্জ"
+		}, {
+			"id": "5",
+			"show": "BADARPUR   ",
+			"show_v": "বদরপুর"
+		}]
+	}, {
+		"id": "2",
+		"show": "HAILAKANDI",
+		"show_v": "হাইলাকান্দি",
+		"acs": [{
+			"id": "6",
+			"show": "HAILAKANDI   ",
+			"show_v": "হাইলাকান্দি"
+		}, {
+			"id": "7",
+			"show": "KATLICHERRA ",
+			"show_v": "কাটলীছড়া"
+		}, {
+			"id": "8",
+			"show": "ALGAPUR   ",
+			"show_v": "আলগাপুর"
+		}]
+	}, {
+		"id": "3",
+		"show": "CACHAR",
+		"show_v": "কাছাড়",
+		"acs": [{
+			"id": "9",
+			"show": "SILCHAR   ",
+			"show_v": "শিলচর"
+		}, {
+			"id": "10",
+			"show": "SONAI   ",
+			"show_v": "সোনাই"
+		}, {
+			"id": "11",
+			"show": "DHOLAI   ",
+			"show_v": "ধলাই"
+		}, {
+			"id": "12",
+			"show": "UDHARBOND  ",
+			"show_v": "উধারবন্দ"
+		}, {
+			"id": "13",
+			"show": "LAKHIPUR   ",
+			"show_v": "লক্ষীপুর"
+		}, {
+			"id": "14",
+			"show": "BARKHOLA   ",
+			"show_v": "বড়খলা"
+		}, {
+			"id": "15",
+			"show": "KATIGORA   ",
+			"show_v": "কাটিগড়া"
+		}]
+	}, {
+		"id": "4",
+		"show": "DIMA HASAO",
+		"show_v": "DIMA HASAO",
+		"acs": [{
+			"id": "16",
+			"show": "HAFLONG",
+			"show_v": "HAFLONG"
+		}]
+	}, {
+		"id": "5",
+		"show": "KARBI ANGLONG ",
+		"show_v": "কাৰবি আংলং ",
+		"acs": [{
+			"id": "17",
+			"show": "BOKAJAN   ",
+			"show_v": "বোকাজান"
+		}, {
+			"id": "18",
+			"show": "HOWRAGHAT   ",
+			"show_v": "হাওৰাঘাট"
+		}, {
+			"id": "19",
+			"show": "DIPHU   ",
+			"show_v": "ডিফু"
+		}, {
+			"id": "20",
+			"show": "BAITHALANGSO    ",
+			"show_v": "বৈঠালাংছু "
+		}]
+	}, {
+		"id": "6",
+		"show": "DHUBRI",
+		"show_v": "ধুবুৰী",
+		"acs": [{
+			"id": "21",
+			"show": "MANKACHAR   ",
+			"show_v": "মানকাচৰ"
+		}, {
+			"id": "22",
+			"show": "SALMARA SOUTH",
+			"show_v": "দঃ শালমাৰা"
+		}, {
+			"id": "23",
+			"show": "DHUBRI   ",
+			"show_v": "ধুবুৰী"
+		}, {
+			"id": "24",
+			"show": "GAURIPUR   ",
+			"show_v": "গৌৰীপুৰ"
+		}, {
+			"id": "25",
+			"show": "GOLAKGANJ ",
+			"show_v": "গোলকগঞ্জ"
+		}, {
+			"id": "26",
+			"show": "BILASIPARA WEST ",
+			"show_v": "বিলাসীপাৰা পশ্চিম"
+		}, {
+			"id": "27",
+			"show": "BILASIPARA EAST  ",
+			"show_v": "বিলাসীপাৰা  পূব"
+		}]
+	}, {
+		"id": "7",
+		"show": "KOKRAJHAR",
+		"show_v": "কোকৰাঝাৰ",
+		"acs": [{
+			"id": "28",
+			"show": "GOSSAIGAON   ",
+			"show_v": "গোসাইগাওঁ"
+		}, {
+			"id": "29",
+			"show": "KOKRAJHAR WEST   ",
+			"show_v": "কোকৰাঝাৰ পশ্চিম"
+		}, {
+			"id": "30",
+			"show": "KOKRAJHAR EAST",
+			"show_v": "কোকৰাঝাৰ পূৱ"
+		}]
+	}, {
+		"id": "8",
+		"show": "CHIRANG",
+		"show_v": "চিৰাং",
+		"acs": [{
+			"id": "31",
+			"show": "SIDLI   ",
+			"show_v": "চিদলী"
+		}]
+	}, {
+		"id": "9",
+		"show": "BONGAIGAON",
+		"show_v": "বঙাইগাওঁ",
+		"acs": [{
+			"id": "32",
+			"show": "BONGAIGAON    ",
+			"show_v": "বঙাইগাওঁ "
+		}, {
+			"id": "33",
+			"show": "BIJNI   ",
+			"show_v": "বিজনী"
+		}, {
+			"id": "34",
+			"show": "ABHAYAPURI NORTH  ",
+			"show_v": "অভয়াপুৰী উত্তৰ"
+		}, {
+			"id": "35",
+			"show": "ABHAYAPURI SOUTH  ",
+			"show_v": "অভয়াপুৰী দক্ষিণ"
+		}]
+	}, {
+		"id": "10",
+		"show": "GOALPARA",
+		"show_v": "গোৱালপাৰা",
+		"acs": [{
+			"id": "36",
+			"show": "DUDHNAI  ",
+			"show_v": "দুধনৈ"
+		}, {
+			"id": "37",
+			"show": "GOALPARA EAST    ",
+			"show_v": "গোৱালপাৰা পূৱ"
+		}, {
+			"id": "38",
+			"show": "GOALPARA WEST   ",
+			"show_v": "গোৱালপাৰা  পশ্চিম "
+		}, {
+			"id": "39",
+			"show": "JALESWAR   ",
+			"show_v": "জলেশ্বৰ"
+		}]
+	}, {
+		"id": "11",
+		"show": "BARPETA",
+		"show_v": "বৰপেটা",
+		"acs": [{
+			"id": "40",
+			"show": "SORBHOG   ",
+			"show_v": "সৰভোগ"
+		}, {
+			"id": "41",
+			"show": "BHABANIPUR   ",
+			"show_v": "ভৱানীপুৰ"
+		}, {
+			"id": "42",
+			"show": "PATACHARKUCHI   ",
+			"show_v": "পাটাছাৰকুছি"
+		}, {
+			"id": "43",
+			"show": "BARPETA   ",
+			"show_v": "বৰপেটা"
+		}, {
+			"id": "44",
+			"show": "JANIA   ",
+			"show_v": "জনীয়া"
+		}, {
+			"id": "45",
+			"show": "BAGHBAR   ",
+			"show_v": "বাঘবৰ"
+		}, {
+			"id": "46",
+			"show": "SARUKHETRI   ",
+			"show_v": "সৰুক্ষেত্ৰী"
+		}, {
+			"id": "47",
+			"show": "CHENGA   ",
+			"show_v": "চেঙা"
+		}]
+	}, {
+		"id": "12",
+		"show": "KAMRUP. ",
+		"show_v": "কামৰূপ",
+		"acs": [{
+			"id": "48",
+			"show": "BOKO   ",
+			"show_v": "বকো"
+		}, {
+			"id": "49",
+			"show": "CHAYGAON   ",
+			"show_v": "ছয়গাওঁ"
+		}, {
+			"id": "50",
+			"show": "PALASBARI   ",
+			"show_v": "পলাশবাৰী"
+		}, {
+			"id": "55",
+			"show": "HAJO   ",
+			"show_v": "হাজো"
+		}, {
+			"id": "56",
+			"show": "KAMALPUR   ",
+			"show_v": "কমলপুৰ"
+		}, {
+			"id": "57",
+			"show": "RANGIA",
+			"show_v": "ৰঙিয়া"
+		}]
+	}, {
+		"id": "13",
+		"show": "KAMRUP (METRO)",
+		"show_v": "কামৰুপ (মহানগৰ)",
+		"acs": [{
+			"id": "51",
+			"show": "JALUKBARI   ",
+			"show_v": "জালুকবাৰী"
+		}, {
+			"id": "52",
+			"show": "DISPUR   ",
+			"show_v": "দিশপুৰ"
+		}, {
+			"id": "53",
+			"show": "GAUHATI EAST    ",
+			"show_v": "পূৱ গুৱাহাটী "
+		}, {
+			"id": "54",
+			"show": "GAUHATI WEST    ",
+			"show_v": "গুৱাহাটী পশ্চিম "
+		}]
+	}, {
+		"id": "14",
+		"show": "NALBARI",
+		"show_v": "নলবাৰী",
+		"acs": [{
+			"id": "59",
+			"show": "NALBARI   ",
+			"show_v": "নলবাৰী"
+		}, {
+			"id": "60",
+			"show": "BARKHETRI   ",
+			"show_v": "বৰক্ষেত্ৰী"
+		}, {
+			"id": "61",
+			"show": "DHARMAPUR   ",
+			"show_v": "ধৰ্মপুৰ"
+		}]
+	}, {
+		"id": "15",
+		"show": "BAKSA",
+		"show_v": "বাক্সা",
+		"acs": [{
+			"id": "58",
+			"show": "TAMULPUR   ",
+			"show_v": "তামোলপুৰ"
+		}, {
+			"id": "62",
+			"show": "BARAMA   ",
+			"show_v": "বৰমা"
+		}, {
+			"id": "63",
+			"show": "CHAPAGURI   ",
+			"show_v": "চাপাগুৰী"
+		}]
+	}, {
+		"id": "16",
+		"show": "DARRANG",
+		"show_v": "দৰং",
+		"acs": [{
+			"id": "65",
+			"show": "KALAIGAON   ",
+			"show_v": "কলাইগাওঁ"
+		}, {
+			"id": "66",
+			"show": "SIPAJHAR   ",
+			"show_v": "ছিপাঝাৰ"
+		}, {
+			"id": "67",
+			"show": "MANGALDOI   ",
+			"show_v": "মঙলদৈ"
+		}, {
+			"id": "68",
+			"show": "DALGAON   ",
+			"show_v": "দলগাওঁ"
+		}]
+	}, {
+		"id": "17",
+		"show": "UDALGURI",
+		"show_v": "ওদালগুৰি",
+		"acs": [{
+			"id": "64",
+			"show": "PANERY  ",
+			"show_v": "পানেৰী"
+		}, {
+			"id": "69",
+			"show": "UDALGURI   ",
+			"show_v": "ওদালগুৰি"
+		}, {
+			"id": "70",
+			"show": "MAJBAT   ",
+			"show_v": "মাজবাট"
+		}]
+	}, {
+		"id": "18",
+		"show": "SONITPUR",
+		"show_v": "শোনিতপুৰ",
+		"acs": [{
+			"id": "71",
+			"show": "DHEKIAJULI   ",
+			"show_v": "ঢেকীয়াজুলি"
+		}, {
+			"id": "72",
+			"show": "BARCHALLA   ",
+			"show_v": "বৰছলা"
+		}, {
+			"id": "73",
+			"show": "TEZPUR   ",
+			"show_v": "তেজপুৰ"
+		}, {
+			"id": "74",
+			"show": "RANGAPARA   ",
+			"show_v": "ৰঙাপাৰা"
+		}, {
+			"id": "75",
+			"show": "SOOTEA   ",
+			"show_v": "চতিয়া"
+		}, {
+			"id": "76",
+			"show": "BISWANATH   ",
+			"show_v": "বিশ্বনাথ"
+		}, {
+			"id": "77",
+			"show": "BEHALI   ",
+			"show_v": "বিহালী"
+		}, {
+			"id": "78",
+			"show": "GOHPUR   ",
+			"show_v": "গহপুৰ"
+		}]
+	}, {
+		"id": "19",
+		"show": "MORIGAON ",
+		"show_v": "মৰিগাঁও",
+		"acs": [{
+			"id": "79",
+			"show": "JAGIROAD   ",
+			"show_v": "জাগীৰোড"
+		}, {
+			"id": "80",
+			"show": "MARIGAON   ",
+			"show_v": "মৰিগাওঁ"
+		}, {
+			"id": "81",
+			"show": "LAHARIGHAT   ",
+			"show_v": "লাহৰিঘাট"
+		}]
+	}, {
+		"id": "20",
+		"show": "NAGAON ",
+		"show_v": "নগাঁও",
+		"acs": [{
+			"id": "82",
+			"show": "RAHA   ",
+			"show_v": "ৰহা"
+		}, {
+			"id": "83",
+			"show": "DHING   ",
+			"show_v": "ধিং"
+		}, {
+			"id": "84",
+			"show": "BATADROBA   ",
+			"show_v": "বটদ্ৰবা"
+		}, {
+			"id": "85",
+			"show": "RUPOHIHAT   ",
+			"show_v": "ৰূপহীহাট"
+		}, {
+			"id": "86",
+			"show": "NOWGONG  ",
+			"show_v": "নগাওঁ "
+		}, {
+			"id": "87",
+			"show": "BARHAMPUR   ",
+			"show_v": "বঢ়মপুৰ"
+		}, {
+			"id": "88",
+			"show": "SAMAGURI   ",
+			"show_v": "চামগুৰি"
+		}, {
+			"id": "89",
+			"show": "KALIABOR   ",
+			"show_v": "কলিয়াবৰ"
+		}, {
+			"id": "90",
+			"show": "JAMUNAMUKH   ",
+			"show_v": "যমুনামুখ "
+		}, {
+			"id": "91",
+			"show": "HOJAI   ",
+			"show_v": "হোজাই"
+		}, {
+			"id": "92",
+			"show": "LUMDING   ",
+			"show_v": "লামডিং"
+		}]
+	}, {
+		"id": "21",
+		"show": "GOLAGHAT   ",
+		"show_v": "গোলাঘাট",
+		"acs": [{
+			"id": "93",
+			"show": "BOKAKHAT   ",
+			"show_v": "বোকাখাত"
+		}, {
+			"id": "94",
+			"show": "SARUPATHAR   ",
+			"show_v": "সৰুপথাৰ"
+		}, {
+			"id": "95",
+			"show": "GOLAGHAT   ",
+			"show_v": "গোলাঘাট"
+		}, {
+			"id": "96",
+			"show": "KHUMTAI   ",
+			"show_v": "খুমটাই"
+		}]
+	}, {
+		"id": "22",
+		"show": "JORHAT",
+		"show_v": "যোৰহাট",
+		"acs": [{
+			"id": "97",
+			"show": "DERGAON   ",
+			"show_v": "দেৰগাওঁ"
+		}, {
+			"id": "98",
+			"show": "JORHAT    ",
+			"show_v": "যোৰহাট "
+		}, {
+			"id": "99",
+			"show": "MAJULI   ",
+			"show_v": "মাজুলী"
+		}, {
+			"id": "100",
+			"show": "TITABAR   ",
+			"show_v": "তিতাবৰ"
+		}, {
+			"id": "101",
+			"show": "MARIANI   ",
+			"show_v": "মৰিয়নী"
+		}, {
+			"id": "102",
+			"show": "TEOK   ",
+			"show_v": "টীয়ক"
+		}]
+	}, {
+		"id": "23",
+		"show": "SIVASAGAR",
+		"show_v": "শিৱসাগৰ",
+		"acs": [{
+			"id": "103",
+			"show": "AMGURI   ",
+			"show_v": "আমগুৰি"
+		}, {
+			"id": "104",
+			"show": "NAZIRA   ",
+			"show_v": "নাজিৰা"
+		}, {
+			"id": "105",
+			"show": "MAHMARA   ",
+			"show_v": "মাহমৰা"
+		}, {
+			"id": "106",
+			"show": "SONARI   ",
+			"show_v": "সোনাৰি"
+		}, {
+			"id": "107",
+			"show": "THOWRA   ",
+			"show_v": "থাউৰা"
+		}, {
+			"id": "108",
+			"show": "SIBSAGAR   ",
+			"show_v": "শিৱসাগৰ"
+		}]
+	}, {
+		"id": "24",
+		"show": "LAKHIMPUR",
+		"show_v": "লক্ষীমপুৰ",
+		"acs": [{
+			"id": "109",
+			"show": "BIHPURIA   ",
+			"show_v": "বিহপুৰীয়া"
+		}, {
+			"id": "110",
+			"show": "NAOBOICHA   ",
+			"show_v": "নাওবৈছা"
+		}, {
+			"id": "111",
+			"show": "LAKHIMPUR   ",
+			"show_v": "লক্ষীমপুৰ"
+		}, {
+			"id": "112",
+			"show": "DHAKUAKHANA   ",
+			"show_v": "ঢকুৱাখানা "
+		}]
+	}, {
+		"id": "25",
+		"show": "DHEMAJI",
+		"show_v": "ধেমাজী",
+		"acs": [{
+			"id": "113",
+			"show": "DHEMAJI   ",
+			"show_v": "ধেমাজি"
+		}, {
+			"id": "114",
+			"show": "JONAI   ",
+			"show_v": "জোনাই"
+		}]
+	}, {
+		"id": "26",
+		"show": "DIBRUGARH",
+		"show_v": "ডিব্ৰুগড়",
+		"acs": [{
+			"id": "115",
+			"show": "MORAN   ",
+			"show_v": "মৰান"
+		}, {
+			"id": "116",
+			"show": "DIBRUGARH  ",
+			"show_v": "ডিব্ৰুগড়"
+		}, {
+			"id": "117",
+			"show": "LAHOWAL    ",
+			"show_v": "লাহোৱাল "
+		}, {
+			"id": "118",
+			"show": "DULIAJAN   ",
+			"show_v": "দুলীয়াজান"
+		}, {
+			"id": "119",
+			"show": "TINGKHONG   ",
+			"show_v": "টিংখং"
+		}, {
+			"id": "120",
+			"show": "NAHARKATIA   ",
+			"show_v": "নাহৰকটীয়া"
+		}, {
+			"id": "121",
+			"show": "CHABUA    ",
+			"show_v": "চাবুৱা "
+		}]
+	}, {
+		"id": "27",
+		"show": "TINSUKIA",
+		"show_v": "তিনচুকিয়া",
+		"acs": [{
+			"id": "122",
+			"show": "TINSUKIA   ",
+			"show_v": "তিনিচুকীয়া"
+		}, {
+			"id": "123",
+			"show": "DIGBOI   ",
+			"show_v": "ডিগবৈ"
+		}, {
+			"id": "124",
+			"show": "MARGHERITA   ",
+			"show_v": "মাৰ্ঘেৰিটা"
+		}, {
+			"id": "125",
+			"show": "DOOM DOOMA   ",
+			"show_v": "ডুমডুমা"
+		}, {
+			"id": "126",
+			"show": "SADIYA   ",
+			"show_v": "শদিয়া"
+		}]
+	}]
+}

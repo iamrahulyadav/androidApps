@@ -1,0 +1,2008 @@
+{
+	"state_code": "S24",
+	"state": "Uttar Pradesh",
+	"dist": [{
+		"id": "1",
+		"show": "Saharanpur",
+		"show_v": "सहारनपुर",
+		"acs": [{
+			"id": "1",
+			"show": "Behat",
+			"show_v": "बेहट"
+		}, {
+			"id": "2",
+			"show": "Nakur",
+			"show_v": "नकुड़"
+		}, {
+			"id": "3",
+			"show": "Saharanpur Nagar",
+			"show_v": "सहारनपुर नगर"
+		}, {
+			"id": "4",
+			"show": "Saharanpur  ",
+			"show_v": "सहारनपुर"
+		}, {
+			"id": "5",
+			"show": "Deoband",
+			"show_v": "देवबन्द"
+		}, {
+			"id": "6",
+			"show": "Rampur Maniharan ",
+			"show_v": "रामपुर मनिहारन"
+		}, {
+			"id": "7",
+			"show": "Gangoh",
+			"show_v": "गंगोह"
+		}]
+	}, {
+		"id": "2",
+		"show": "Muzaffarnagar",
+		"show_v": "मुजफ्फरनगर",
+		"acs": [{
+			"id": "11",
+			"show": "Budhana",
+			"show_v": "बुढ़ाना"
+		}, {
+			"id": "12",
+			"show": "Charthawal",
+			"show_v": "चरथावल"
+		}, {
+			"id": "13",
+			"show": "Purqazi ",
+			"show_v": "पुरकाजी"
+		}, {
+			"id": "14",
+			"show": "Muzaffar Nagar",
+			"show_v": "मुजफ्फरनगर"
+		}, {
+			"id": "15",
+			"show": "Khatauli",
+			"show_v": "खतौली"
+		}, {
+			"id": "16",
+			"show": "Meerapur",
+			"show_v": "मीरापुर"
+		}]
+	}, {
+		"id": "3",
+		"show": "Meerut",
+		"show_v": "मेरठ",
+		"acs": [{
+			"id": "43",
+			"show": "Siwalkhas",
+			"show_v": "सिवालखास"
+		}, {
+			"id": "44",
+			"show": "Sardhana",
+			"show_v": "सरधना"
+		}, {
+			"id": "45",
+			"show": "Hastinapur ",
+			"show_v": "हस्तिनापुर"
+		}, {
+			"id": "46",
+			"show": "Kithore",
+			"show_v": "किठौर"
+		}, {
+			"id": "47",
+			"show": "Meerut Cantt.",
+			"show_v": "मेरठ कैन्टोनमेंट"
+		}, {
+			"id": "48",
+			"show": "Meerut  ",
+			"show_v": "मेरठ"
+		}, {
+			"id": "49",
+			"show": "Meerut South",
+			"show_v": "मेरठ दक्षिण"
+		}]
+	}, {
+		"id": "4",
+		"show": "Ghaziabad",
+		"show_v": "गाजियाबाद",
+		"acs": [{
+			"id": "53",
+			"show": "Loni",
+			"show_v": "लोनी"
+		}, {
+			"id": "54",
+			"show": "Muradnagar",
+			"show_v": "मुरादनगर"
+		}, {
+			"id": "55",
+			"show": "Sahibabad",
+			"show_v": "साहिबाबाद"
+		}, {
+			"id": "56",
+			"show": "Gaziabad",
+			"show_v": "गाजियाबाद"
+		}, {
+			"id": "57",
+			"show": "Modi Nagar",
+			"show_v": "मोदी नगर"
+		}, {
+			"id": "58",
+			"show": "Dholana",
+			"show_v": "धौलाना"
+		}]
+	}, {
+		"id": "5",
+		"show": "Bulandsahar",
+		"show_v": "बुलन्दशहर",
+		"acs": [{
+			"id": "64",
+			"show": "Sikandrabad",
+			"show_v": "सिकन्दराबाद"
+		}, {
+			"id": "65",
+			"show": "Bulandshahr",
+			"show_v": "बुलंदशहर"
+		}, {
+			"id": "66",
+			"show": "Syana",
+			"show_v": "स्याना"
+		}, {
+			"id": "67",
+			"show": "Anupshahr",
+			"show_v": "अनूपशहर"
+		}, {
+			"id": "68",
+			"show": "Debai",
+			"show_v": "डिबाई"
+		}, {
+			"id": "69",
+			"show": "Shikarpur",
+			"show_v": "शिकारपुर"
+		}, {
+			"id": "70",
+			"show": "Khurja ",
+			"show_v": "खुर्जा"
+		}]
+	}, {
+		"id": "6",
+		"show": "Gautam Buddha Nagar",
+		"show_v": "गौतम बुद्ध नगर",
+		"acs": [{
+			"id": "61",
+			"show": "Noida",
+			"show_v": "नोएडा"
+		}, {
+			"id": "62",
+			"show": "Dadri",
+			"show_v": "दादरी"
+		}, {
+			"id": "63",
+			"show": "Jewar",
+			"show_v": "जेवर"
+		}]
+	}, {
+		"id": "7",
+		"show": "Baghpat",
+		"show_v": "बागपत",
+		"acs": [{
+			"id": "50",
+			"show": "Chhaprauli",
+			"show_v": "छपरौली"
+		}, {
+			"id": "51",
+			"show": "Baraut",
+			"show_v": "बड़ौत"
+		}, {
+			"id": "52",
+			"show": "Baghpat",
+			"show_v": "बागपत"
+		}]
+	}, {
+		"id": "8",
+		"show": "Agra",
+		"show_v": "आगरा",
+		"acs": [{
+			"id": "86",
+			"show": "Etmadpur",
+			"show_v": "एत्मादपुर"
+		}, {
+			"id": "87",
+			"show": "Agra Cantt. ",
+			"show_v": "आगरा कैन्टोनमेंट"
+		}, {
+			"id": "88",
+			"show": "Agra South",
+			"show_v": "आगरा दक्षिण"
+		}, {
+			"id": "89",
+			"show": "Agra North",
+			"show_v": "आगरा उत्‍तर"
+		}, {
+			"id": "90",
+			"show": "Agra Rural ",
+			"show_v": "आगरा ग्रामीण"
+		}, {
+			"id": "91",
+			"show": "Fatehpur Sikri",
+			"show_v": "फतेहपुर सीकरी"
+		}, {
+			"id": "92",
+			"show": "Kheragarh",
+			"show_v": "खैरागढ़"
+		}, {
+			"id": "93",
+			"show": "Fatehabad",
+			"show_v": "फतेहाबाद"
+		}, {
+			"id": "94",
+			"show": "Bah",
+			"show_v": "बाह"
+		}]
+	}, {
+		"id": "9",
+		"show": "Aligarh",
+		"show_v": "अलीगढ़",
+		"acs": [{
+			"id": "71",
+			"show": "Khair ",
+			"show_v": "खैर"
+		}, {
+			"id": "72",
+			"show": "Barauli",
+			"show_v": "बरौली"
+		}, {
+			"id": "73",
+			"show": "Atrauli",
+			"show_v": "अतरौली"
+		}, {
+			"id": "74",
+			"show": "Chharra",
+			"show_v": "छर्रा"
+		}, {
+			"id": "75",
+			"show": "Koil",
+			"show_v": "कोल"
+		}, {
+			"id": "76",
+			"show": "Aligarh",
+			"show_v": "अलीगढ़"
+		}, {
+			"id": "77",
+			"show": "Iglas ",
+			"show_v": "इगलास"
+		}]
+	}, {
+		"id": "10",
+		"show": "Mathura",
+		"show_v": "मथुरा",
+		"acs": [{
+			"id": "81",
+			"show": "Chhata",
+			"show_v": "छाता"
+		}, {
+			"id": "82",
+			"show": "Mant",
+			"show_v": "मांट"
+		}, {
+			"id": "83",
+			"show": "Goverdhan",
+			"show_v": "गोवर्धन"
+		}, {
+			"id": "84",
+			"show": "Mathura",
+			"show_v": "मथुरा"
+		}, {
+			"id": "85",
+			"show": "Baldev ",
+			"show_v": "बलदेव"
+		}]
+	}, {
+		"id": "11",
+		"show": "Firozabad",
+		"show_v": "फिरोज़ाबाद",
+		"acs": [{
+			"id": "95",
+			"show": "Tundla ",
+			"show_v": "टूण्डला"
+		}, {
+			"id": "96",
+			"show": "Jasrana",
+			"show_v": "जसराना"
+		}, {
+			"id": "97",
+			"show": "Firozabad",
+			"show_v": "फिरोजाबाद"
+		}, {
+			"id": "98",
+			"show": "Shikohabad",
+			"show_v": "शिकोहाबाद"
+		}, {
+			"id": "99",
+			"show": "Sirsaganj",
+			"show_v": "सिरसागंज"
+		}]
+	}, {
+		"id": "12",
+		"show": "Manpuri",
+		"show_v": "मैनपुरी",
+		"acs": [{
+			"id": "107",
+			"show": "Mainpuri",
+			"show_v": "मैनपुरी"
+		}, {
+			"id": "108",
+			"show": "Bhongaon",
+			"show_v": "भोगाँव"
+		}, {
+			"id": "109",
+			"show": "Kishani ",
+			"show_v": "किशनी"
+		}, {
+			"id": "110",
+			"show": "Karhal",
+			"show_v": "करहल"
+		}]
+	}, {
+		"id": "13",
+		"show": "Etah",
+		"show_v": "एटा",
+		"acs": [{
+			"id": "103",
+			"show": "Aliganj",
+			"show_v": "अलीगंज"
+		}, {
+			"id": "104",
+			"show": "Etah",
+			"show_v": "एटा"
+		}, {
+			"id": "105",
+			"show": "Marhara",
+			"show_v": "मारहरा"
+		}, {
+			"id": "106",
+			"show": "Jalesar ",
+			"show_v": "जलेसर"
+		}]
+	}, {
+		"id": "14",
+		"show": "Hathras",
+		"show_v": "हाथरस",
+		"acs": [{
+			"id": "78",
+			"show": "Hathras ",
+			"show_v": "हाथरस"
+		}, {
+			"id": "79",
+			"show": "Sadabad",
+			"show_v": "सादाबाद"
+		}, {
+			"id": "80",
+			"show": "Sikandra Rao",
+			"show_v": "सिकन्दरा राऊ"
+		}]
+	}, {
+		"id": "15",
+		"show": "Bareilly",
+		"show_v": "बरेली",
+		"acs": [{
+			"id": "118",
+			"show": "Baheri",
+			"show_v": "बहेड़ी"
+		}, {
+			"id": "119",
+			"show": "Meerganj",
+			"show_v": "मीरगंज"
+		}, {
+			"id": "120",
+			"show": "Bhojipura",
+			"show_v": "भोजीपुरा"
+		}, {
+			"id": "121",
+			"show": "Nawabganj",
+			"show_v": "नवाबगंज"
+		}, {
+			"id": "122",
+			"show": "Faridpur",
+			"show_v": "फरीदपुर"
+		}, {
+			"id": "123",
+			"show": "Bithari Chainpur",
+			"show_v": "बिथरी चैनपुर"
+		}, {
+			"id": "124",
+			"show": "Bareilly",
+			"show_v": "बरेली"
+		}, {
+			"id": "125",
+			"show": "Bareilly Cantt.",
+			"show_v": "बरेली कैन्टोनमेंट"
+		}, {
+			"id": "126",
+			"show": "Aonla",
+			"show_v": "आंवला"
+		}]
+	}, {
+		"id": "16",
+		"show": "Budaun",
+		"show_v": "बदायूं",
+		"acs": [{
+			"id": "112",
+			"show": "Bisauli ",
+			"show_v": "बिसौली"
+		}, {
+			"id": "113",
+			"show": "Sahaswan",
+			"show_v": "सहसवान"
+		}, {
+			"id": "114",
+			"show": "Bilsi",
+			"show_v": "बिल्सी"
+		}, {
+			"id": "115",
+			"show": "Badaun",
+			"show_v": "बदायूँ"
+		}, {
+			"id": "116",
+			"show": "Shekhupur",
+			"show_v": "शेखुपुर"
+		}, {
+			"id": "117",
+			"show": "Dataganj",
+			"show_v": "दातागंज"
+		}]
+	}, {
+		"id": "17",
+		"show": "Shahjahanpur",
+		"show_v": "शाहजहाँपुर",
+		"acs": [{
+			"id": "131",
+			"show": "Katra",
+			"show_v": "कटरा"
+		}, {
+			"id": "132",
+			"show": "Jalalabad",
+			"show_v": "जलालाबाद"
+		}, {
+			"id": "133",
+			"show": "Tilhar",
+			"show_v": "तिलहर"
+		}, {
+			"id": "134",
+			"show": "Powayan",
+			"show_v": "पुवायाँ"
+		}, {
+			"id": "135",
+			"show": "Shahjahanpur",
+			"show_v": "शाहजहांपुर"
+		}, {
+			"id": "136",
+			"show": "Dadraul",
+			"show_v": "ददरौल"
+		}]
+	}, {
+		"id": "18",
+		"show": "Pilibhit",
+		"show_v": "पीलीभीत",
+		"acs": [{
+			"id": "127",
+			"show": "Pilibhit",
+			"show_v": "पीलीभीत"
+		}, {
+			"id": "128",
+			"show": "Barkhera",
+			"show_v": "बड़खेरा"
+		}, {
+			"id": "129",
+			"show": "Puranpur",
+			"show_v": "पूरनपुर"
+		}, {
+			"id": "130",
+			"show": "Bisalpur",
+			"show_v": "बीसलपुर"
+		}]
+	}, {
+		"id": "19",
+		"show": "Moradabad",
+		"show_v": "मुरादाबाद",
+		"acs": [{
+			"id": "25",
+			"show": "Kanth",
+			"show_v": "कांठ"
+		}, {
+			"id": "26",
+			"show": "Thakurdwara",
+			"show_v": "ठाकुरद्वारा"
+		}, {
+			"id": "27",
+			"show": "Moradabad Rural",
+			"show_v": "मुरादाबाद ग्रामीण"
+		}, {
+			"id": "28",
+			"show": "Moradabad Nagar",
+			"show_v": "मुरादाबाद नगर"
+		}, {
+			"id": "29",
+			"show": "Kundarki",
+			"show_v": "कुन्दरकी"
+		}, {
+			"id": "30",
+			"show": "Bilari",
+			"show_v": "बिलारी"
+		}]
+	}, {
+		"id": "20",
+		"show": "Rampur",
+		"show_v": "रामपुर",
+		"acs": [{
+			"id": "34",
+			"show": "Suar",
+			"show_v": "स्वार"
+		}, {
+			"id": "35",
+			"show": "Chamraua",
+			"show_v": "चमरव्वा"
+		}, {
+			"id": "36",
+			"show": "Bilaspur",
+			"show_v": "बिलासपुर"
+		}, {
+			"id": "37",
+			"show": "Rampur  ",
+			"show_v": "रामपुर"
+		}, {
+			"id": "38",
+			"show": "Milak ",
+			"show_v": "मिलक"
+		}]
+	}, {
+		"id": "21",
+		"show": "Bijnor",
+		"show_v": "बिजनौर",
+		"acs": [{
+			"id": "17",
+			"show": "Najibabad",
+			"show_v": "नज़ीबाबाद"
+		}, {
+			"id": "18",
+			"show": "Nagina ",
+			"show_v": "नगीना"
+		}, {
+			"id": "19",
+			"show": "Barhapur",
+			"show_v": "बढ़ापुर"
+		}, {
+			"id": "20",
+			"show": "Dhampur",
+			"show_v": "धामपुर"
+		}, {
+			"id": "21",
+			"show": "Nehtaur",
+			"show_v": "नहटौर"
+		}, {
+			"id": "22",
+			"show": "Bijnor",
+			"show_v": "बिजनौर"
+		}, {
+			"id": "23",
+			"show": "Chandpur",
+			"show_v": "चाँदपुर"
+		}, {
+			"id": "24",
+			"show": "Noorpur",
+			"show_v": "नूरपुर"
+		}]
+	}, {
+		"id": "22",
+		"show": "Amroha",
+		"show_v": "अमरोहा",
+		"acs": [{
+			"id": "39",
+			"show": "Dhanaura ",
+			"show_v": "धनौरा"
+		}, {
+			"id": "40",
+			"show": "Naugawan Sadat",
+			"show_v": "नौगाँव सादात"
+		}, {
+			"id": "41",
+			"show": "Amroha",
+			"show_v": "अमरोहा"
+		}, {
+			"id": "42",
+			"show": "Hasanpur",
+			"show_v": "हसनपुर"
+		}]
+	}, {
+		"id": "23",
+		"show": "Kanpur Nagar",
+		"show_v": "कानपुर नगर",
+		"acs": [{
+			"id": "209",
+			"show": "Bilhaur",
+			"show_v": "बिल्हौर"
+		}, {
+			"id": "210",
+			"show": "Bithoor",
+			"show_v": "बिठूर"
+		}, {
+			"id": "211",
+			"show": "Kalyanpur",
+			"show_v": "कल्याणपुर"
+		}, {
+			"id": "212",
+			"show": "Govindnagar",
+			"show_v": "गोविन्दनगर"
+		}, {
+			"id": "213",
+			"show": "Sishamau",
+			"show_v": "सीसामऊ"
+		}, {
+			"id": "214",
+			"show": "Arya Nagar",
+			"show_v": "आर्य नगर"
+		}, {
+			"id": "215",
+			"show": "Kidwai Nagar",
+			"show_v": "किदवई नगर"
+		}, {
+			"id": "216",
+			"show": "Kanpur Cantt.",
+			"show_v": "कानपुर कैन्टोनमेंट"
+		}, {
+			"id": "217",
+			"show": "Maharajpur",
+			"show_v": "महराजपुर"
+		}, {
+			"id": "218",
+			"show": "Ghatampur ",
+			"show_v": "घाटमपुर"
+		}]
+	}, {
+		"id": "24",
+		"show": "Kanpur Dehat",
+		"show_v": "कानपुर देहात",
+		"acs": [{
+			"id": "205",
+			"show": "Rasulabad ",
+			"show_v": "रसूलाबाद"
+		}, {
+			"id": "206",
+			"show": "Akbarpur - Raniya",
+			"show_v": "अकबरपुर-रनिया"
+		}, {
+			"id": "207",
+			"show": "Sikandra",
+			"show_v": "सिकन्दरा"
+		}, {
+			"id": "208",
+			"show": "Bhognipur",
+			"show_v": "भोगनीपुर"
+		}]
+	}, {
+		"id": "25",
+		"show": "Etawah",
+		"show_v": "इटावा",
+		"acs": [{
+			"id": "199",
+			"show": "Jaswantnagar",
+			"show_v": "जसवन्तनगर"
+		}, {
+			"id": "200",
+			"show": "Etawah",
+			"show_v": "इटावा"
+		}, {
+			"id": "201",
+			"show": "Bharthana ",
+			"show_v": "भरथना"
+		}]
+	}, {
+		"id": "26",
+		"show": "Farrukhabad",
+		"show_v": "फर्रूखाबाद",
+		"acs": [{
+			"id": "192",
+			"show": "Kaimganj ",
+			"show_v": "कायमगंज"
+		}, {
+			"id": "193",
+			"show": "Amritpur",
+			"show_v": "अमृतपुर"
+		}, {
+			"id": "194",
+			"show": "Farrukhabad",
+			"show_v": "फर्रूखाबाद"
+		}, {
+			"id": "195",
+			"show": "Bhojpur",
+			"show_v": "भोजपुर"
+		}]
+	}, {
+		"id": "27",
+		"show": "Kannauj",
+		"show_v": "कन्नौज",
+		"acs": [{
+			"id": "196",
+			"show": "Chhibramau",
+			"show_v": "छिबरामऊ"
+		}, {
+			"id": "197",
+			"show": "Tirwa",
+			"show_v": "तिर्वा"
+		}, {
+			"id": "198",
+			"show": "Kannauj ",
+			"show_v": "कन्नौज"
+		}]
+	}, {
+		"id": "28",
+		"show": "Auraiya",
+		"show_v": "औरैया",
+		"acs": [{
+			"id": "202",
+			"show": "Bidhuna",
+			"show_v": "बिधुना"
+		}, {
+			"id": "203",
+			"show": "Dibiyapur",
+			"show_v": "दिबियापुर"
+		}, {
+			"id": "204",
+			"show": "Auraiya ",
+			"show_v": "औरैया"
+		}]
+	}, {
+		"id": "29",
+		"show": "Allahabad",
+		"show_v": "इलाहाबाद",
+		"acs": [{
+			"id": "254",
+			"show": "Phaphamau",
+			"show_v": "फाफामउ"
+		}, {
+			"id": "255",
+			"show": "Soraon ",
+			"show_v": "सोरांव"
+		}, {
+			"id": "256",
+			"show": "Phulpur",
+			"show_v": "फूलपुर"
+		}, {
+			"id": "257",
+			"show": "Pratappur",
+			"show_v": "प्रतापपुर"
+		}, {
+			"id": "258",
+			"show": "Handia",
+			"show_v": "हण्डिया"
+		}, {
+			"id": "259",
+			"show": "Meja",
+			"show_v": "मेजा"
+		}, {
+			"id": "260",
+			"show": "Karachhana",
+			"show_v": "करछना"
+		}, {
+			"id": "261",
+			"show": "Allahabad West",
+			"show_v": "इलाहाबाद पश्‍चिम"
+		}, {
+			"id": "262",
+			"show": "Allahabad North",
+			"show_v": "इलाहाबाद उत्‍तर"
+		}, {
+			"id": "263",
+			"show": "Allahabad South",
+			"show_v": "इलाहाबाद दक्षिण"
+		}, {
+			"id": "264",
+			"show": "Bara ",
+			"show_v": "बारा"
+		}, {
+			"id": "265",
+			"show": "Koraon ",
+			"show_v": "कोरांव"
+		}]
+	}, {
+		"id": "30",
+		"show": "Fatehpur",
+		"show_v": "फतेहपुर",
+		"acs": [{
+			"id": "238",
+			"show": "Jahanabad",
+			"show_v": "जहानाबाद"
+		}, {
+			"id": "239",
+			"show": "Bindki",
+			"show_v": "बिन्दकी"
+		}, {
+			"id": "240",
+			"show": "Fatehpur   ",
+			"show_v": "फतेहपुर"
+		}, {
+			"id": "241",
+			"show": "Ayah Shah",
+			"show_v": "अयाह शाह"
+		}, {
+			"id": "242",
+			"show": "Husainganj",
+			"show_v": "हुसैनगंज"
+		}, {
+			"id": "243",
+			"show": "Khaga",
+			"show_v": "खागा"
+		}]
+	}, {
+		"id": "31",
+		"show": "Pratapgarh",
+		"show_v": "प्रतापगढ़",
+		"acs": [{
+			"id": "244",
+			"show": "Rampur Khas",
+			"show_v": "रामपुर खास"
+		}, {
+			"id": "245",
+			"show": "Babaganj",
+			"show_v": "बाबागंज"
+		}, {
+			"id": "246",
+			"show": "Kunda",
+			"show_v": "कुण्डा"
+		}, {
+			"id": "247",
+			"show": "Bishwavnathganj",
+			"show_v": "बिश्‍वनाथगंज"
+		}, {
+			"id": "248",
+			"show": "Pratapgarh",
+			"show_v": "प्रतापगढ़"
+		}, {
+			"id": "249",
+			"show": "Patti",
+			"show_v": "पट्टी"
+		}, {
+			"id": "250",
+			"show": "Raniganj",
+			"show_v": "रानीगंज"
+		}]
+	}, {
+		"id": "32",
+		"show": "Kaushambi",
+		"show_v": "कौशाम्बी",
+		"acs": [{
+			"id": "251",
+			"show": "Sirathu",
+			"show_v": "सिराथू"
+		}, {
+			"id": "252",
+			"show": "Manjhanpur ",
+			"show_v": "मंझनपुर"
+		}, {
+			"id": "253",
+			"show": "Chail",
+			"show_v": "चायल"
+		}]
+	}, {
+		"id": "33",
+		"show": "Jhansi",
+		"show_v": "झांसी",
+		"acs": [{
+			"id": "222",
+			"show": "Babina",
+			"show_v": "बबीना"
+		}, {
+			"id": "223",
+			"show": "Jhansi Nagar",
+			"show_v": "झांसी नगर"
+		}, {
+			"id": "224",
+			"show": "Mauranipur ",
+			"show_v": "मऊरानीपुर"
+		}, {
+			"id": "225",
+			"show": "Garautha",
+			"show_v": "गरौठा"
+		}]
+	}, {
+		"id": "34",
+		"show": "Lalitpur",
+		"show_v": "ललितपुर",
+		"acs": [{
+			"id": "226",
+			"show": "Lalitpur",
+			"show_v": "ललितपुर"
+		}, {
+			"id": "227",
+			"show": "Mehroni ",
+			"show_v": "महरौनी"
+		}]
+	}, {
+		"id": "35",
+		"show": "Jalaun",
+		"show_v": "जालौन",
+		"acs": [{
+			"id": "219",
+			"show": "Madhaugarh",
+			"show_v": "माधौगढ़"
+		}, {
+			"id": "220",
+			"show": "Kalpi",
+			"show_v": "कालपी"
+		}, {
+			"id": "221",
+			"show": "Orai ",
+			"show_v": "उरई"
+		}]
+	}, {
+		"id": "36",
+		"show": "Hamirpur",
+		"show_v": "हमीरपुर",
+		"acs": [{
+			"id": "228",
+			"show": "Hamirpur",
+			"show_v": "हमीरपुर"
+		}, {
+			"id": "229",
+			"show": "Rath ",
+			"show_v": "राठ"
+		}]
+	}, {
+		"id": "37",
+		"show": "Mahoba",
+		"show_v": "महोबा",
+		"acs": [{
+			"id": "230",
+			"show": "Mahoba",
+			"show_v": "महोबा"
+		}, {
+			"id": "231",
+			"show": "Charkhari",
+			"show_v": "चरखारी"
+		}]
+	}, {
+		"id": "38",
+		"show": "Banda",
+		"show_v": "बांदा",
+		"acs": [{
+			"id": "232",
+			"show": "Tindwari",
+			"show_v": "तिन्दवारी"
+		}, {
+			"id": "233",
+			"show": "Baberu",
+			"show_v": "बबेरू"
+		}, {
+			"id": "234",
+			"show": "Naraini ",
+			"show_v": "नरैनी"
+		}, {
+			"id": "235",
+			"show": "Banda",
+			"show_v": "बांदा"
+		}]
+	}, {
+		"id": "39",
+		"show": "Chitrakoot",
+		"show_v": "चित्रकूट",
+		"acs": [{
+			"id": "236",
+			"show": "Chitrakoot",
+			"show_v": "चित्रकूट"
+		}, {
+			"id": "237",
+			"show": "Manikpur",
+			"show_v": "मानिकपुर"
+		}]
+	}, {
+		"id": "40",
+		"show": "Varanasi",
+		"show_v": "वाराणसी",
+		"acs": [{
+			"id": "384",
+			"show": "Pindra",
+			"show_v": "पिन्ड्रा"
+		}, {
+			"id": "385",
+			"show": "Ajagara ",
+			"show_v": "अजगरा"
+		}, {
+			"id": "386",
+			"show": "Shivpur",
+			"show_v": "शिवपुर"
+		}, {
+			"id": "387",
+			"show": "Rohaniya",
+			"show_v": "रोहनियां"
+		}, {
+			"id": "388",
+			"show": "Varanasi North",
+			"show_v": "वाराणसी उत्‍तर"
+		}, {
+			"id": "389",
+			"show": "Varanasi South",
+			"show_v": "वाराणसी दक्षिण"
+		}, {
+			"id": "390",
+			"show": "Varanasi Cantt.",
+			"show_v": "वाराणसी कैन्टोनमेंट"
+		}, {
+			"id": "391",
+			"show": "Sevapuri",
+			"show_v": "सेवापुरी"
+		}]
+	}, {
+		"id": "41",
+		"show": "Jaunpur",
+		"show_v": "जौनपुर",
+		"acs": [{
+			"id": "364",
+			"show": "Badlapur",
+			"show_v": "बदलापुर"
+		}, {
+			"id": "365",
+			"show": "Shahganj",
+			"show_v": "शाहगंज"
+		}, {
+			"id": "366",
+			"show": "Jaunpur",
+			"show_v": "जौनपुर"
+		}, {
+			"id": "367",
+			"show": "Malhani",
+			"show_v": "मल्हनी"
+		}, {
+			"id": "368",
+			"show": "Mungra Badshahpur",
+			"show_v": "मुंगरा बादशाहपुर"
+		}, {
+			"id": "369",
+			"show": "Machhlishahr ",
+			"show_v": "मछलीशहर"
+		}, {
+			"id": "370",
+			"show": "Mariyahu",
+			"show_v": "मडियाहूं"
+		}, {
+			"id": "371",
+			"show": "Zafrabad",
+			"show_v": "जफराबाद"
+		}, {
+			"id": "372",
+			"show": "Kerakat ",
+			"show_v": "केराकत"
+		}]
+	}, {
+		"id": "42",
+		"show": "Ghazipur",
+		"show_v": "गाजीपुर",
+		"acs": [{
+			"id": "373",
+			"show": "Jakhanian ",
+			"show_v": "जखनिया"
+		}, {
+			"id": "374",
+			"show": "Saidpur ",
+			"show_v": "सैदपुर"
+		}, {
+			"id": "375",
+			"show": "Ghazipur",
+			"show_v": "गाजीपुर"
+		}, {
+			"id": "376",
+			"show": "Jangipur",
+			"show_v": "जंगीपुर"
+		}, {
+			"id": "377",
+			"show": "Zahoorabad",
+			"show_v": "जहूराबाद"
+		}, {
+			"id": "378",
+			"show": "Mohammadabad",
+			"show_v": "मोहम्मदाबाद"
+		}, {
+			"id": "379",
+			"show": "Zamania",
+			"show_v": "जमानियां"
+		}]
+	}, {
+		"id": "43",
+		"show": "Chandauli",
+		"show_v": "चन्दौली",
+		"acs": [{
+			"id": "380",
+			"show": "Mughalsarai",
+			"show_v": "मुगलसराय"
+		}, {
+			"id": "381",
+			"show": "Sakaldiha",
+			"show_v": "सकलडीह"
+		}, {
+			"id": "382",
+			"show": "Saiyadraja",
+			"show_v": "सैयदराजा"
+		}, {
+			"id": "383",
+			"show": "Chakia ",
+			"show_v": "चकिया"
+		}]
+	}, {
+		"id": "44",
+		"show": "Mirzapur",
+		"show_v": "मिर्जापुर",
+		"acs": [{
+			"id": "395",
+			"show": "Chhanbey ",
+			"show_v": "छानबे"
+		}, {
+			"id": "396",
+			"show": "Mirzapur",
+			"show_v": "मिर्जापुर"
+		}, {
+			"id": "397",
+			"show": "Majhawan",
+			"show_v": "मझवां"
+		}, {
+			"id": "398",
+			"show": "Chunar",
+			"show_v": "चुनार"
+		}, {
+			"id": "399",
+			"show": "Marihan",
+			"show_v": "मड़िहान"
+		}]
+	}, {
+		"id": "45",
+		"show": "Sonbhadra",
+		"show_v": "सोनभद्र",
+		"acs": [{
+			"id": "400",
+			"show": "Ghorawal",
+			"show_v": "घोरावल"
+		}, {
+			"id": "401",
+			"show": "Robertsganj",
+			"show_v": "राबर्ट्‌सगंज"
+		}, {
+			"id": "402",
+			"show": "Obra",
+			"show_v": "ओबरा"
+		}, {
+			"id": "403",
+			"show": "Duddhi ",
+			"show_v": "दुद्‍धी"
+		}]
+	}, {
+		"id": "46",
+		"show": "Sant Ravidas Nagar",
+		"show_v": "संत रविदास नगर",
+		"acs": [{
+			"id": "392",
+			"show": "Bhadohi",
+			"show_v": "भदोही"
+		}, {
+			"id": "393",
+			"show": "Gyanpur",
+			"show_v": "ज्ञानपुर"
+		}, {
+			"id": "394",
+			"show": "Aurai ",
+			"show_v": "औराई"
+		}]
+	}, {
+		"id": "47",
+		"show": "Azamgarh",
+		"show_v": "आज़मगढ़",
+		"acs": [{
+			"id": "343",
+			"show": "Atrauliya",
+			"show_v": "अतरौलिया"
+		}, {
+			"id": "344",
+			"show": "Gopalpur",
+			"show_v": "गोपालपुर"
+		}, {
+			"id": "345",
+			"show": "Sagri",
+			"show_v": "सगड़ी"
+		}, {
+			"id": "346",
+			"show": "Mubarakpur",
+			"show_v": "मुबारकपुर"
+		}, {
+			"id": "347",
+			"show": "Azamgarh",
+			"show_v": "आज़मगढ़"
+		}, {
+			"id": "348",
+			"show": "Nizamabad",
+			"show_v": "निज़ामाबाद"
+		}, {
+			"id": "349",
+			"show": "Phoolpur Pawai",
+			"show_v": "फूलपुर-पवई"
+		}, {
+			"id": "350",
+			"show": "Didarganj",
+			"show_v": "दीदारगंज"
+		}, {
+			"id": "351",
+			"show": "Lalganj",
+			"show_v": "लालगंज"
+		}, {
+			"id": "352",
+			"show": "Mehnagar ",
+			"show_v": "मेहनगर"
+		}]
+	}, {
+		"id": "48",
+		"show": "Mau",
+		"show_v": "मऊ",
+		"acs": [{
+			"id": "353",
+			"show": "Madhuban",
+			"show_v": "मधुबन"
+		}, {
+			"id": "354",
+			"show": "Ghosi",
+			"show_v": "घोसी"
+		}, {
+			"id": "355",
+			"show": "Muhammadabad- Gohna (SC)",
+			"show_v": "मुहम्मदाबाद गोहना"
+		}, {
+			"id": "356",
+			"show": "Mau",
+			"show_v": "मऊ"
+		}]
+	}, {
+		"id": "49",
+		"show": "Balia",
+		"show_v": "बलिया",
+		"acs": [{
+			"id": "357",
+			"show": "Belthara Road ",
+			"show_v": "बेलथरा रोड"
+		}, {
+			"id": "358",
+			"show": "Rasara",
+			"show_v": "रसड़ा"
+		}, {
+			"id": "359",
+			"show": "Sikanderpur",
+			"show_v": "सिकन्दरपुर"
+		}, {
+			"id": "360",
+			"show": "Phephana",
+			"show_v": "फेफना"
+		}, {
+			"id": "361",
+			"show": "Ballia Nagar",
+			"show_v": "बलिया नगर"
+		}, {
+			"id": "362",
+			"show": "Bansdih",
+			"show_v": "बांसडीह"
+		}, {
+			"id": "363",
+			"show": "Bairia",
+			"show_v": "बैरिया"
+		}]
+	}, {
+		"id": "50",
+		"show": "Gorakhpur",
+		"show_v": "गोरखपुर",
+		"acs": [{
+			"id": "320",
+			"show": "Caimpiyarganj",
+			"show_v": "कैम्पियरगंज"
+		}, {
+			"id": "321",
+			"show": "Pipraich",
+			"show_v": "पिपराइच"
+		}, {
+			"id": "322",
+			"show": "Gorakhpur Urban",
+			"show_v": "गोरखपुर शहर"
+		}, {
+			"id": "323",
+			"show": "Gorakhpur Rural",
+			"show_v": "गोरखपुर ग्रामीण"
+		}, {
+			"id": "324",
+			"show": "Sahajanwa",
+			"show_v": "सहज़नवा"
+		}, {
+			"id": "325",
+			"show": "Khajani ",
+			"show_v": "खज़नी"
+		}, {
+			"id": "326",
+			"show": "Chauri-Chaura",
+			"show_v": "चौरी-चौरा"
+		}, {
+			"id": "327",
+			"show": "Bansgaon",
+			"show_v": "बांसगांव"
+		}, {
+			"id": "328",
+			"show": "Chillupar",
+			"show_v": "चिल्लूपार"
+		}]
+	}, {
+		"id": "51",
+		"show": "Maharajganj",
+		"show_v": "महाराजगंज",
+		"acs": [{
+			"id": "315",
+			"show": "Pharenda",
+			"show_v": "फरेन्दा"
+		}, {
+			"id": "316",
+			"show": "Nautanwa",
+			"show_v": "नौतनवा"
+		}, {
+			"id": "317",
+			"show": "Siswa",
+			"show_v": "सिसवा"
+		}, {
+			"id": "318",
+			"show": "Maharajganj ",
+			"show_v": "महराजगंज"
+		}, {
+			"id": "319",
+			"show": "Paniyara",
+			"show_v": "पनियरा"
+		}]
+	}, {
+		"id": "52",
+		"show": "Deoria",
+		"show_v": "देवरिया",
+		"acs": [{
+			"id": "336",
+			"show": "Rudrapur",
+			"show_v": "रुद्रपुर"
+		}, {
+			"id": "337",
+			"show": "Deoria",
+			"show_v": "देवरिया"
+		}, {
+			"id": "338",
+			"show": "Pathardeva",
+			"show_v": "पथरदेवा"
+		}, {
+			"id": "339",
+			"show": "Rampur Karkhana",
+			"show_v": "रामपुर कारखाना"
+		}, {
+			"id": "340",
+			"show": "Bhatpar Rani",
+			"show_v": "भाटपार रानी"
+		}, {
+			"id": "341",
+			"show": "Salempur",
+			"show_v": "सलेमपुर"
+		}, {
+			"id": "342",
+			"show": "Barhaj",
+			"show_v": "बरहज"
+		}]
+	}, {
+		"id": "53",
+		"show": "Kushinagar",
+		"show_v": "कुशीनगर",
+		"acs": [{
+			"id": "329",
+			"show": "Khadda",
+			"show_v": "खड्डा"
+		}, {
+			"id": "330",
+			"show": "Padrauna",
+			"show_v": "पडरौना"
+		}, {
+			"id": "331",
+			"show": "Tamkuhi Raj",
+			"show_v": "तमकुही राज"
+		}, {
+			"id": "332",
+			"show": "Fazilnagar",
+			"show_v": "फाज़िलनगर"
+		}, {
+			"id": "333",
+			"show": "Kushinagar",
+			"show_v": "कुशीनगर"
+		}, {
+			"id": "334",
+			"show": "Hata",
+			"show_v": "हाटा"
+		}, {
+			"id": "335",
+			"show": "Ramkola",
+			"show_v": "रामकोला"
+		}]
+	}, {
+		"id": "54",
+		"show": "Basti",
+		"show_v": "बस्ती",
+		"acs": [{
+			"id": "307",
+			"show": "Harraiya",
+			"show_v": "हर्रैया"
+		}, {
+			"id": "308",
+			"show": "Kaptanganj",
+			"show_v": "कप्‍तानगंज"
+		}, {
+			"id": "309",
+			"show": "Rudhauli",
+			"show_v": "रुधौली"
+		}, {
+			"id": "310",
+			"show": "Basti Sadar",
+			"show_v": "बस्ती सदर"
+		}, {
+			"id": "311",
+			"show": "Mahadewa ",
+			"show_v": "महादेवा"
+		}]
+	}, {
+		"id": "55",
+		"show": "Siddharthnagar",
+		"show_v": "सिद्धार्थनगर",
+		"acs": [{
+			"id": "302",
+			"show": "Shohratgarh",
+			"show_v": "शोहरतगढ़"
+		}, {
+			"id": "303",
+			"show": "Kapilvastu ",
+			"show_v": "कपिलवस्तु"
+		}, {
+			"id": "304",
+			"show": "Bansi",
+			"show_v": "बांसी"
+		}, {
+			"id": "305",
+			"show": "Itwa",
+			"show_v": "इटवा"
+		}, {
+			"id": "306",
+			"show": "Doomariyaganj",
+			"show_v": "डुमरियागंज"
+		}]
+	}, {
+		"id": "56",
+		"show": "Sant Kabir Nagar",
+		"show_v": "सन्त कबीर नगर",
+		"acs": [{
+			"id": "312",
+			"show": "Menhdawal",
+			"show_v": "मेंहदावल"
+		}, {
+			"id": "313",
+			"show": "Khalilabad",
+			"show_v": "खलीलाबाद"
+		}, {
+			"id": "314",
+			"show": "Dhanghata ",
+			"show_v": "धनघटा"
+		}]
+	}, {
+		"id": "57",
+		"show": "Lucknow",
+		"show_v": "लखनऊ",
+		"acs": [{
+			"id": "168",
+			"show": "Malihabad",
+			"show_v": "मलिहाबाद"
+		}, {
+			"id": "169",
+			"show": "Bakshi Kaa Talab",
+			"show_v": "बक्शी का तालाब"
+		}, {
+			"id": "170",
+			"show": "Sarojini Nagar",
+			"show_v": "सरोजनी नगर"
+		}, {
+			"id": "171",
+			"show": "Lucknow West",
+			"show_v": "लखनऊ पश्‍चिम"
+		}, {
+			"id": "172",
+			"show": "Lucknow North",
+			"show_v": "लखनऊ उत्‍तर"
+		}, {
+			"id": "173",
+			"show": "Lucknow East",
+			"show_v": "लखनऊ पूर्व"
+		}, {
+			"id": "174",
+			"show": "Lucknow Central",
+			"show_v": "लखनऊ मध्य"
+		}, {
+			"id": "175",
+			"show": "Lucknow Cantt.",
+			"show_v": "लखनऊ कैन्टोनमेंट"
+		}, {
+			"id": "176",
+			"show": "Mohanlalganj ",
+			"show_v": "मोहनलालगंज"
+		}]
+	}, {
+		"id": "58",
+		"show": "Unnao",
+		"show_v": "उन्नाव",
+		"acs": [{
+			"id": "162",
+			"show": "Bangermau",
+			"show_v": "बांगरमऊ"
+		}, {
+			"id": "163",
+			"show": "Safipur ",
+			"show_v": "सफ़ीपुर"
+		}, {
+			"id": "164",
+			"show": "Mohan ",
+			"show_v": "मोहान"
+		}, {
+			"id": "165",
+			"show": "Unnao",
+			"show_v": "उन्नाव"
+		}, {
+			"id": "166",
+			"show": "Bhagwantnagar",
+			"show_v": "भगवन्त नगर"
+		}, {
+			"id": "167",
+			"show": "Purwa",
+			"show_v": "पुरवा"
+		}]
+	}, {
+		"id": "59",
+		"show": "Rae Bareli",
+		"show_v": "राय बरेली",
+		"acs": [{
+			"id": "177",
+			"show": "Bachhrawan ",
+			"show_v": "बछरावां"
+		}, {
+			"id": "179",
+			"show": "Harchandpur",
+			"show_v": "हरचंदपुर"
+		}, {
+			"id": "180",
+			"show": "Rae Bareli",
+			"show_v": "रायबरेली"
+		}, {
+			"id": "181",
+			"show": "Salon ",
+			"show_v": "सलोन"
+		}, {
+			"id": "182",
+			"show": "Sareni",
+			"show_v": "सरेनी"
+		}, {
+			"id": "183",
+			"show": "Unchahar",
+			"show_v": "ऊँचाहार"
+		}]
+	}, {
+		"id": "60",
+		"show": "Sitapur",
+		"show_v": "सीतापुर",
+		"acs": [{
+			"id": "145",
+			"show": "Maholi",
+			"show_v": "महोली"
+		}, {
+			"id": "146",
+			"show": "Sitapur",
+			"show_v": "सीतापुर"
+		}, {
+			"id": "147",
+			"show": "Hargaon ",
+			"show_v": "हरगांव"
+		}, {
+			"id": "148",
+			"show": "Laharpur",
+			"show_v": "लहरपुर"
+		}, {
+			"id": "149",
+			"show": "Biswan",
+			"show_v": "बिसवां"
+		}, {
+			"id": "150",
+			"show": "Sevata",
+			"show_v": "सेवता"
+		}, {
+			"id": "151",
+			"show": "Mahmoodabad",
+			"show_v": "महमूदाबाद"
+		}, {
+			"id": "152",
+			"show": "Sidhauli ",
+			"show_v": "सिधौली"
+		}, {
+			"id": "153",
+			"show": "Misrikh ",
+			"show_v": "मिश्रिख"
+		}]
+	}, {
+		"id": "61",
+		"show": "Hardoi",
+		"show_v": "हरदोई",
+		"acs": [{
+			"id": "154",
+			"show": "Sawaijpur",
+			"show_v": "सवाइजपुर"
+		}, {
+			"id": "155",
+			"show": "Shahabad",
+			"show_v": "शाहाबाद"
+		}, {
+			"id": "156",
+			"show": "Hardoi",
+			"show_v": "हरदोई"
+		}, {
+			"id": "157",
+			"show": "Gopamau ",
+			"show_v": "गोपामऊ"
+		}, {
+			"id": "158",
+			"show": "Sandi ",
+			"show_v": "सांडी"
+		}, {
+			"id": "159",
+			"show": "Bilgram-Mallanwan",
+			"show_v": "बिलग्राम-मल्लांवा"
+		}, {
+			"id": "160",
+			"show": "Balamau ",
+			"show_v": "बालामऊ"
+		}, {
+			"id": "161",
+			"show": "Sandila",
+			"show_v": "संडीला"
+		}]
+	}, {
+		"id": "62",
+		"show": "Kheri",
+		"show_v": "खीरी",
+		"acs": [{
+			"id": "137",
+			"show": "Palia",
+			"show_v": "पलिया"
+		}, {
+			"id": "138",
+			"show": "Nighasan",
+			"show_v": "निघासन"
+		}, {
+			"id": "139",
+			"show": "Gola Gokrannath",
+			"show_v": "गोला गोकरननाथ"
+		}, {
+			"id": "140",
+			"show": "Sri Nagar ",
+			"show_v": "श्रीनगर"
+		}, {
+			"id": "141",
+			"show": "Dhaurahra",
+			"show_v": "धौरहरा"
+		}, {
+			"id": "142",
+			"show": "Lakhimpur",
+			"show_v": "लखीमपुर"
+		}, {
+			"id": "143",
+			"show": "Kasta ",
+			"show_v": "कस्ता"
+		}, {
+			"id": "144",
+			"show": "Mohammdi",
+			"show_v": "मोहम्मदी"
+		}]
+	}, {
+		"id": "63",
+		"show": "Gonda",
+		"show_v": "गोण्डा",
+		"acs": [{
+			"id": "295",
+			"show": "Mehnaun",
+			"show_v": "मेहनौन"
+		}, {
+			"id": "296",
+			"show": "Gonda",
+			"show_v": "गोंडा"
+		}, {
+			"id": "297",
+			"show": "Katra Bazar",
+			"show_v": "कटरा बाज़ार"
+		}, {
+			"id": "298",
+			"show": "Colonelganj",
+			"show_v": "कर्नलगंज"
+		}, {
+			"id": "299",
+			"show": "Tarabganj",
+			"show_v": "तरबगंज"
+		}, {
+			"id": "300",
+			"show": "Mankapur ",
+			"show_v": "मनकापुर"
+		}, {
+			"id": "301",
+			"show": "Gaura",
+			"show_v": "गौरा"
+		}]
+	}, {
+		"id": "64",
+		"show": "Baharaich",
+		"show_v": "बहराइच",
+		"acs": [{
+			"id": "282",
+			"show": "Balha ",
+			"show_v": "बलहा"
+		}, {
+			"id": "283",
+			"show": "Nanpara",
+			"show_v": "नानपारा"
+		}, {
+			"id": "284",
+			"show": "Matera",
+			"show_v": "मटेरा"
+		}, {
+			"id": "285",
+			"show": "Mahasi",
+			"show_v": "महसी"
+		}, {
+			"id": "286",
+			"show": "Bahraich",
+			"show_v": "बहराइच"
+		}, {
+			"id": "287",
+			"show": "Payagpur",
+			"show_v": "प्यागपुर"
+		}, {
+			"id": "288",
+			"show": "Kaiserganj",
+			"show_v": "कैसरगंज"
+		}]
+	}, {
+		"id": "65",
+		"show": "Balrampur",
+		"show_v": "बलरामपुर",
+		"acs": [{
+			"id": "291",
+			"show": "Tulsipur",
+			"show_v": "तुलसीपुर"
+		}, {
+			"id": "292",
+			"show": "Gainsari",
+			"show_v": "गैंसड़ी"
+		}, {
+			"id": "293",
+			"show": "Utraula",
+			"show_v": "उतरौला"
+		}, {
+			"id": "294",
+			"show": "Balrampur ",
+			"show_v": "बलरामपुर"
+		}]
+	}, {
+		"id": "66",
+		"show": "Shrawasti",
+		"show_v": "श्रावस्ती",
+		"acs": [{
+			"id": "289",
+			"show": "Bhinga",
+			"show_v": "भिनगा"
+		}, {
+			"id": "290",
+			"show": "Shrawasti",
+			"show_v": "श्रावस्ती"
+		}]
+	}, {
+		"id": "67",
+		"show": "Faizabad",
+		"show_v": "फैजाबाद",
+		"acs": [{
+			"id": "271",
+			"show": "Rudauli",
+			"show_v": "रुदौली"
+		}, {
+			"id": "273",
+			"show": "Milkipur ",
+			"show_v": "मिल्कीपुर"
+		}, {
+			"id": "274",
+			"show": "Bikapur",
+			"show_v": "बीकापुर"
+		}, {
+			"id": "275",
+			"show": "Ayodhya",
+			"show_v": "अयोध्या"
+		}, {
+			"id": "276",
+			"show": "Goshainganj",
+			"show_v": "गोशाईगंज"
+		}]
+	}, {
+		"id": "68",
+		"show": "Sultanpur",
+		"show_v": "सुल्तानपुर",
+		"acs": [{
+			"id": "184",
+			"show": "Jagdishpur ",
+			"show_v": "जगदीशपुर"
+		}, {
+			"id": "187",
+			"show": "Isauli",
+			"show_v": "इसौली"
+		}, {
+			"id": "188",
+			"show": "Sultanpur",
+			"show_v": "सुल्तानपुर"
+		}, {
+			"id": "189",
+			"show": "Sadar",
+			"show_v": "सदर"
+		}, {
+			"id": "190",
+			"show": "Lambhua",
+			"show_v": "लम्भुआ"
+		}, {
+			"id": "191",
+			"show": "Kadipur ",
+			"show_v": "कादीपुर"
+		}]
+	}, {
+		"id": "69",
+		"show": "Barabanki",
+		"show_v": "बाराबंकी",
+		"acs": [{
+			"id": "266",
+			"show": "Kursi",
+			"show_v": "कुर्सी"
+		}, {
+			"id": "267",
+			"show": "Ram Nagar",
+			"show_v": "राम नगर"
+		}, {
+			"id": "268",
+			"show": "Barabanki",
+			"show_v": "बाराबंकी"
+		}, {
+			"id": "269",
+			"show": "Zaidpur ",
+			"show_v": "ज़ैदपुर"
+		}, {
+			"id": "270",
+			"show": "Dariyabad",
+			"show_v": "दरियाबाद"
+		}, {
+			"id": "271",
+			"show": "Rudauli",
+			"show_v": "रुदौली"
+		}, {
+			"id": "272",
+			"show": "Haidergarh ",
+			"show_v": "हैदरगढ़"
+		}]
+	}, {
+		"id": "70",
+		"show": "Ambedkar Nagar",
+		"show_v": "अम्बेडकर नगर",
+		"acs": [{
+			"id": "277",
+			"show": "Katehari",
+			"show_v": "कटेहरी"
+		}, {
+			"id": "278",
+			"show": "Tanda",
+			"show_v": "टांडा"
+		}, {
+			"id": "279",
+			"show": "Alapur ",
+			"show_v": "आलापुर"
+		}, {
+			"id": "280",
+			"show": "Jalalpur",
+			"show_v": "जलालपुर"
+		}, {
+			"id": "281",
+			"show": "Akbarpur  ",
+			"show_v": "अकबरपुर"
+		}]
+	}, {
+		"id": "71",
+		"show": "Kasganj",
+		"show_v": "कासगंज",
+		"acs": [{
+			"id": "100",
+			"show": "Kasganj",
+			"show_v": "कासगंज"
+		}, {
+			"id": "101",
+			"show": "Amanpur",
+			"show_v": "अमाँपुर"
+		}, {
+			"id": "102",
+			"show": "Patiyali",
+			"show_v": "पटियाली"
+		}]
+	}, {
+		"id": "72",
+		"show": "Amethi",
+		"show_v": "अमेठी",
+		"acs": [{
+			"id": "178",
+			"show": "Tiloi",
+			"show_v": "तिलोई"
+		}, {
+			"id": "184",
+			"show": "Jagdishpur ",
+			"show_v": "जगदीशपुर"
+		}, {
+			"id": "185",
+			"show": "Gauriganj",
+			"show_v": "गौरीगंज"
+		}, {
+			"id": "186",
+			"show": "Amethi",
+			"show_v": "अमेठी"
+		}]
+	}, {
+		"id": "73",
+		"show": "Hapur",
+		"show_v": "हापुड़",
+		"acs": [{
+			"id": "58",
+			"show": "Dholana",
+			"show_v": "धौलाना"
+		}, {
+			"id": "59",
+			"show": "Hapur ",
+			"show_v": "हापुड़"
+		}, {
+			"id": "60",
+			"show": "Garhmukteshwar",
+			"show_v": "गढ़मुक्‍तेश्‍वर"
+		}]
+	}, {
+		"id": "74",
+		"show": "Shamli",
+		"show_v": "शामली",
+		"acs": [{
+			"id": "8",
+			"show": "Kairana",
+			"show_v": "कैराना"
+		}, {
+			"id": "9",
+			"show": "Thana Bhawan",
+			"show_v": "थाना भवन"
+		}, {
+			"id": "10",
+			"show": "Shamli",
+			"show_v": "शामली"
+		}]
+	}, {
+		"id": "75",
+		"show": "Sambhal",
+		"show_v": "सम्भल",
+		"acs": [{
+			"id": "30",
+			"show": "Bilari",
+			"show_v": "बिलारी"
+		}, {
+			"id": "31",
+			"show": "Chandausi ",
+			"show_v": "चंदौसी"
+		}, {
+			"id": "32",
+			"show": "Asmoli",
+			"show_v": "असमोली"
+		}, {
+			"id": "33",
+			"show": "Sambhal",
+			"show_v": "सम्भल"
+		}, {
+			"id": "111",
+			"show": "Gunnaur",
+			"show_v": "गुन्नौर"
+		}]
+	}]
+}
