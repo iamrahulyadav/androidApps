@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:background = "@color/black"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.mehndidesign.offline2018.FullViewActivity"
+    tools:showIn="@layout/app_bar_full_view">
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/fullViewpager"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" />
+
+    <include
+        android:id="@+id/include"
+        layout="@layout/content_bottom_sheet" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:clickable="true"
+        app:layout_anchor="@+id/include"
+        app:layout_anchorGravity="top|end"
+        app:srcCompat="@drawable/ic_expand_less_black_24dp"
+        tools:ignore="VectorDrawableCompat" />
+
+</android.support.design.widget.CoordinatorLayout>

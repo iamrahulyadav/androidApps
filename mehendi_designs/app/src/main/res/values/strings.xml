@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Mehndi designs 2018 (Offline)</string>
+
+    <!--test ads-->
+    <string name="admob_app_id">ca-app-pub-8534176219398220~1081832403</string>
+    <string name="ad_unit_id">ca-app-pub-4445981284747506/6783416261</string>
+    <!--<string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>-->
+    <string name="banner_ad_unit_id">ca-app-pub-8534176219398220/2542802472</string>
+    <string name="interstitial_ad">ca-app-pub-8534176219398220/4933038389</string>
+    <!--<string name="interstitial_ad">ca-app-pub-8534176219398220/4977510072</string>-->
+    <!--<string name="ad_unit_id">ca-app-pub-3940256099942544/8135179316</string>-->
+
+
+    <string name="viewall">viewall</string>
+    <string name="explore_mehndi_designs">Explore Mehndi Designs</string>
+    <string name="latest_designs_for_you">Latest Designs For You</string>
+    <string name="bridal_mehndi_designs">Bridal Mehndi Designs</string>
+    <string-array name="ratings_array">
+        <item>Do you find this app useful? Please support us by giving us 5 star on Playstore!</item>
+        <item>Got accurate information? Please support us by giving us 5 star on Playstore!</item>
+        <item>Our app is Easy to use? Please support us by giving us 5 star on Playstore!</item>
+        <item>Do you think our app is Informative? Please support us by giving us 5 star on Playstore!</item>
+        <item>Do you find our app is providing Good Info? Please support us by giving us 5 star on Playstore!</item>
+    </string-array>
+    <string name="title_activity_navigation_main">NavigationMain</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_full_view">FullViewActivity</string>
+    <string name="title_activity_grid_view">GridViewActivity</string>
+    <string name="gol_tikki_designs">Gol Tikki Designs</string>
+    <string name="designs_for_men">Designs For Men</string>
+    <string name="glitter_designs">Glitter Designs</string>
+    <string name="bridal_designs">Bridal Designs</string>
+    <string name="home">Home</string>
+    <string name="tattos">Tattoos</string>
+    <string name="indian">Indian</string>
+    <string name="pakistani">Pakistani</string>
+    <string name="arabic">Arabic</string>
+    <string name="indo_arabic">Indo Arabic</string>
+    <string name="moracann">Moracann</string>
+    <string name="glitter_mehndi_designs">Glitter Mehndi Designs</string>
+    <string name="only_on_fingers">Only on Fingers</string>
+    <string name="desings_on_nails">Desings On Nails</string>
+    <string name="your_favorite">Your Favorite</string>
+
+</resources>

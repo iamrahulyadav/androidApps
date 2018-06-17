@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.mehndidesign.offline2018.NavigationMain"
+    tools:showIn="@layout/app_bar_navigation_main">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true">
+
+        <RelativeLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <android.support.v7.widget.CardView
+                android:layout_margin="4dp"
+                android:id="@+id/explore_mehndi_card_view"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <android.support.v7.widget.RecyclerView
+                    android:id="@+id/explore_mehndi_recycler_view"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_marginTop="4dp"
+                    />
+            </android.support.v7.widget.CardView>
+
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/latest_designs_card_view"
+                android:layout_margin="4dp"
+                android:layout_below="@+id/explore_mehndi_card_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <RelativeLayout
+                        android:id="@+id/latest_relative_layout"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8dp"
+                        android:layout_marginBottom="2dp"
+                        android:orientation="horizontal">
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="4dp"
+                            android:text="@string/latest_designs_for_you"
+                            android:textColor="@color/black"
+                            android:layout_marginLeft="10dp"
+                            android:layout_marginStart="10dp"
+                            android:layout_marginBottom="4dp"
+                            android:textSize="20sp"
+                            />
+
+                        <TextView
+                            android:id="@+id/more_latest_designs"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentEnd="true"
+                            android:layout_alignParentRight="true"
+                            android:layout_centerVertical="true"
+                            android:layout_marginEnd="18dp"
+                            android:layout_marginRight="18dp"
+                            android:textSize="18sp"
+                            android:textColor="@color/colorPrimary"
+                            android:text="More" />
+                    </RelativeLayout>
+                    <RelativeLayout
+                        android:id="@+id/latest_designs_relative_layout_recycler"
+                        android:layout_marginRight="4dp"
+                        android:layout_marginLeft="4dp"
+                        android:layout_marginBottom="4dp"
+                        android:layout_below="@+id/latest_relative_layout"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <android.support.v7.widget.RecyclerView
+                            android:id="@+id/latest_designs_recycler_view"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal"
+                            android:layout_alignParentLeft="true"
+                            android:layout_alignParentStart="true"
+                            android:layout_marginTop="4dp"
+                            />
+                    </RelativeLayout>
+                </RelativeLayout>
+
+
+            </android.support.v7.widget.CardView>
+
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/bridal_designs_card_view"
+                android:layout_margin="4dp"
+                android:layout_below="@+id/latest_designs_card_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <RelativeLayout
+                        android:id="@+id/bridal_relative_layout"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8dp"
+                        android:layout_marginBottom="2dp"
+                        android:orientation="horizontal">
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="4dp"
+                            android:text="@string/bridal_mehndi_designs"
+                            android:textColor="@color/black"
+                            android:layout_marginLeft="10dp"
+                            android:layout_marginStart="10dp"
+                            android:layout_marginBottom="4dp"
+                            android:textSize="20sp"
+                            />
+
+                        <TextView
+                            android:id="@+id/more_bridal_designs"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentEnd="true"
+                            android:layout_alignParentRight="true"
+                            android:layout_centerVertical="true"
+                            android:layout_marginEnd="18dp"
+                            android:layout_marginRight="18dp"
+                            android:textSize="18sp"
+                            android:textColor="@color/colorPrimary"
+                            android:text="More" />
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:id="@+id/bridal_designs_relative_layout_recycler"
+                        android:layout_marginRight="4dp"
+                        android:layout_marginLeft="4dp"
+                        android:layout_marginBottom="4dp"
+                        android:layout_below="@+id/bridal_relative_layout"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <android.support.v7.widget.RecyclerView
+                            android:id="@+id/bridal_designs_recycler_view"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal"
+                            android:layout_alignParentLeft="true"
+                            android:layout_alignParentStart="true"
+                            android:layout_marginTop="4dp"
+                            />
+                    </RelativeLayout>
+                </RelativeLayout>
+
+
+            </android.support.v7.widget.CardView>
+
+
+            <!--<RelativeLayout-->
+                <!--android:id="@+id/bridal_relative_layout"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_below="@+id/latest_designs_card_view"-->
+                <!--android:layout_marginTop="8dp"-->
+                <!--android:layout_marginBottom="2dp"-->
+                <!--android:orientation="horizontal">-->
+                <!--<TextView-->
+                    <!--android:id="@+id/bridal_relative_layout_tv"-->
+                    <!--android:layout_width="wrap_content"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:layout_marginTop="4dp"-->
+                    <!--android:text="@string/bridal_mehndi_designs"-->
+                    <!--android:textColor="@color/black"-->
+                    <!--android:layout_marginLeft="10dp"-->
+                    <!--android:layout_marginStart="10dp"-->
+                    <!--android:layout_marginBottom="4dp"-->
+                    <!--android:textSize="20sp"-->
+                    <!--/>-->
+
+                <!--<TextView-->
+                    <!--android:id="@+id/more_bridal_designs"-->
+                    <!--android:layout_width="wrap_content"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:layout_alignParentEnd="true"-->
+                    <!--android:layout_alignParentRight="true"-->
+                    <!--android:layout_centerVertical="true"-->
+                    <!--android:layout_marginEnd="18dp"-->
+                    <!--android:layout_marginRight="18dp"-->
+                    <!--android:textSize="18sp"-->
+                    <!--android:textColor="@color/colorPrimary"-->
+                    <!--android:text="More" />-->
+            <!--</RelativeLayout>-->
+
+            <!--<android.support.v7.widget.RecyclerView-->
+                <!--android:id="@+id/bridal_designs_recycler_view"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:orientation="horizontal"-->
+                <!--android:layout_alignParentLeft="true"-->
+                <!--android:layout_alignParentStart="true"-->
+                <!--android:layout_below="@+id/bridal_relative_layout"-->
+                <!--android:layout_marginTop="4dp"-->
+                <!--/>-->
+
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/glitter_designs_card_view"
+                android:layout_margin="4dp"
+                android:layout_below="@+id/bridal_designs_card_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <RelativeLayout
+                        android:id="@+id/glitter_relative_layout"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8dp"
+                        android:layout_marginBottom="2dp"
+                        android:orientation="horizontal">
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="4dp"
+                            android:text="@string/glitter_mehndi_designs"
+                            android:textColor="@color/black"
+                            android:layout_marginLeft="10dp"
+                            android:layout_marginStart="10dp"
+                            android:layout_marginBottom="4dp"
+                            android:textSize="20sp"
+                            />
+
+                        <TextView
+                            android:id="@+id/more_glitter_designs"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentEnd="true"
+                            android:layout_alignParentRight="true"
+                            android:layout_centerVertical="true"
+                            android:layout_marginEnd="18dp"
+                            android:layout_marginRight="18dp"
+                            android:textSize="18sp"
+                            android:textColor="@color/colorPrimary"
+                            android:text="More" />
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:id="@+id/glitter_designs_relative_layout_recycler"
+                        android:layout_below="@+id/glitter_relative_layout"
+                        android:layout_marginRight="4dp"
+                        android:layout_marginLeft="4dp"
+                        android:layout_marginBottom="4dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <android.support.v7.widget.RecyclerView
+                            android:id="@+id/glitter_designs_recycler_view"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal"
+                            android:layout_alignParentLeft="true"
+                            android:layout_alignParentStart="true"
+                            android:layout_marginTop="4dp"
+                            />
+                    </RelativeLayout>
+                </RelativeLayout>
+
+
+            </android.support.v7.widget.CardView>
+
+            <!--<RelativeLayout-->
+                <!--android:id="@+id/glitter_relative_layout"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_below="@+id/bridal_designs_card_view"-->
+                <!--android:layout_marginTop="8dp"-->
+                <!--android:layout_marginBottom="2dp"-->
+                <!--android:orientation="horizontal">-->
+                <!--<TextView-->
+                    <!--android:id="@+id/glitter_relative_layout_tv"-->
+                    <!--android:layout_width="wrap_content"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:layout_marginTop="4dp"-->
+                    <!--android:text="@string/glitter_mehndi_designs"-->
+                    <!--android:textColor="@color/black"-->
+                    <!--android:layout_marginLeft="10dp"-->
+                    <!--android:layout_marginStart="10dp"-->
+                    <!--android:layout_marginBottom="4dp"-->
+                    <!--android:textSize="20sp"-->
+                    <!--/>-->
+
+                <!--<TextView-->
+                    <!--android:id="@+id/more_glitter_designs"-->
+                    <!--android:layout_width="wrap_content"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:layout_alignParentEnd="true"-->
+                    <!--android:layout_alignParentRight="true"-->
+                    <!--android:layout_centerVertical="true"-->
+                    <!--android:layout_marginEnd="18dp"-->
+                    <!--android:layout_marginRight="18dp"-->
+                    <!--android:textSize="18sp"-->
+                    <!--android:textColor="@color/colorPrimary"-->
+                    <!--android:text="More" />-->
+            <!--</RelativeLayout>-->
+
+            <!--<android.support.v7.widget.RecyclerView-->
+                <!--android:id="@+id/glitter_designs_recycler_view"-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:orientation="horizontal"-->
+                <!--android:layout_alignParentLeft="true"-->
+                <!--android:layout_alignParentStart="true"-->
+                <!--android:layout_below="@+id/glitter_relative_layout"-->
+                <!--android:layout_marginTop="4dp"-->
+                <!--/>-->
+
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/goltikka_CardView"
+                android:layout_margin="4dp"
+                android:layout_below="@+id/glitter_designs_card_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <RelativeLayout
+                        android:id="@+id/layout_gol_tikki_designs"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8dp"
+                        android:layout_marginBottom="2dp"
+                        android:orientation="horizontal">
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="4dp"
+                            android:text="Gol Tikki Designs"
+                            android:textColor="@color/black"
+                            android:layout_marginLeft="10dp"
+                            android:layout_marginStart="10dp"
+                            android:layout_marginBottom="4dp"
+                            android:textSize="20sp"
+                            />
+
+                        <TextView
+                            android:id="@+id/more_for_goltikka"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentEnd="true"
+                            android:layout_alignParentRight="true"
+                            android:layout_centerVertical="true"
+                            android:layout_marginEnd="18dp"
+                            android:layout_marginRight="18dp"
+                            android:textSize="18sp"
+                            android:textColor="@color/colorPrimary"
+                            android:text="More" />
+                    </RelativeLayout>
+                    <RelativeLayout
+                        android:layout_below="@+id/layout_gol_tikki_designs"
+                        android:id="@+id/relativelayout_recyclerr"
+                        android:layout_marginRight="4dp"
+                        android:layout_marginLeft="4dp"
+                        android:layout_marginBottom="4dp"
+                        android:layout_height="wrap_content"
+                        android:layout_width="match_parent">
+
+                        <android.support.v7.widget.RecyclerView
+                            android:id="@+id/goltikka_recycler_view"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal"
+                            android:layout_alignParentLeft="true"
+                            android:layout_alignParentStart="true"
+                            android:layout_marginTop="4dp"
+                            />
+                    </RelativeLayout>
+                </RelativeLayout>
+
+
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/nail_designs_cardView"
+                android:layout_margin="4dp"
+                android:layout_below="@+id/goltikka_CardView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <RelativeLayout
+                        android:id="@+id/layout_nail_designs"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8dp"
+                        android:layout_marginBottom="2dp"
+                        android:orientation="horizontal">
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="4dp"
+                            android:text="@string/desings_on_nails"
+                            android:textColor="@color/black"
+                            android:layout_marginLeft="10dp"
+                            android:layout_marginStart="10dp"
+                            android:layout_marginBottom="4dp"
+                            android:textSize="20sp"
+                            />
+
+                        <TextView
+                            android:id="@+id/more_for_nail_designs"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentEnd="true"
+                            android:layout_alignParentRight="true"
+                            android:layout_centerVertical="true"
+                            android:layout_marginEnd="18dp"
+                            android:layout_marginRight="18dp"
+                            android:textSize="18sp"
+                            android:textColor="@color/colorPrimary"
+                            android:text="More" />
+                    </RelativeLayout>
+                    <RelativeLayout
+                        android:layout_below="@+id/layout_nail_designs"
+                        android:id="@+id/relativelayout_recyclerr_nail_designs"
+                        android:layout_marginRight="4dp"
+                        android:layout_marginLeft="4dp"
+                        android:layout_marginBottom="4dp"
+                        android:layout_height="wrap_content"
+                        android:layout_width="match_parent">
+
+                        <android.support.v7.widget.RecyclerView
+                            android:id="@+id/nail_designs_recycler_view"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal"
+                            android:layout_alignParentLeft="true"
+                            android:layout_alignParentStart="true"
+                            android:layout_marginTop="4dp"
+                            />
+                    </RelativeLayout>
+                </RelativeLayout>
+
+
+            </android.support.v7.widget.CardView>
+            <android.support.v7.widget.CardView
+                android:id="@+id/only_on_fingers"
+                android:layout_margin="4dp"
+                android:layout_below="@+id/nail_designs_cardView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <RelativeLayout
+                        android:id="@+id/layout_only_on_fingers_designs"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8dp"
+                        android:layout_marginBottom="2dp"
+                        android:orientation="horizontal">
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="4dp"
+                            android:text="Only Finger Designs"
+                            android:textColor="@color/black"
+                            android:layout_marginLeft="10dp"
+                            android:layout_marginStart="10dp"
+                            android:layout_marginBottom="4dp"
+                            android:textSize="20sp"
+                            />
+
+                        <TextView
+                            android:id="@+id/more_for_only_on_fingers_designs"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentEnd="true"
+                            android:layout_alignParentRight="true"
+                            android:layout_centerVertical="true"
+                            android:layout_marginEnd="18dp"
+                            android:layout_marginRight="18dp"
+                            android:textSize="18sp"
+                            android:textColor="@color/colorPrimary"
+                            android:text="More" />
+                    </RelativeLayout>
+                    <RelativeLayout
+                        android:layout_below="@+id/layout_only_on_fingers_designs"
+                        android:id="@+id/relativelayout_recyclerr_only_on_fingers_designs"
+                        android:layout_marginRight="4dp"
+                        android:layout_marginLeft="4dp"
+                        android:layout_marginBottom="4dp"
+                        android:layout_height="wrap_content"
+                        android:layout_width="match_parent">
+
+                        <android.support.v7.widget.RecyclerView
+                            android:id="@+id/fingers_designs_recycler_view"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal"
+                            android:layout_alignParentLeft="true"
+                            android:layout_alignParentStart="true"
+                            android:layout_marginTop="4dp"
+                            />
+                    </RelativeLayout>
+                </RelativeLayout>
+
+
+            </android.support.v7.widget.CardView>
+            <android.support.v7.widget.CardView
+                android:id="@+id/tatoos"
+                android:layout_margin="4dp"
+                android:layout_below="@+id/only_on_fingers"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <RelativeLayout
+                        android:id="@+id/layout_tatoos_designs"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="8dp"
+                        android:layout_marginBottom="2dp"
+                        android:orientation="horizontal">
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="4dp"
+                            android:text="@string/tattos"
+                            android:textColor="@color/black"
+                            android:layout_marginLeft="10dp"
+                            android:layout_marginStart="10dp"
+                            android:layout_marginBottom="4dp"
+                            android:textSize="20sp"
+                            />
+
+                        <TextView
+                            android:id="@+id/more_tattos_designs"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentEnd="true"
+                            android:layout_alignParentRight="true"
+                            android:layout_centerVertical="true"
+                            android:layout_marginEnd="18dp"
+                            android:layout_marginRight="18dp"
+                            android:textSize="18sp"
+                            android:textColor="@color/colorPrimary"
+                            android:text="More" />
+                    </RelativeLayout>
+                    <RelativeLayout
+                        android:layout_below="@+id/layout_tatoos_designs"
+                        android:id="@+id/relativelayout_recyclerr_tattos_designs"
+                        android:layout_marginRight="4dp"
+                        android:layout_marginLeft="4dp"
+                        android:layout_marginBottom="4dp"
+                        android:layout_height="wrap_content"
+                        android:layout_width="match_parent">
+
+                        <android.support.v7.widget.RecyclerView
+                            android:id="@+id/tattos_designs_recycler_view"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="horizontal"
+                            android:layout_alignParentLeft="true"
+                            android:layout_alignParentStart="true"
+                            android:layout_marginTop="4dp"
+                            />
+                    </RelativeLayout>
+                </RelativeLayout>
+
+
+            </android.support.v7.widget.CardView>
+        </RelativeLayout>
+
+
+
+    </ScrollView>
+</RelativeLayout>

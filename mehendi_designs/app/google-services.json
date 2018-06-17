@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "372187295",
+    "firebase_url": "https://mehndi-designs-e4f5b.firebaseio.com",
+    "project_id": "mehndi-designs-e4f5b",
+    "storage_bucket": "mehndi-designs-e4f5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372187295:android:1f053acc0b75c2b4",
+        "android_client_info": {
+          "package_name": "com.mehndidesign.offline2018"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372187295-387479gpllve2fnq5segs8uvk34nfe17.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "372187295-387479gpllve2fnq5segs8uvk34nfe17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWTMXCkUoLfOF-D64e3V9QG_1NxLCvBzo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

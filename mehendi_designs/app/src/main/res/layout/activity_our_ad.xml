@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#223344"
+    android:padding="5dp"
+    tools:context="com.mehndidesign.offline2018.OurAdActivity">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/ad_img"
+        android:scaleType="fitXY"
+        />
+    <!--<TextView-->
+        <!--android:id="@+id/loading"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_centerInParent="true"-->
+        <!--android:textColor="#c6c6c6"-->
+        <!--android:textStyle="bold"-->
+        <!--android:textSize="22sp"-->
+        <!--android:textAlignment="center"-->
+        <!--android:text="Loading..."/>-->
+
+
+    <ImageView
+            android:id="@+id/close"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:tint="@color/colorAccent"
+            android:background="#9ec6c6c6"
+            android:src="@android:drawable/ic_menu_close_clear_cancel"
+            android:layout_alignParentRight="true" />
+
+
+
+
+
+
+
+
+
+
+
+</RelativeLayout>

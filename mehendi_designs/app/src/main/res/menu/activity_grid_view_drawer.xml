@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home_grid"
+            android:title="@string/home" />
+        <item
+            android:id="@+id/nav_bridal_grid"
+            android:title="@string/bridal_designs" />
+        <item
+            android:id="@+id/nav_glitter_grid"
+            android:title="@string/glitter_designs" />
+
+        <!--<item-->
+            <!--android:id="@+id/nav_men_designs_grid"-->
+            <!--android:icon="@drawable/ic_menu_manage"-->
+            <!--android:title="@string/designs_for_men" />-->
+
+        <item
+            android:id="@+id/nav_gol_tikka_grid"
+            android:title="@string/gol_tikki_designs" />
+
+        <item
+            android:id="@+id/nav_on_nails_grid"
+            android:title="@string/desings_on_nails" />
+
+        <item
+            android:id="@+id/nav_on_fingers_grid"
+            android:title="@string/only_on_fingers" />
+
+        <item
+            android:id="@+id/nav_tatoos_grid"
+            android:title="@string/tattos" />
+
+        <item
+            android:id="@+id/nav_fav_list_grid"
+            android:title="@string/your_favorite" />
+    </group>
+
+
+    <item android:title="Categories">
+        <menu>
+            <item
+                android:id="@+id/nav_indian_grid"
+                android:title="@string/indian" />
+            <item
+                android:id="@+id/nav_pakistani_grid"
+                android:title="@string/pakistani" />
+
+            <item
+                android:id="@+id/nav_arabic_grid"
+                android:title="@string/arabic" />
+
+            <!--<item-->
+                <!--android:id="@+id/nav_indo_arabic_grid"-->
+                <!--android:icon="@drawable/ic_menu_send"-->
+                <!--android:title="@string/indo_arabic" />-->
+
+            <item
+                android:id="@+id/nav_moracann_grid"
+                android:title="@string/moracann" />
+        </menu>
+    </item>
+
+    <!--<item android:title="Communicate">-->
+        <!--<menu>-->
+            <!--<item-->
+                <!--android:id="@+id/nav_share_grid"-->
+                <!--android:icon="@drawable/ic_menu_share"-->
+                <!--android:title="Share" />-->
+            <!--<item-->
+                <!--android:id="@+id/nav_send_grid"-->
+                <!--android:icon="@drawable/ic_menu_send"-->
+                <!--android:title="Send" />-->
+        <!--</menu>-->
+    <!--</item>-->
+
+</menu>
